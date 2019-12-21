@@ -341,8 +341,8 @@ can wield two-handed weapons as one-handed weapons. You ignore the Two-Handed
 tag.
 
 **Quick Draw** [••••]: You have the lightning draw of a deadly duelist. Whenever
-you flurry the [draw/ready weapon action](/systems/combat/combat-actions#draw-ready-weapon),
-the flurry penalty is reduced to -1 instead of -3.
+you flurry the draw/ready weapon action, the flurry penalty is reduced to -1
+instead of -3.
 
 **Savant** [•]: You are a mathematical wunderkind. You can do mental math almost
 instantly, even the complicated math that stymies merchants and scholars.
