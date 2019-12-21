@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 20 Questions
-permalink: /character-creation/questions
+permalink: /character-creation/questions/
 parent: Character Creation
 nav_order: 1
 ---
@@ -305,7 +305,8 @@ conceive a child.
 
 **Define** at least one Intimacy related to a family member. Also **consider**
 if you have a spouse and/or any children -- make a note of them in the Notes
-section of your character sheet.
+section of your character sheet. Perhaps they can be represented by a Merit
+in the game -- your spouse may be an ally, for example.
 
 ## Section IV: History
 
@@ -366,6 +367,9 @@ from the flaws to model addiction, etc. Your flaw is ideally something as
 broad as "misanthropy" or "hubris," so that it can be relevant in different
 ways at different times.
 
+**Define** some trinket or item you have that reflects your flaw -- a gambler
+may carry dice, hubris may be indicated by your collection of trophies, etc.
+
 ### 15. What do people notice first when they meet you?
 
 What do people notice first when they meet you? This may be something like your
@@ -378,7 +382,11 @@ for your House, people may notice that about you, and your reputation will
 precede you when meeting new people.
 
 **Consider** what it is that stands out about you, and note it on your character
-sheet in the Notes section.
+sheet in the Notes section. It's a good detail to throw in if you are trying to
+make a really impressive first impression.
+
+**Define** one distinctive aesthetic item that is associated with you -- a
+unique coat, a special necklace, a turquoise comb, etc.
 
 ### 16. How do you react to stressful situations?
 
