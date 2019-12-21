@@ -5,7 +5,7 @@ email: zacharymoring@gmail.com
 description:
   Documents and homebrew for _Venture_, an Exalted 3rd Edition Dragon-Blooded
   game.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/venture" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ElectronSutra
 
