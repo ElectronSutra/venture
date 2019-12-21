@@ -3,19 +3,19 @@
   "0": {
     "title": "",
     "content": "404 . Page not found :( . The requested page could not be found. .",
-    "url": "http://localhost:4000/404.html",
+    "url": "http://localhost:4000/venture/404.html",
     "relUrl": "/404.html"
   }
   ,"1": {
     "title": "About",
     "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll .",
-    "url": "http://localhost:4000/about/",
+    "url": "http://localhost:4000/venture/about/",
     "relUrl": "/about/"
   }
   ,"2": {
-    "title": "",
-    "content": "",
-    "url": "http://localhost:4000/",
+    "title": "Home",
+    "content": "Ten Thousand Dragons Rule the World . The Dragon-Blooded are the divine Princes of the Earth, heroes of legend who distill the might of the Elemental Dragons in their blood. They rule the Realm, the mighty empire at the world’s heart that wraps around Creation like a hungry snake. With the power of the world’s greatest empire at their back, the Dragon-Blooded stand astride Creation like a colossus. . Welcome home… . Resources . Lot Casting Atemi, the character manager; | .",
+    "url": "http://localhost:4000/venture/",
     "relUrl": "/"
   }
   
