@@ -9,6 +9,8 @@ nav_order: 1
 
 # House Cathak
 
+![Cathak Mon](../../../assets/house_mons/cathak.png)
+
 In the city of Myion on the Isle's southwest coast, red-haired Cathak soldiers
 march in lockstep through the stoney alleyways and flying buttresses. In the
 Fortress of the Greatest General overlooking the city, a commander shouts orders
