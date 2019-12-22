@@ -67,12 +67,6 @@ each Prince of the Earth feels a particular element more strongly than her
 sisters. This element is your _Aspect_; it reflects your nature and informs your
 legend.
 
-Aside from House Nellens, each Great House has a dominant Aspect that manifests
-more often than others. About half of all of a House's scions will manifest the
-dominant element; going against your House's Aspect is not so rare as to be
-noteworthy. You are free to pick whichever Aspect you like, regardless of your
-House.
-
 Choose which of the five elements you resonate with the most:
 
 - [**Air**.](/the-realm/dragon-blooded/elements#air/) Air is subtle and clever,
@@ -132,30 +126,32 @@ able to attend one of the Realm's great secondary schools. You almost certainly
 had very little say in _which one_; your family probably arranged it as soon as
 you were born.
 
-However you, as a player, get to **choose**. Congratulations! Pick one of the
-following options for where you attended your secondary school:
+Choose one of the following options for where you attended your secondary
+school:
 
-- **The Cloister of Wisdom**. You were sent to the Cloister of Wisdom, a
-  monastery and school all at once. While there, you learned the virtues of
-  clarity, tranquility, and purpose. About half your classmates went on to
-  become monks.
-- **The Heptagram**. You were sent to the distant freezing Isle of Voices to
-  study at the Heptagram, _the_ premier academy of sorcery and mysticism. You
-  were taught the values of wisdom, fortitude, and drive, as well as set down
-  the lonely path of the sorcerer.
-- **The House of Bells**. You were sent to the House of Bells; there is no
-  finer military academy anywhere in Creation! You were drilled in the virtues
-  of courage, strength, and discipline. You served for a time in the Legions or
-  Navy as a commissioned officer and probably have plenty of war stories.
-- **The Spiral Academy**. The Academy teaches one rule, and well: You cannot
-  rule without understanding what you rule. At the Academy, you were instructed
-  in the virtues of knowledge, subtlety, and precision. You probably entered the
-  bureaucracy,. and likely a handful of your schoolmates went on to be spies.
-- **Pasiap's Stair**. Uh oh, you made a big fucky; or, you were really brave.
-  The Stair is a military academy, but it's not like the comfortable life at
-  the House of Bells; no no, the Stair is an unforgiving march with no comfort
-  and no mercy, only glory. You are well-acquainted with your many foreign
-  schoolmates.
+- [**The Cloister of Wisdom**](/the-realm/schools#the-cloister-of-wisdom).
+  You were sent to the Cloister of Wisdom, a monastery and school all at once.
+  While there, you learned the virtues of clarity, tranquility, and purpose.
+  About half your classmates went on to become monks.
+- [**The Heptagram**](/the-realm/schools#the-heptagram). You were sent to the
+  distant freezing Isle of Voices to study at the Heptagram, _the_ premier
+  academy of sorcery and mysticism. You were taught the values of wisdom,
+  fortitude, and drive, and set down the lonely path of the sorcerer.
+- [**The House of Bells**](/the-realm/schools#the-house-of-bells). You were
+  sent to the House of Bells; there is no finer military academy anywhere in
+  Creation! You were drilled in the virtues of courage, strength, and
+  discipline. You served for a time in the Legions or Navy as a commissioned
+  officer and probably have plenty of war stories.
+- [**The Spiral Academy**](/the-realm/schools#the-spiral-academy). The Academy
+  teaches one rule, and well: You cannot rule without understanding what you
+  rule. At the Academy, you were instructed in the virtues of knowledge,
+  subtlety, and precision. You probably entered the bureaucracy,. and
+  likely a handful of your schoolmates went on to be spies.
+- [**Pasiap's Stair**](/the-realm/schools#pasiaps-stair). Uh oh, you made a big
+  fucky; or, you were really brave. The Stair is a military academy, but it's
+  not like the comfortable life at the House of Bells; no no, the Stair is an
+  unforgiving march with no comfort and no mercy, only glory. You are
+  well-acquainted with your many foreign schoolmates.
 
 **Consider** how you stood out at school; were you especially studious, or
 maybe unusually good at dueling? Pick 5 Abilities that you excel at; they
@@ -217,33 +213,18 @@ taken on a duty from your House, and owe it to your family?
 to take on:
 
 - You are a minister. You have joined the bureaucracy and are part of the
-  execution of government. Maybe you work for the Treasury and travel the Isle
-  to collect delinquent taxes. Maybe you work for the Infallible Conveyors to
-  carry post to far-flung and distant villages. Etc. You owe a duty to "the
-  government."
+  execution of government. You owe a duty to "the Realm."
 - You are a Legionnaire. You are a career soldier, and have served overseas in
   enforcing the will of the Empress. You now take up arms on the Isle, hunting
   down bandits and subduing rebellions. You owe a duty to "the Legions."
-- You are a merchant. You have become a respected trader, buying here and
-  selling there to accumulate jade for yourself and your House. You owe a duty
-  to "yourself."
 - You are a monk. You have eschewed personal wealth and even your own name, and
-  devoted yourself to the spiritual. You travel as a preacher and officiant, and
-  sometimes as a ringing strike to the ear to get the wicked back in line. You
-  owe a duty to "the Immaculate Order."
-- You are a senator. You have been nominated by your House to take up a position
-  in the Upper Chamber of the Deliberative, taking part in writing the laws of
-  the Realm. You owe a duty to "the Realm."
+  devoted yourself to the spiritual. You owe a duty to "the Immaculate Order."
 - You are a spy. Your family has given you a cover -- something harmless, but
   that lets you get around. You gather up secrets and feed them back to your
   House, or to the highest bidder. You owe a duty to "your House."
 
-And so on and so forth.
-
-Your duty should be both active and flexible. "Active" means that it is
-something that you _do_, and that you can pursue. "Flexible" means that it is
-something you can pursue in various times and places -- it is not confined to
-something too specific to be relevant in various parts of our story.
+And so on and so forth. Whatever you choose, your duty should be both active and
+flexible.
 
 **Define** a Tie related to the person or organization that you owe your duty.
 
@@ -253,8 +234,8 @@ One of those two should be at least a Major Intimacy.
 
 ### 8. What do you deeply desire, and how does it conflict with your duty?
 
-The Princes of the Earth are greedy and sneaky bastards, to a one. Oh sure, some
-of them become monks, and some of them are good people, but all of them _want_
+The Princes of the Earth are greedy bastards, to a one. Oh sure, some of them
+become monks, and some of them are good people, but all of them _want_
 something. They all have a _goal_.
 
 Your goal is something that you will fight for that is not your duty. In fact,
@@ -272,41 +253,18 @@ As with your duty, a good goal is both active and flexible.
 ### 9. What is your relationship to your family?
 
 You already have an Intimacy related to your House. For this question, you
-should think more specifically about your _family_.
+should think more about your specific _family_.
 
-There's a saying in the Realm: "A good mother raises her child to be strong; a
-weak mother raises her child to be happy." That in itself about sums up how
-parenting works in the Realm: affection from your parents is neither expected
-nor derided, as long as you grow up to be a proper Prince of the Earth.
+Most parents in the Realm are distant. Loving your child is neither expected nor
+looked down upon; but raising a weak one is. Were your parents close or distant?
+Did you have a favored sibling or beloved nanny? Do you resent your family, or
+do you love them? Both?
 
-Were your parents close or distant? Did you have a favored sibling or nanny? Was
-there a house slave that you were personally close to? Do you resent your
-family, or do you love them?
+Are you married? Do you have children? Both of these are important expectations
+of Dynastic life.
 
-Another thing to consider is _marriage_. It is absolutely expected in the Realm
-that every Dragon-Blooded -- monks excepted -- will marry. Marriage is almost
-always a primarily political affair, to consolidate the relationships between
-two Houses or two families within the same House. Are you married? If you are,
-what is your relationship to your spouse? If you are not, how have you managed
-to evade your House's matchmaking?
-
-Have you managed to achieve a rare love marriage? Most Dragon-Blooded have
-affairs outside of their marriage; this is accepted and even expected, as long
-as they are discrete. Men face more stigma for affairs, since everyone knows
-that men are irresponsible.
-
-The other burden is _children_. Every Dragon-Blooded -- monks excepted -- is
-expected to produce children about every twenty or thirty years, in order to
-raise more scions for your House. Although the Realm is completely accepting
-of homosexuality, sexual orientation is no excuse for failure to produce kids --
-either you'll grin and bear it and have a kid because love and attraction don't
-factor in to it, or you will be expected to seek sorcerous assistance to
-conceive a child.
-
-**Define** at least one Intimacy related to a family member. Also **consider**
-if you have a spouse and/or any children -- make a note of them in the Notes
-section of your character sheet. Perhaps they can be represented by a Merit
-in the game -- your spouse may be an ally, for example.
+**Define** at least one Intimacy related to a family member. **Consider** if you
+have a spouse or any children -- make note of them on your character sheet.
 
 ## Section IV: History
 
@@ -316,7 +274,7 @@ up to this point.
 ### 10. What advantages have you accumulated in life?
 
 Every character has a suite of [_Merits_](/character-creation/merits), which
-represent their advantages. Check out the Merits section for the complete list.
+represent your advantages. Check out the Merits section for the complete list.
 
 **Distribute** 13 dots of merits however you like. Then, you get 5 more dots
 to distribute among Backing, Command, Contacts, Followers, Influence, Language,
@@ -325,9 +283,8 @@ is a total of 18 points of Merits.
 
 ### 11. What is your greatest accomplishment so far?
 
-What is the thing you have accomplished that you are most proud of? What is the
-thing that others would consider your greatest accomplishment? **Consider** your
-greatest achievement so far, and make a note of it on your character sheet.
+What is the thing you have accomplished that you are most proud of? **Consider**
+your greatest achievement so far, and make a note of it on your character sheet.
 
 This should probably tie in to your Merits -- maybe it involves your Command, or
 you were able to accomplish it because of your Backing.
@@ -342,8 +299,8 @@ sheet. Did you develop an Intimacy because of it? Does it tie in to your Merits?
 
 ## Section V: Personality and Behavior
 
-We're almost there. We've finished with the numbers so far, and now we're on to
-the broad strokes of your personality -- who you are as a person.
+We're almost there. We've finished with the numbers for now, and we're on to the
+broad strokes of your personality -- who you are as a person.
 
 ### 13. What is your character's greatest virtue?
 
@@ -362,10 +319,9 @@ All good legends need a flaw. Greek heroes had their hubris, Sherlock his
 addiction, House his hatred of humans... Scooby and Shaggy their voracious
 hunger.
 
-**Define** an Intimacy that is related to your vice. Or, you may take a **flaw**
-from the flaws to model addiction, etc. Your flaw is ideally something as
-broad as "misanthropy" or "hubris," so that it can be relevant in different
-ways at different times.
+**Define** an Intimacy that is related to your vice. Your flaw is ideally
+something as broad as "misanthropy" or "hubris," so that it can be relevant in
+different ways at different times.
 
 **Define** some trinket or item you have that reflects your flaw -- a gambler
 may carry dice, hubris may be indicated by your collection of trophies, etc.
@@ -395,15 +351,9 @@ times. Displays of passion are few and far between, and reserved for the most
 sensitive or important of topics. Otherwise, you are expected to maintain a
 steely mask of indifference.
 
-Obviously, this expectation of "face" can vary. Few would fault a Cynis for
-being joyous, for example, or fault a man for snapping out in public; after all,
-everyone knows men can't control their emotions. It is still frowned upon, but
-it is clearly more understandable in these cases.
-
 What is your character's tick? No one maintains a perfect facade at all times.
-Even the most stoic Cathak or iron-faced Ledaal will occasionally have an
-outburst or show of her true feelings. Maybe when your character is stressed she
-starts to drum her fingers, or she hums to herself or chews her lip.
+Maybe when your character is stressed she starts to drum her fingers, or she
+hums to herself or chews her lip.
 
 **Consider** what noteworthy physical or verbal tick your character has that
 hints that they are under stress. Consider how it relates to the flaws of your
@@ -413,35 +363,18 @@ mechanism.
 
 ### 17. What biases have you inherited from your society?
 
-You are the privileged scion of a mighty empire, so you've got _some_ kind of
-belief or bias that you have inherited from your society. There's some aspect
-of your personality that you as a player may not agree with, but you as a
-character should consider as part of your actions.
+You are the privileged scion of a mighty empire, so you've got some beliefs and
+biases that you've inherited from your society. You don't need to agree with
+these as a player; maybe this is a chance to play a character you disagree with.
 
-A bias doesn't necessarily have to be _bad_. For example, a monk may have a bias
-against peasants taking control of their own lives because she genuinely
-believes in the divine right of rule of the Dragon-Blooded. However, it's
-generally easier to come up with a negative bias.
+Some common biases from Realm society can be:
 
-Some common biases from Realm society may be:
-
-- Men are too emotional and volatile to be trusted with responsibility;
-- Men are better artists than women;
-- Women are always scheming and backstabbing and plotting their next step up;
-- Women naturally belong in control of house, society, and government;
-- The divine right of rule is established in the holy texts;
-- Cowards must be exiled from society if they abandon their post;
-- Foreigners are exotic and interesting;
-- Foreigners should accept the traits of the Realm when they become a satrapy;
-
-And so forth.
-
-Let me call out something very specifically here: You are not obligated to make
-yourself uncomfortable. You can absolutely skip choosing a bias -- but I'd
-really encourage you to consider it. Your character is the product of an empire,
-and empires are not known for their wholesome nature. Not only can biases be an
-interesting trait to explore, they can also anchor your character to their
-society in surprising and theatrical ways.
+> Men are too emotional to be trusted with power.
+> Men are better aritsts than women.
+> Women are always scheming and plotting their next move.
+> Women naturally belong in control.
+> The divine right of rule is established in the holy texts.
+> Cowards must be exiled from society.
 
 ## Section VI: Appearance and Name
 
@@ -455,15 +388,11 @@ What do you look like? There are plenty of things to consider in answering this
 question. What color is your skin? Your hair? Your eyes? Do you have any scars
 or markings? Are you disabled in some visible way? How do you wear your hair?
 
-Most people on the Blessed Isle are Wàn, the ethnic group from the area around
-the Imperial City. The Empress herself is Wàn. The Wàn tend to be pale and
-slender, with large angular eyes and very prominent epicanthic folds; they look
-like East Asian people but with red or brown hair. Dozens of other ethnic groups
-native to the Isle have been absorbed by the Realm, and their traits still run
-strong outside the big cosmopolitan cities.
+The dominant ethnic group on the Blessed Isle is the Wàn. They strongly
+resemble Han Chinese people.
 
-Creation embraces an almost anime aesthetic when it comes to your hair and eyes;
-nearly every color is natural somewhere. Embrace your weird looks!
+Creation embraces an anime aesthetic when it comes to your hair and eyes; nearly
+every color is natural somewhere. Embrace your weird looks!
 
 In the section on [clothes](/gear/clothing/), you can read more about what
 fashions are prominent on the Isle.
@@ -484,10 +413,8 @@ on theirs. Red Crane is named in honor of Silent Crane, or Banoba in honor of
 Bandasi.
 
 House names always come first, then the family name, then the given name. Most
-Dynasts drop their family name in casual use. Politeness dictates that you
-address a Dynast by their House name with an honorific; in our case, I'll
-usually render that as "Master [House Name]" or "Esteemed [House Name]" or
-some such. Personal names are usually reserved for friends.
+Dynasts drop their family name in casual use. It is rude to address a person by
+their personal name unless you are friends with them.
 
 ## Section VII: The End
 
@@ -505,17 +432,6 @@ three feet from death," referring to the normal length of a sword.
 How will you die? Will you go gloriously on a battlefield? Of old age surronded
 by wealth and family? Drowned at sea in a daring escapade?
 
-Most Dynasts are cremated in a public ceremony attended by friends, family,
-acquaintances, and complete strangers. Dynasts who are particularly devoted to
-one of the Immaculate Dragons may opt for a more exotic funeral.
-
-Pasiapites favor mummification and display in an elaborate mausoleum.
-Danaa'dists are often buried at sea, lowered into the ocean or a lake in a
-solemn ceremony. Devotees of Sextes Jylis are turned into mulch to cultivate
-sprawling guardians. And rarest of all, Melaists sometimes opt for a sky
-burial -- to be flayed on an open plain and have their remains devoured by
-birds.
-
 ## Final Touches
 
 You have now created your character, congratulations! We have just a few last
@@ -525,5 +441,5 @@ You have a pool of 18 Bonus Points to spend however you like according to the
 following table. You may use these bonus points to raise your Abilities up to 5.
 
 | Trait | Cost |
-|:------|:-----|
+| :---- | :--- |
 | ....  | .... |

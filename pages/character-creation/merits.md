@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Merits and Flaws
-permalink: /character-creation/merits-and-flaws/
+permalink: /character-creation/merits/
 parent: Character Creation
 nav_order: 2
 ---
 
-# Merits and Flaws
+# Merits
 
 Merits are special advantages that your character possesses, such as allies,
 relics, and soldiers. Most Merits don't offer a distinct mechanical advantage,
