@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Merits and Flaws
+title: Merits
 permalink: /character-creation/merits/
 parent: Character Creation
 nav_order: 2
