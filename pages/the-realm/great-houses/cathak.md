@@ -9,8 +9,7 @@ nav_order: 1
 
 # House Cathak
 
-<!-- ![Cathak Mon](./../../../assets/house_mons/cathak.png) -->
-<img src='./../../../assets/house_mons/cathak.png' alt='Cathak mon' height='200'/>
+![Cathak Mon](./../../../assets/house_mons/cathak.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 In the city of Myion on the Isle's southwest coast, red-haired Cathak soldiers
 march in lockstep through the stoney alleyways and flying buttresses. In the
