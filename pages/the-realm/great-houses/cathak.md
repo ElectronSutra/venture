@@ -2,6 +2,7 @@
 layout: default
 title: House Cathak
 permalink: /the-realm/great-houses/cathak/
+parent: Great Houses
 nav_exclude: true
 ---
 
