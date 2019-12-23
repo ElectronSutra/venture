@@ -7,6 +7,8 @@ nav_exclude: true
 
 # House Cathak
 
+## The Fire That Marches Against the Tide
+
 ![Cathak Mon](./../../../assets/house_mons/cathak.png){:style="float: left;margin-right: 7px"}
 
 In the city of Myion on the Isle's southwest coast, red-haired Cathak soldiers
