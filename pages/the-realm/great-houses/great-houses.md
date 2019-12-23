@@ -4,7 +4,6 @@ title: Great Houses
 permalink: /the-realm/great-houses/
 parent: The Realm
 nav_order: 1
-has_children: true
 ---
 
 # Great Houses
@@ -32,3 +31,18 @@ a century ago. After a failed attempt to invade the Scavenger Lands, House
 Iselsi attempted to gather support for an assassination. The Empress destroyed
 them when she found out, executing most or forcing them to marry into other
 Houses under new names.
+
+* * *
+
+#### Great Houses
+
+- [House Cathak](/venture/the-realm/great-houses/cathak/)
+- [House Cynis](/venture/the-realm/great-houses/cynis)
+- [House Ledaal](/venture/the-realm/great-houses/ledaal)
+- [House Mnemon](/venture/the-realm/great-houses/mnemon)
+- [House Nellens](/venture/the-realm/great-houses/nellens)
+- [House Peleps](/venture/the-realm/great-houses/peleps)
+- [House Ragara](/venture/the-realm/great-houses/ragara)
+- [House Sesus](/venture/the-realm/great-houses/sesus)
+- [House Tepet](/venture/the-realm/great-houses/tepet)
+- [House V'neef](/venture/the-realm/great-houses/vneef)
