@@ -9,4 +9,6 @@ nav_order: 3
 
 # House Ledaal
 
+![Ledaal Mon](./../../../assets/house_mons/ledaal.png){:style="float: left;margin-right: 7px"}
+
 Words.

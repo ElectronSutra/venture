@@ -9,6 +9,8 @@ nav_order: 2
 
 # House Cynis
 
+![Cynis Mon](./../../../assets/house_mons/cynis.png){:style="float: left;margin-right: 7px"}
+
 The tangled eaves and leafy boughs of the House of Trees rise up above the port
 of Pangu; inside, hookah smoke hangs heavy over the scattered bottle remnants of
 a great party. Cynis scions look out over the city and admire the foreigners
