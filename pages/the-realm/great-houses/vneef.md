@@ -4,7 +4,8 @@ title: House V'neef
 permalink: /the-realm/great-houses/vneef/
 parent: Great Houses
 grand_parent: The Realm
-nav_order: 3
+nav_order: 10
+nav_exclude: true
 ---
 
 # House V'neef

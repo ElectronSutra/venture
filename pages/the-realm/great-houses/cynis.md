@@ -5,6 +5,7 @@ permalink: /the-realm/great-houses/cynis/
 parent: Great Houses
 grand_parent: The Realm
 nav_order: 2
+nav_exclude: true
 ---
 
 # House Cynis

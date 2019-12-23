@@ -4,7 +4,8 @@ title: House Peleps
 permalink: /the-realm/great-houses/peleps/
 parent: Great Houses
 grand_parent: The Realm
-nav_order: 3
+nav_order: 6
+nav_exclude: true
 ---
 
 # House Peleps
