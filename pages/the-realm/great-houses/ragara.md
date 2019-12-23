@@ -2,9 +2,6 @@
 layout: default
 title: House Ragara
 permalink: /the-realm/great-houses/ragara/
-parent: Great Houses
-grand_parent: The Realm
-nav_order: 7
 nav_exclude: true
 ---
 
