@@ -34,26 +34,26 @@ is up to you whether you live up to them or rail against them.
 
 Choose one of the following Great Houses which you were raised in:
 
-- [**House Cathak**.](/the-realm/great-houses/cathak/) A military house famed
-  for brilliant tacticians and powerful Legions.
-- [**House Cynis**.](/the-realm/great-houses/cynis/) A luxurious and decadent
-  House with a reputation for debauchery and intrigue.
-- [**House Ledaal**.](/the-realm/great-houses/ledaal/) A zealous and traditional
-  House devoted to upholding the social order.
-- [**House Mnemon**.](/the-realm/great-houses/mnemon/) A proud, devout House
-  with a deeply-involved guiding hand.
-- [**House Nellens**.](/the-realm/great-houses/nelens/) A scrappy House of
-  mongrels and thin-bloods.
-- [**House Peleps**.](/the-realm/great-houses/peleps/) A beloved House of folk
-  heroes charged with maintaining the Imperial Navy.
-- [**House Ragara**.](/the-realm/great-houses/ragara/) An obscenely wealthy
-  House of bankers and merchants with a finger in every pie.
-- [**House Sesus**.](/the-realm/great-houses/sesus/) A secretive military House
-  with a reputation for spycraft and deviousness.
-- [**House Tepet**.](/the-realm/great-houses/tepet/) An ancient military House
-  with a warrior tradition older than the Realm itself.
-- [**House V'neef**.](/the-realm/great-houses/vneef/) An upstart House, less
-  than 60 years old, trying to bust its way onto the stage.
+- [**House Cathak**.](/venture/the-realm/great-houses/cathak/) A military house
+  famed for brilliant tacticians and powerful Legions.
+- [**House Cynis**.](/venture/the-realm/great-houses/cynis/) A luxurious and
+  decadent House with a reputation for debauchery and intrigue.
+- [**House Ledaal**.](/venture/the-realm/great-houses/ledaal/) A zealous and
+  traditional House devoted to upholding the social order.
+- [**House Mnemon**.](/venture/the-realm/great-houses/mnemon/) A proud, devout
+  House with a deeply-involved guiding hand.
+- [**House Nellens**.](/venture/the-realm/great-houses/nelens/) A scrappy House
+  of mongrels and thin-bloods.
+- [**House Peleps**.](/venture/the-realm/great-houses/peleps/) A beloved House
+  of folk heroes charged with maintaining the Imperial Navy.
+- [**House Ragara**.](/venture/the-realm/great-houses/ragara/) An obscenely
+  wealthy House of bankers and merchants with a finger in every pie.
+- [**House Sesus**.](/venture/the-realm/great-houses/sesus/) A secretive
+  military House with a reputation for spycraft and deviousness.
+- [**House Tepet**.](/venture/the-realm/great-houses/tepet/) An ancient military
+  House with a warrior tradition older than the Realm itself.
+- [**House V'neef**.](/venture/the-realm/great-houses/vneef/) An upstart House,
+  less than 60 years old, trying to bust its way onto the stage.
 
 **Define** at least one Intimacy related to your House. How do you feel about
 your House? About its reputation? Do you live up to your family's expectations,
@@ -69,16 +69,16 @@ legend.
 
 Choose which of the five elements you resonate with the most:
 
-- [**Air**.](/the-realm/dragon-blooded/elements#air/) Air is subtle and clever,
-  but distant and cold.
-- [**Earth**.](/the-realm/dragon-blooded/elements#earth/) Earth is enduring and
-  wise, but conservative and stubborn.
-- [**Fire**.](/the-realm/dragon-blooded/elements#fire/) Fire is hot and
+- [**Air**.](/venture/the-realm/dragon-blooded/elements#air/) Air is subtle and
+  clever, but distant and cold.
+- [**Earth**.](/venture/the-realm/dragon-blooded/elements#earth/) Earth is
+  enduring and wise, but conservative and stubborn.
+- [**Fire**.](/venture/the-realm/dragon-blooded/elements#fire/) Fire is hot and
   powerful, but impulsive and dangerous.
-- [**Water**.](/the-realm/dragon-blooded/elements#water/) Water is flexible and
-  insightful, but duplicitous and malleable.
-- [**Wood**.](/the-realm/dragon-blooded/elements#wood/) Wood is lively and
-  persistent, but hedonistic and venomous.
+- [**Water**.](/venture/the-realm/dragon-blooded/elements#water/) Water is
+  flexible and insightful, but duplicitous and malleable.
+- [**Wood**.](/venture/the-realm/dragon-blooded/elements#wood/) Wood is lively
+  and persistent, but hedonistic and venomous.
 
 Having selected your Aspect, mark your five Aspect Abilities. In Lot Casting
 Atemi, they will be automatically filled-in when you select your Aspect. You
@@ -129,28 +129,28 @@ you were born.
 Choose one of the following options for where you attended your secondary
 school:
 
-- [**The Cloister of Wisdom**](/the-realm/schools#the-cloister-of-wisdom).
+- [**The Cloister of Wisdom**](/venture/the-realm/schools#the-cloister-of-wisdom).
   You were sent to the Cloister of Wisdom, a monastery and school all at once.
   While there, you learned the virtues of clarity, tranquility, and purpose.
   About half your classmates went on to become monks.
-- [**The Heptagram**](/the-realm/schools#the-heptagram). You were sent to the
-  distant freezing Isle of Voices to study at the Heptagram, _the_ premier
-  academy of sorcery and mysticism. You were taught the values of wisdom,
-  fortitude, and drive, and set down the lonely path of the sorcerer.
-- [**The House of Bells**](/the-realm/schools#the-house-of-bells). You were
-  sent to the House of Bells; there is no finer military academy anywhere in
-  Creation! You were drilled in the virtues of courage, strength, and
+- [**The Heptagram**](/venture/the-realm/schools#the-heptagram). You were sent
+  to the distant freezing Isle of Voices to study at the Heptagram, _the_
+  premier academy of sorcery and mysticism. You were taught the values of
+  wisdom, fortitude, and drive, and set down the lonely path of the sorcerer.
+- [**The House of Bells**](/venture/the-realm/schools#the-house-of-bells). You
+  were sent to the House of Bells; there is no finer military academy anywhere
+  in Creation! You were drilled in the virtues of courage, strength, and
   discipline. You served for a time in the Legions or Navy as a commissioned
   officer and probably have plenty of war stories.
-- [**The Spiral Academy**](/the-realm/schools#the-spiral-academy). The Academy
-  teaches one rule, and well: You cannot rule without understanding what you
-  rule. At the Academy, you were instructed in the virtues of knowledge,
-  subtlety, and precision. You probably entered the bureaucracy,. and
-  likely a handful of your schoolmates went on to be spies.
-- [**Pasiap's Stair**](/the-realm/schools#pasiaps-stair). Uh oh, you made a big
-  fucky; or, you were really brave. The Stair is a military academy, but it's
-  not like the comfortable life at the House of Bells; no no, the Stair is an
-  unforgiving march with no comfort and no mercy, only glory. You are
+- [**The Spiral Academy**](/venture/the-realm/schools#the-spiral-academy). The
+  Academy teaches one rule, and well: You cannot rule without understanding what
+  you rule. At the Academy, you were instructed in the virtues of knowledge,
+  subtlety, and precision. You probably entered the bureaucracy,. and likely a
+  handful of your schoolmates went on to be spies.
+- [**Pasiap's Stair**](/venture/the-realm/schools#pasiaps-stair). Uh oh, you
+  made a big fucky; or, you were really brave. The Stair is a military academy,
+  but it's not like the comfortable life at the House of Bells; no no, the Stair
+  is an unforgiving march with no comfort and no mercy, only glory. You are
   well-acquainted with your many foreign schoolmates.
 
 **Consider** how you stood out at school; were you especially studious, or
