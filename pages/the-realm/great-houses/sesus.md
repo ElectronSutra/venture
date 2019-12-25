@@ -7,6 +7,8 @@ nav_exclude: true
 
 # House Sesus
 
+## The Fire That Makes the Shadow Strong
+
 ![Sesus Mon](./../../../assets/house_mons/sesus.png){:style="float: left;margin-right: 7px"}
 
 The _Thousand Correct Actions_ states, "all warfare is based on deception," and
