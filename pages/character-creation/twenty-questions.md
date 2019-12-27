@@ -1,38 +1,29 @@
 ---
 layout: default
 title: 20 Questions
-permalink: /character-creation/questions/
+permalink: /character-creation/questions-2/
 parent: Character Creation
 nav_order: 1
 ---
 
 # 20 Questions
 
-What kind of character do you want to play? What is your history? What are your
-beliefs and traditions?
+Who do you want to be? What do you believe in? What is your legend?
 
-The Realm is a society which is often dissimilar to our own. This process is
-designed to guide you through a series of leading questions to help you build a
-character that fits within the Realm. Your answers will guide you to create a
-character that _belongs_ in Creation.
+The Realm is a society which is often different from our own. The goal of these
+twenty questions is to guide you through a method of character creation that
+will help you produce a character that is intersting, conflicted, and fits well
+into the fictional world of _Exalted_ and the Realm.
 
-## Section I: The Broad Strokes
+## Section I: Broad Strokes
 
-These questions define your character in broad terms. These answers will inform,
-but not restrict, your answers to later questions.
+These two questions define your character in the broadest possible terms.
 
-### 1. What Great House raised you?
+### 1. Which Great House raised you?
 
-The dragons of the Realm mostly belong to the ten Great Houses. Each House is a
-heroic lineage that stretches back to a legendary founder. Your House raised
-you; your world is rooted in the world your House showed you.
-
-When choosing your House, you should choose whichever House you find interesting
-or whichever has a suite of themes you want to engage with. Each House will have
-a different set of expectations and habits that it imposed on you as a child. It
-is up to you whether you live up to them or rail against them.
-
-Choose one of the following Great Houses which you were raised in:
+Each House has a unique background and brings a unique perspective to the table.
+You should choose a House which interests you or which has themes that you want
+to engage with.
 
 - [**House Cathak**.](/venture/the-realm/great-houses/cathak/) A military house
   famed for brilliant tacticians and powerful Legions.
@@ -48,52 +39,54 @@ Choose one of the following Great Houses which you were raised in:
   of folk heroes charged with maintaining the Imperial Navy.
 - [**House Ragara**.](/venture/the-realm/great-houses/ragara/) An obscenely
   wealthy House of bankers and merchants with a finger in every pie.
-- [**House Sesus**.](/venture/the-realm/great-houses/sesus/) A secretive
-  military House with a reputation for spycraft and deviousness.
+- [**House Sesus**.](/venture/the-realm/great-houses/sesus/) A thuggish and
+  secretive House with a bad reputation and a whole lot of spies.
 - [**House Tepet**.](/venture/the-realm/great-houses/tepet/) An ancient military
   House with a warrior tradition older than the Realm itself.
 - [**House V'neef**.](/venture/the-realm/great-houses/vneef/) An upstart House,
-  less than 60 years old, trying to bust its way onto the stage.
+  less than 30 years old, trying to bust its way onto the stage.
 
 **Define** at least one Intimacy related to your House. How do you feel about
-your House? About its reputation? Do you live up to your family's expectations,
-or do you defy their commands? Are you proud of your House? Embarassed? Does
-your House embrace you as a success or alienate you as an embarassment?
+your House? How do you feel about its reputation? Are you proud of your House,
+or embarassed? Does your House embrace you, or alienate you as a failure?
 
 ### 2. What is your Aspect?
 
-Every Dragon-Blood reflects all five elements in their soul. At the same time,
-each Prince of the Earth feels a particular element more strongly than her
-sisters. This element is your _Aspect_; it reflects your nature and informs your
-legend.
+Every Prince of the Earth has an element that they resonate most strongly with.
+What is yours?
 
-Choose which of the five elements you resonate with the most:
+**Choose** one of the five elements to be your Aspect:
 
-- [**Air**.](/venture/the-realm/dragon-blooded/elements#air/) Air is subtle and
-  clever, but distant and cold.
-- [**Earth**.](/venture/the-realm/dragon-blooded/elements#earth/) Earth is
-  enduring and wise, but conservative and stubborn.
-- [**Fire**.](/venture/the-realm/dragon-blooded/elements#fire/) Fire is hot and
-  powerful, but impulsive and dangerous.
-- [**Water**.](/venture/the-realm/dragon-blooded/elements#water/) Water is
-  flexible and insightful, but duplicitous and malleable.
-- [**Wood**.](/venture/the-realm/dragon-blooded/elements#wood/) Wood is lively
-  and persistent, but hedonistic and venomous.
+- **Air**. Air is _subtle_ and _clear_. It is _distant_ and _cold_. It manifests
+  in the passive as _wind_ and _breath_. It manifests in the active as _frost_
+  and _lightning_. It is associated with the color _blue_.
+- **Earth**. Earth is _enduring_ and _stubborn_. It is _tough_ and _unmoving_.
+  It manifests in the passive as _mountains_ and _soil_. It manifests in the
+  active as _earthquakes_ and _metal_. It is associated with the color _white_.
+- **Fire**. Fire is _dynamic_ and _eager_. It provides _energy_ and encourages
+  _spontaneous action_. It manifests in the passive as _light_ and _smoke_. It
+  manifests in the active as _bonfires_ and _burning ash_. It is associated with
+  the color _red_.
+- **Water**. Water is _flexible_ and _mysterious_. Water is _persistent_ and
+  _flows_ from Heaven to Earth and back again. It manifests in the passive as
+  _rivers_ and _rain_. It manifests in the active as _typhoons_ and _floods_. It
+  is associated with the color _black_.
+- **Wood**. Wood is _vital_ and _sensual_. Wood presides over the cycle of
+  _life_ and _death_. It _nurtures_ and also _destroys_. It manifests in the
+  passive as _blossoms_ and _fruits_. It manifests in the positive as _thorns_,
+  _vines_, and _poisons_. It is associated with the color _green_.
 
-Having selected your Aspect, mark your five Aspect Abilities. In Lot Casting
-Atemi, they will be automatically filled-in when you select your Aspect. You
-get one free dot in each of these five Abilities.
+After you choose your Aspect, Lot-Casting Atemi will automatically fill in your
+Aspect Abilities. You receive 1 free dot in each.
 
-**Consider** how your Aspect influences your personality. All dragons reflect
-their element in some way; or perhaps their element reflects them. In the notes
-section of your character sheet, write down at least one personality trait and
-one physical trait that reflect your Aspect.
+**Consider** how your Aspect influences and reflects your personality. In the
+notes section of your character sheet, write one way in which you reflect your
+element, and one physical Aspect marking that you have.
 
 ## Section II: Skills and Education
 
-Your character has both natural aptitudes and learned skills. In this section,
-we will walk through your innate talents, your education, and your professional
-life.
+In this section, we will walk through your natural aptitudes and your learned
+skills.
 
 ### 3. In what ways did you stand out among your peers?
 
@@ -121,300 +114,289 @@ yourself a stupid brute; etc.
 
 ### 4. What secondary school did you attend and how did you stand out?
 
-As an exceptional scion of one of the Great Houses, you were lucky enough to be
-able to attend one of the Realm's great secondary schools. You almost certainly
-had very little say in _which one_; your family probably arranged it as soon as
-you were born.
+As the heir to one of the most powerful political forces in the world, you were
+sent away to school at about seven or eight. After you reached 14-15ish, you
+were sent to one of the most prestigious schools available.
 
-Choose one of the following options for where you attended your secondary
-school:
+Choose one of the following options:
 
-- [**The Cloister of Wisdom**](/venture/the-realm/schools#the-cloister-of-wisdom).
-  You were sent to the Cloister of Wisdom, a monastery and school all at once.
-  While there, you learned the virtues of clarity, tranquility, and purpose.
-  About half your classmates went on to become monks.
-- [**The Heptagram**](/venture/the-realm/schools#the-heptagram). You were sent
-  to the distant freezing Isle of Voices to study at the Heptagram, _the_
-  premier academy of sorcery and mysticism. You were taught the values of
-  wisdom, fortitude, and drive, and set down the lonely path of the sorcerer.
-- [**The House of Bells**](/venture/the-realm/schools#the-house-of-bells). You
-  were sent to the House of Bells; there is no finer military academy anywhere
-  in Creation! You were drilled in the virtues of courage, strength, and
-  discipline. You served for a time in the Legions or Navy as a commissioned
-  officer and probably have plenty of war stories.
-- [**The Spiral Academy**](/venture/the-realm/schools#the-spiral-academy). The
-  Academy teaches one rule, and well: You cannot rule without understanding what
-  you rule. At the Academy, you were instructed in the virtues of knowledge,
-  subtlety, and precision. You probably entered the bureaucracy,. and likely a
-  handful of your schoolmates went on to be spies.
-- [**Pasiap's Stair**](/venture/the-realm/schools#pasiaps-stair). Uh oh, you
-  made a big fucky; or, you were really brave. The Stair is a military academy,
-  but it's not like the comfortable life at the House of Bells; no no, the Stair
-  is an unforgiving march with no comfort and no mercy, only glory. You are
-  well-acquainted with your many foreign schoolmates.
+- **The Cloister of Wisdom**. You were sent to the Cloister of Wisdom, a
+  combination monastery and school. While you were there, you studied under the
+  monks to learn the virtues of clarity, tranquility, and wisdom. About half of
+  your fellow graduates went on to join the Order; the rest went out to do
+  whatever it is they please, with serenity in their hearts and minds.
+- **The Heptagram**. You were sent to the distant and freezing Isle of Wrack to
+  set down the lonely path of the sorcerer. The Heptagram is _the_ best school
+  of sorcery and arcane knowledge in the world. You were apprenticed to a staff
+  of acclaimed mystics and learned the virtues of wisdom, fortitude, and drive.
+- **The House of Bells**. There is no finder academy of military arts in the
+  world than the House of Bells, where you were sent. Under a rigorous schedule
+  of study and practice, you mastered all forms of warfare and combat, and were
+  taught the virtues of courage, strength, and discipline. You served in the
+  Legions or Navy as a comissioned officer.
+- **The Spiral Academy**. The Academy teaches one rule, and teaches it well: you
+  cannot rule without understanding that which you rule. At the Academy, you
+  were taught the virtues of knowledge, subtlety, and precision by a staff of
+  the most acclaimed ministers and teachers in the world. It's like if Oxford
+  and Harvard had a baby, but with more politics and an occasional "accident."
+  Most of your schoolmates went into the ministries, and many of them probably
+  also became spies.
 
-**Consider** how you stood out at school; were you especially studious, or
-maybe unusually good at dueling? Pick 5 Abilities that you excel at; they
-cannot be the same 5 as your Aspect. Mark them on your sheet as _favored_. You
-get 1 free dot in each.
+**Consider** how you stood out at school. Were you especially studious or did
+you frequently pick fights? What did you do in your scant spare time not
+devoted to studying, networking, and fighting?
 
-### 5. What skills have you acquired during your life?
+**Choose** Abilities you excel at; they cannot be the same as the 5 Abilities
+you marked from your Aspect. In Lot-Casting Atemi, select them under the
+"Favored Abilities" list. You receive 1 free dot in each.
 
-You have acquired skills from your time in primary school, your time in
-secondary school, and your adult life. What are those skills?
+### 5. What skills have you acquired across your life?
 
-**Distribute** 20 additional dots, however you choose, among _all_ the Abilities
-on your character sheet. Think about your time as an adult and your prior
-experiences to inform your skills. Perhaps you learned field medicine to justify
-your points in Medicine, and so forth.
+You have never been idle. You have always acquired skills.
 
-In answering this question, you cannot raise any Ability above 3 dots.
+**Distribute** 20 additional dots among all the Abilities on your character
+sheet, however you choose. Lot-Casting Atemi will keep track of how many you
+have distributed; at the end, you should have distributed 30. Perhaps you
+learned field medicine during your time in the Legions, or you studied spycraft
+during your time at the Academy to learn Stealth and Larceny.
+
+While answering this question, you cannot raise any Ability above 3 dots.
 
 ### 6. What areas have you specialized in?
 
-You have specialties in several skills; these are important because they
-increase the power of some of your Charms.
+A _specialty_ is a specific area of focus for an Ability, like Melee
+(Swashbuckling) or Athletics (Acrobatics).
 
-Based on your secondary school, **choose** two of the three listed Abilities to
-gain a Specialty. Remember, you must have at least 1 dot in an Ability to have
-a specialty in it.
+Based on your secondary school, **choose** two of the three listed Abilities in
+which you gain a free Specialty. You must have at least 1 dot in an Ability in
+order to have a Specialty.
 
-- If you attended the **Cloister of Wisdom**, choose two specialties from among:
+- If you attended the **Cloister of Wisdom**, choose two Specialties among:
   Integrity, Lore, Martial Arts.
-- If you attended the **Heptagram**, choose two specialties from among:
-  Craft, Lore, Occult.
-- If you attended the **House of Bells**, choose two specialties from among:
-  Archery, Melee, War.
-- If you attended the **Spiral Academy**, choose two specialties from among:
+- If you attended the **Heptagram**, choose two Specialties among: Craft, Lore,
+  Occult.
+- If you attended the **House of Bells**, choose two Specialties among: Archery,
+  Melee, War.
+- If you attended the **Spiral Academy**, choose two Specialties among:
   Bureaucracy, Presence, Socialize.
-- If you attended **Pasiap's Stair**, choose two specialties from among:
-  Athletics, Resistance, War.
 
-Then, **choose** three more skills to receive a Specialty.
+Then, **choose** three additional Abilities to receive a free Specialty.
 
 ## Section III: Duty and Ambition
 
-You are a scion of the mightiest empire in the world. You are neither idle nor
-satisfied; you have duties, and you desire something more. This section will
-help you determine them.
+You are neither idle nor satisfied; you have duties to fulfill and ambitions to
+pursue. This section will help you determine them.
 
-### 7. Who do you owe a duty to and what is your duty?
+### 7. What is your Duty, and to whom do you owe it?
 
-You have not made it to adult life without acquiring attachments. You owe your
-time and energy to someone or something -- not just owe, but _want_ to owe. This
-is a burden you have _chosen_ to take on -- or you have chosen is your least bad
-option.
+You have not made it into adulthood without developing attachments. Among these,
+you have a Duty that you have taken on. This has not been imposed upon you; you
+chose this life, as much as anyone chooses their talents.
 
-**Choose** who you owe a duty to. Are you employed, and owe your time to your
-career? Are you a monk, and owe your duty to your faith and abbot? Have you
-taken on a duty from your House, and owe it to your family?
+**Choose** your Duty and who holds it. Here are some examples:
 
-**Choose** your duty. Here are some examples of duties you might choose
-to take on:
+- You are a minister. You have joined the Realm's bureaucracy and you are part
+  of the execution of government. You owe a Duty to "the Realm."
+- You are a Legionnaire. You are a career soldier and have served overseas or
+  here on the Isle. You owe a Duty to your Legion, your Superior, or the
+  Military in the abstract.
+- You are a monk. You have eschewed your personal wealth and even your own name
+  in pursuit of the spiritual. You owe a Duty to "the Immaculate Order."
+- You are a spy for your House. You have been given a cover identity and you
+  feed important information back to your House -- and sometimes also to a high
+  bidder. You owe a Duty to "your House".
 
-- You are a minister. You have joined the bureaucracy and are part of the
-  execution of government. You owe a duty to "the Realm."
-- You are a Legionnaire. You are a career soldier, and have served overseas in
-  enforcing the will of the Empress. You now take up arms on the Isle, hunting
-  down bandits and subduing rebellions. You owe a duty to "the Legions."
-- You are a monk. You have eschewed personal wealth and even your own name, and
-  devoted yourself to the spiritual. You owe a duty to "the Immaculate Order."
-- You are a spy. Your family has given you a cover -- something harmless, but
-  that lets you get around. You gather up secrets and feed them back to your
-  House, or to the highest bidder. You owe a duty to "your House."
+Whatever your Duty is, it should be _active_ and _flexible_.
 
-And so on and so forth. Whatever you choose, your duty should be both active and
-flexible.
-
-**Define** a Tie related to the person or organization that you owe your duty.
-
-**Define** a Principle that reflects your duty.
-
-One of those two should be at least a Major Intimacy.
+**Define** an Intimacy that reflects your Duty. **Define** an Intimacy that
+reflects your relationship to the person who holds your Duty. One of those two
+should be at least Major.
 
 ### 8. What do you deeply desire, and how does it conflict with your duty?
 
-The Princes of the Earth are greedy bastards, to a one. Oh sure, some of them
-become monks, and some of them are good people, but all of them _want_
-something. They all have a _goal_.
+You are never satisfied. You always _want_ something. This is your personal
+goal, something that you will fight for.
 
-Your goal is something that you will fight for that is not your duty. In fact,
-a good goal _conflicts_ with your duty, at least occasionally. The simple fact
-that you _want_ A but _have to do_ B can drive a pretty compelling story.
+Your Goal should be something that conflicts with your Duty. The simple conflict
+between what you must do and what you want to do is fertile ground for character
+growth. They don't have to _always_ be in conflict, but they should pull you in
+opposing directions at least occasionally.
 
-Your goal and your duty don't have to always conflict, but they should at least
-sometimes. To define your goal, ask yourself: what do I want so badly that I
-will abandon my duty and possibly screw over my own people in order to get it?
+Like your Duty, your Goal should be _active_ and _flexible_.
 
-As with your duty, a good goal is both active and flexible.
+**Define** an Intimacy that expresses your Goal. It should be at least Major.
 
-**Define** an Intimacy that expresses your goal. It should be at least Major.
+### 9. Who and what are you connected to in this world?
 
-### 9. What is your relationship to your family?
+You already have a connection to your House. Take a moment now to reflect on the
+other entities that matter to you -- positive or negative.
 
-You already have an Intimacy related to your House. For this question, you
-should think more about your specific _family_.
+Your _family_ is always a good start. Do you love your parents, or resent them
+for your cold and difficult childhood? Both? Are you married? If not, why not?
+Do you have children? How do you feel about them?
 
-Most parents in the Realm are distant. Loving your child is neither expected nor
-looked down upon; but raising a weak one is. Were your parents close or distant?
-Did you have a favored sibling or beloved nanny? Do you resent your family, or
-do you love them? Both?
+Who have you loved that broke your heart? Who do you love now, but cannot be
+with?
 
-Are you married? Do you have children? Both of these are important expectations
-of Dynastic life.
+Is there an institution or group that you care deeply about? Maybe you have a
+strong emotional tie to your Legion or to your department in the bureaucracy.
 
-**Define** at least one Intimacy related to a family member. **Consider** if you
-have a spouse or any children -- make note of them on your character sheet.
+**Define** at least one Intimacy related to someone or something you care for.
+**Define** at least one Intimacy related to someone or something you oppose.
 
 ## Section IV: History
 
-This section will guide you in defining your character's history and legend
-up to this point.
+This section will guide you through defining your history and legend up to this
+point.
 
 ### 10. What advantages have you accumulated in life?
 
-Every character has a suite of [_Merits_](/character-creation/merits), which
-represent your advantages. Check out the Merits section for the complete list.
+Every character has a suite of [Merits](/venture/character-creation/merits) that
+represent your advantages. Check out that page for a full list.
 
-**Distribute** 13 dots of merits however you like. Then, you get 5 more dots
-to distribute among Backing, Command, Contacts, Followers, Influence, Language,
-Resources and Retainers, to represent your privileged position in society. That
-is a total of 18 points of Merits.
+**Distribute** 13 dots of Merits however you like. Then, **distribute** 5 more
+among the Backing, Command, Contacts, Followers, Influence, Language, Resources,
+and Retainers Merits to reflect your privileged position in society. Your Merits
+should total 18.
+
+**Consider** if you have Intimacies related to any of your Merits. Each of the
+Merits has a suggestion for some Intimacies you might hold.
 
 ### 11. What is your greatest accomplishment so far?
 
-What is the thing you have accomplished that you are most proud of? **Consider**
-your greatest achievement so far, and make a note of it on your character sheet.
+**Consider** how you have succeeded. What have you done that you are most proud
+of? Is it the same as what most people would _say_ is your greatest achievement?
 
-This should probably tie in to your Merits -- maybe it involves your Command, or
-you were able to accomplish it because of your Backing.
+This might tie in to your Merits -- maybe it was a glorious victory with your
+Command, or your Backing helped you achieve it.
+
+Write down your accomplishment in the Notes section of your character sheet.
 
 ### 12. What is your worst failure so far?
 
-Nothing stays up forever. You've failed before, and you've failed hard. Tell
-us about it!
-
-**Consider** what your biggest failure was, and write it on your character
-sheet. Did you develop an Intimacy because of it? Does it tie in to your Merits?
+**Consider** how you have failed -- no one stays up forever. What have you done
+that you most regret? Is it the same as what other people would say is your
+greatest failure?
 
 ## Section V: Personality and Behavior
 
-We're almost there. We've finished with the numbers for now, and we're on to the
-broad strokes of your personality -- who you are as a person.
+This section will help define who you are as a person.
 
-### 13. What is your character's greatest virtue?
+### 13. What is your greatest virtue?
 
-What virtue does your character embody? Try to think of virtues in terms of the
-Realm, not in terms of American society. For example, individualism is a virtue
-for most Americans, but the Realm does not value it in the same way as, say,
-filial piety or obedient execution of duty.
+What virtue does your character embody? You might want to consider virtues from
+a Realm perspective, not necessarily an American one. For example, "filial
+piety" is a much more significant virtue for the Realm than it is for Americans.
+Likewise, "individualism and self-sufficiency" don't matter for the Realm so
+much.
 
-**Define** an Intimacy that is related to your virtue. Or, **consider** how your
-character embodies this virtue and reflect on how it manifests in their
-behavior.
+**Define** an Intimacy that relates to your virture. Instead, you might just
+**consider** how your character reflects this virtue in their behavior.
 
-### 14. What is your character's heroic flaw?
+### 14. What is your heroic flaw?
 
-All good legends need a flaw. Greek heroes had their hubris, Sherlock his
-addiction, House his hatred of humans... Scooby and Shaggy their voracious
-hunger.
+Everyone has a moral weakness. All good legends need a flaw. For Greek heroes,
+hubris was often a flaw; Herakles was filled with rage. Sherlock Holmes had an
+opium addiction. Greg House hates humans even though he's a doctor. Scooby and
+Shaggy are gluttons.
 
-**Define** an Intimacy that is related to your vice. Your flaw is ideally
-something as broad as "misanthropy" or "hubris," so that it can be relevant in
-different ways at different times.
+**Define** an Intimacy that is related to your flaw. Your flaw is ideally
+something broad enough like "hubris", "misanthropy", or "gambling addiction" so
+that it can come up in many different circumstances.
 
-**Define** some trinket or item you have that reflects your flaw -- a gambler
-may carry dice, hubris may be indicated by your collection of trophies, etc.
+**Choose** some trinket or possession that reflects your flaw. A gambler might
+carry dice and cards, hubris might be reflected through your collection of
+trophies, etc.
 
 ### 15. What do people notice first when they meet you?
 
-What do people notice first when they meet you? This may be something like your
-piercing eyes or animal magnetism. You might also consider something like how
-you are underdressed for your station, or how you always wear armor even while
-you should be safe.
+What stands out about you on first impressions? Maybe you are huge and bearded,
+like a barbarian. Maybe you have eyes that pierce the soul. Maybe you wear an
+outdated fashion or affect a foreign look. Perhaps you never take off your
+armor, even while you should be safe.
 
-What stands out about you may also be your _reputation_. If you defy the norm
-for your House, people may notice that about you, and your reputation will
-precede you when meeting new people.
+Your _reputation_ might be the first thing people notice about you.
 
-**Consider** what it is that stands out about you, and note it on your character
-sheet in the Notes section. It's a good detail to throw in if you are trying to
-make a really impressive first impression.
+**Consider** what stands out about you, and write it down in the Notes section
+of your character sheet. It's a good detail to throw in when you are meeting new
+characters -- it's worth a stunt on your first impression.
 
-**Define** one distinctive aesthetic item that is associated with you -- a
-unique coat, a special necklace, a turquoise comb, etc.
+**Define** a distinct item that people associate with you. Maybe you have a
+big tattoo on your face or you have a turquoise comb that people can't help but
+notice.
 
 ### 16. How do you react to stressful situations?
 
-The Realm expects its Dynasts to keep a firm handle on their emotions at all
-times. Displays of passion are few and far between, and reserved for the most
-sensitive or important of topics. Otherwise, you are expected to maintain a
-steely mask of indifference.
+Dynasts of the Realm are expected to maintain steely composure of their emotions
+at all times. Displays of passion are meant to be restricted to the most
+important occasions.
 
-What is your character's tick? No one maintains a perfect facade at all times.
-Maybe when your character is stressed she starts to drum her fingers, or she
-hums to herself or chews her lip.
+What is your tick? No one maintains a perfect facade at all times. Do you chew
+your lip? Drum your fingers? Play with your hair? Do you snap under stress and
+fly into a rage at the first tip of the scales?
 
-**Consider** what noteworthy physical or verbal tick your character has that
-hints that they are under stress. Consider how it relates to the flaws of your
-Aspect -- for example, an Air Aspect under stress may loose their understanding
-of other peoples' emotions or become consumed by the "big picture" as an escape
-mechanism.
+**Consider** what noteworthy tick you have. Consider how it relates to your
+established strengths and flaws. Maybe your Air Aspect closes up under stress
+and retreats to the "big picture" as an escape mechanism, etc.
 
-### 17. What biases have you inherited from your society?
+### 17. What biases have you inherited from your upbringing?
 
-You are the privileged scion of a mighty empire, so you've got some beliefs and
-biases that you've inherited from your society. You don't need to agree with
-these as a player; maybe this is a chance to play a character you disagree with.
+You are the privileged scion of an imperial machine. Whether you like it or not,
+you are a product of your society and have inherited biases and preexisting
+beliefs that inform your daily life.
 
-Some common biases from Realm society can be:
+Some examples include:
 
 > Men are too emotional to be trusted with power.
-> Men are better aritsts than women.
+
+> Women deserve to be in charge.
+
+> Men are better artists than women.
+
 > Women are always scheming and plotting their next move.
-> Women naturally belong in control.
-> The divine right of rule is established in the holy texts.
-> Cowards must be exiled from society.
 
-## Section VI: Appearance and Name
+> It is the divine right of all Dragon-Blooded to rule society.
 
-We are nearly finished now. What you look like and what you are called are
-important aspects of any character, and we will elaborate on them in this
-section.
+> Cowards must be exiled from society and cannot redeem themselves.
+
+Maybe you belive this strongly enough for it to be an Intimacy. Regardless, you
+should make a note of at least one way in which you have been biased by your
+society.
+
+## Section VI: Name and Appearance
+
+We are nearly finished. In this section, we will determine what you look like
+and what you are called.
 
 ### 18. What do you look like?
 
-What do you look like? There are plenty of things to consider in answering this
-question. What color is your skin? Your hair? Your eyes? Do you have any scars
-or markings? Are you disabled in some visible way? How do you wear your hair?
+What do you look like? What color is your skin? Your eyes? Your hair? Do you
+have any scars or markings?
 
-The dominant ethnic group on the Blessed Isle is the Wàn. They strongly
-resemble Han Chinese people.
+The dominant ethnic group on the Blessed Isle is the Wàn. They strongly resemble
+Han Chinese people. The Wàn often have red hair, like the Empress. Dozens of
+other significant ethnicities exist, scattered across the Isle.
 
-Creation embraces an anime aesthetic when it comes to your hair and eyes; nearly
-every color is natural somewhere. Embrace your weird looks!
+Creation is like anime in that you can have almost any hair or eye color and
+have it be natural. Go wild!
 
-In the section on [clothes](/gear/clothing/), you can read more about what
-fashions are prominent on the Isle.
+In the section on [clothes](/venture/gear/clothing), you can read more about
+clothes.
 
-### 19. What is your character's personal name?
+**Choose** what you look like, and what you tend to wear.
 
-The dominant naming scheme is one or two-word names drawn from nature. Stuff
-like River, Menhir, Sunlight, Rain, Red Crane, or Shining Jade. If you want a
-word name but are having trouble, you can never go wrong with (Virtue) (Animal):
-Dutiful Sparrow, Swift Hound, Brave Ox, etc.
+### 19. What is your personal name?
 
-The other name scheme is a phonetic name. These names rarely mean anything, and
-are mostly chosen because they sound nice. You should go for an aesthetic
-resembling Chinese, Japanese, or Indian names.
+Most names in the Realm are words drawn from nature: Shining Jade, River, Rain,
+Red Crane, Sunlight, etc.
 
-Were you named in honor of a family member? If so, your name is probably based
-on theirs. Red Crane is named in honor of Silent Crane, or Banoba in honor of
-Bandasi.
+The other scheme is a phonetic name. These names rarely mean anything, but are
+usually chosen because they sound nice. Most of these names are CVCVC or CVCVCV.
 
-House names always come first, then the family name, then the given name. Most
-Dynasts drop their family name in casual use. It is rude to address a person by
-their personal name unless you are friends with them.
+House names always come first, then family name, then given name. Most Dynasts
+drop their family name. It is rude to address a person by their personal name
+unless you are well acquainted. Usually, you address someone by their House
+name.
 
 ## Section VII: The End
 
@@ -422,24 +404,26 @@ Nothing lasts forever...
 
 ### 20. How will you die?
 
-Everyone dies eventually!
+Dragon-Blooded can live for centuries -- but most do not. Most Dragon-Blooded
+die gloriously before they reach the end of a century.
 
-Dragon-Blooded can live for centuries before they succumb to old age, but few
-manage that. Most Dynasts die gloriously before making it to a century. Life as
-a Prince of the Earth is always dangerous; the Realm says, "A Prince is always
-three feet from death," referring to the normal length of a sword.
+How will you die? Will you die gloriously on the battlefield? Will you die of
+old age surrounded by wealth and power? Drowned at sea in a daring escapade?
 
-How will you die? Will you go gloriously on a battlefield? Of old age surronded
-by wealth and family? Drowned at sea in a daring escapade?
+This answer is not binding, but both you and I should keep it in mind.
 
 ## Final Touches
 
-You have now created your character, congratulations! We have just a few last
-finishing touches.
+You have a pool of 18 bonus points to spend however you like according to the
+following table. Spending bonus points is the only way to raise your Abilities
+to 5.
 
-You have a pool of 18 Bonus Points to spend however you like according to the
-following table. You may use these bonus points to raise your Abilities up to 5.
-
-| Trait | Cost |
-| :---- | :--- |
-| ....  | .... |
+| Trait                          | Cost        |
+| :----------------------------- | :---------- |
+| Primary or Secondary Attribute | 4bp per dot |
+| Tertiary Attribute             | 3bp per dot |
+| Aspect/Favored Ability         | 1bp per dot |
+| Non-A/F Ability                | 2bp per dot |
+| Specialty                      | 1bp per     |
+| Merit                          | 1bp per dot |
+| Willpower                      | 2bp per dot |
