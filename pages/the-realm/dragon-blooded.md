@@ -4,7 +4,6 @@ title: The Dragon-Blooded
 permalink: /the-realm/dragon-blooded/
 parent: The Realm
 nav_order: 2
-has_children: true
 ---
 
 # The Dragon-Blooded
