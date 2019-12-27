@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 20 Questions
-permalink: /character-creation/questions-2/
+permalink: /character-creation/questions/
 parent: Character Creation
 nav_order: 1
 ---
