@@ -24,7 +24,7 @@ with bindings and wraps. Small improvised weapons are often clubs.
 #### Chuí
 
 ![Chui hammer](https://i.pinimg.com/originals/fc/31/e0/fc31e02d11b2a549c52f837e6f6652f5.jpg)
-{:style="width: 50%;height: 50%"}
+{:style="width: 50%;height: 50%;margin-left: auto;margin-right: auto;"}
 
 A _chui_ is a long metal cudgel with a fist-sized bulb at the end. _Chuí_ are
 often wielded in pairs. Temple guards frequently carry _chuí_, as do bandits.
