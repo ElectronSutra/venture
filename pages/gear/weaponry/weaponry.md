@@ -4,6 +4,7 @@ title: Weaponry
 permalink: /gear/weaponry/
 parent: Gear
 nav_order: 1
+has_children: true
 ---
 
 # Weaponry
