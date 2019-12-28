@@ -31,9 +31,6 @@ Helmets neither help nor hinder.
 ![Light 5](./../../../assets/armor_images/light-5.jpg)
 {:style="height: 50%;width: 50%"}
 
-![Light 6](./../../../assets/armor_images/light-6.jpg)
-{:style="height: 50%;width: 50%"}
-
 ![Light 7](./../../../assets/armor_images/light-7.jpg)
 {:style="height: 50%;width: 50%"}
 
@@ -47,9 +44,6 @@ who need protection but don't want to be encumbered.
 ## Medium Armor
 
 ![Medium 1](./../../../assets/armor_images/medium-1.jpg)
-{:style="height: 50%;width: 50%"}
-
-![Medium 2](./../../../assets/armor_images/medium-2.jpg)
 {:style="height: 50%;width: 50%"}
 
 ![Medium 3](./../../../assets/armor_images/medium-3.jpg)
