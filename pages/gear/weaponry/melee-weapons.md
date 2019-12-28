@@ -192,6 +192,15 @@ Most of the Realm's spears are made in the crescent style. A crescent spear may
 have one or two crescents. These styles often also have a tassle or cloth
 attached near the point.
 
+#### Podao
+
+![Podao](./../../../assets/weapon_images/podao.jpg)
+{:style="width: 50%;height: 50%"}
+
+The podao is a cross between a sword and a spear. It is a long polearm about
+four to six feet long. Half the length is a long wrapped handle; the other half
+is a single-edged cutting blade.
+
 ### Straight Sword
 
 Well-balanced, accurate, and strong, the straight sword is a simple straight
@@ -228,3 +237,82 @@ deliver a whoppin' on a youngster who does not respect you.
 
 A truly unusual weapon for the Dynast looking to make a statement. The eku is a
 peasant weapon based on an oar. It is a long, skinny oar wielded like a staff.
+
+## Heavy Weapons
+
+### Great Axe
+
+A great axe is a two-handed axe with a large, heavy head. It is a favorite
+among the Legion's heavy auxiliaries.
+
+### Greatsword
+
+A greatsword is a heavy two-handed sword. Greatswords are often used against
+cavalry.
+
+#### Changdao
+
+The changdao is a huge two-handed sword with a five foot blade, similar in
+profile to the dao broadsword. Like the dao, it comes in a ringed variant.
+
+#### Nodachi
+
+The nodachi is a huge sword made with the same techniques as the katana. It has
+an even larger cousin, the zanbato, with a blade six or seven feet long. Both
+of these weapons are dedicated anticavalry swords, for chopping the legs out
+underneath horses.
+
+### Lance
+
+Also called a yari, a lance is a large two-handed spear designed to be used
+while riding. Lances are usually used to ride down infantry and sow chaos as
+part of a cavalry charge.
+
+### Poleaxe/Halberd
+
+The poleaxe is to the spear as the greataxe is to the axe. Much cheaper than a
+greatsword, the poleaxe is the most common heavy weapon in Creation.
+
+#### Guandao
+
+![Guandao](./../../../assets/weapon_images/guandao.jpg)
+{:style="width: 30%;height: 30%"}
+
+The guandao is a single-edged halberd, also called a _reclining moon blade_. The
+guandao is wielded with circular motions, and is one of the classic weapons
+almost every Dynast has handled.
+
+#### Monk's Spade
+
+![Monk's Spade](./../../../assets/weapon_images/monks-spade.jpg)
+{:style="width: 50%;height: 50%"}
+
+Also called the _crescent moon spade_, the monk's spade is particularly
+associated with monks (unsurprisingly). The broad spade-like head is designed to
+push animals like dogs and leopards away without hurting them too badly.
+
+#### Sodegarami/Tsukubo/Sasumata
+
+![Sodegarami, Tsukubo, and Sasumata](./../../../assets/weapon_images/sodegarami.jpg)
+{:style="width: 50%;height: 50%"}
+
+A class of man-catching polearms, these three weapons are essentially the same
+except for their head. These poles are designed to catch and entangle the
+target without killing them.
+
+### Scythe
+
+A two-handed cutting implement used to collect grain, the scythe is also
+occasionally used as a weapon.
+
+### Sledge
+
+The sledge is, in essence, a gigantic mass of wood and metal shaped so that it
+can be wielded like a hammer. This huge weapon is often wielded by gigantic
+bandits and Princes of the Earth with a reputation for physical strength.
+
+#### Tetsubo
+
+The tetsubo is a war club particularly associated with the Earth Dragon style.
+A long wooden shaft banded with metal and studs, the tetsubo crushes through
+armor and bone.
