@@ -22,7 +22,7 @@ meet in the center. By throwing the bola, you can tangle the legs of an animal
 or foe and cause them to smack to the ground. Bolas are often used if hunting
 while mounted, or used to subdue game fowl before they are able to fly away.
 
-### Charkam
+### Chakram
 
 A chakram is a metal disk intended for throwing. The razor-sharp outer edges
 cut through ropes and light armor.
