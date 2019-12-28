@@ -98,6 +98,9 @@ rings. Flags and cloth at either end add both flair and control.
 
 #### Meteor Hammer
 
+![Meteor Hammer](./../../../assets/weapon_images/meteor-hammer.jpg)
+{:style="width: 50%;height: 50%"}
+
 The meteor hammer consists of two large, heavy globes on either end of a sturdy
 chain. It is also known as a _flying hammer_ or _dragon fist_.
 
@@ -110,6 +113,9 @@ blunt and heavy.
 
 ### Hook Sword
 
+![Hook Swords](./../../../assets/weapon_images/hook-swords.jpg)
+{:style="width: 50%;height: 50%"}
+
 Also called _Heaven-and-Earth Sun-and-Moon swords_ when wielded in a pair, the
 hook sword is a simple straight sword with a notable hook at one end. This hook
 makes it excellent for disarming and allows you to extend your reach by hooking
@@ -121,6 +127,9 @@ The chicken sickles are hook swords with the addition of a backward spike on the
 trailing edge. They are wielded with a different grip than hook swords.
 
 ### Seven-Section Staff
+
+![Seven Section Staff](./../../../assets/weapon_images/seven-section-staff.jpg)
+{:style="width: 50%;height: 50%"}
 
 The seven-section staff is a staff that has been broken into several sections
 and affixed together with flexible ring joints. It is the nunchaku's grown-up
