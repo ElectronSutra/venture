@@ -45,10 +45,10 @@ status. Unlike patricians, no one in the Dynasty has anything to prove.
 
 ## Patrician Clothing
 
-![Sari 1](./../../assets/clothing_images/sari-1.jpeg)
+![Sari 1](./../../assets/clothing_images/sari-1.jpg)
 {:style="height: 50%;width: 50%"}
 
-![Sari 2](./../../assets/clothing_images/sari-2.jpeg)
+![Sari 2](./../../assets/clothing_images/sari-2.jpg)
 {:style="height: 50%;width: 50%"}
 
 ![Toga 1](./../../assets/clothing_images/toga-1.jpg)
