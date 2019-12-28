@@ -2,6 +2,7 @@
 layout: default
 title: Advancement
 permalink: /character-creation/advancement/
+parent: Character Creation
 nav_order: 3
 ---
 
