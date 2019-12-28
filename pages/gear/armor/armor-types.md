@@ -4,7 +4,7 @@ title: Armor Types
 permalink: /gear/armor/armor-types/
 parent: Armor
 grand_parent: Gear
-nav_order: one
+nav_order: 1
 ---
 
 # Armor Types
