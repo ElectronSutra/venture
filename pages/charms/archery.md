@@ -20,6 +20,9 @@ nav_order: 2
 
 > **Prerequisite Charms**: None
 
+_You flash your third eye open. Living things stand out with glowing auras; the_
+_undead are yawning black holes, notable for their absence._
+
 Add 1 die per mote spent. Ignore 1 point of penalty from visual instruction per
 added die if the target is living or undead.
 
@@ -35,8 +38,7 @@ added die if the target is living or undead.
 
 > **Prerequisite Charms**: None
 
-_The Dragon-Blooded's focus quells the wind that would divert her arrow,_
-_ensuring her shot flies true._
+_You focus your breath and the world calms around you._
 
 Extend the range of the attack by 1 band, out to maximum long range. If the
 weapon already has long range, add 1 automatic success on the attack roll.
@@ -53,9 +55,8 @@ weapon already has long range, add 1 automatic success on the attack roll.
 
 > **Prerequisite Charms**: [Sky-Calming Draw](#sky-calming-draw)
 
-_As the Dragon-Blooded draws her arrow back against her bowstring, she_
-_withdraws and disperses its weightiness, sending it flying like an ephemeral_
-_phantom to pierce her foe's heart._
+_Your arrow cuts through the air like razor wind, or flashes out of sight like_
+_a shadow in the water._
 
 Ignore (lower of Essence or Perception) points of Soak from armor.
 
@@ -73,9 +74,8 @@ Ignore (lower of Essence or Perception) points of Soak from armor.
 
 > **Prerequisite Charms**: None
 
-_Anything that grows will yield arrows to the archer's gathering hands. She can_
-_create useable ammunition from any kind of planet, be it marsh reed or a stalk_
-_of corn._
+_Growing things long to be used in your glory. You coax the reeds and willows_
+_to give themselves up and become your ammunition._
 
 Double 8s. As long as you have at least 1 success, you are guaranteed at least 1
 arrow.
@@ -94,7 +94,7 @@ Outside of combat, refill your quiver.
 
 > **Prerequisite Charms**: [Harvest of the Hunter](#harvest-of-the-hunter)
 
-_Thorns grow to wreathe the shaft of the Dragon-Blooded's arrow as it flies._
+_Your arrow sprouts thorns and blossoms as it flies through the air._
 
 #### Withering
 
