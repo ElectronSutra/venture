@@ -1,0 +1,15 @@
+***
+
+### Charm Name
+
+> **Cost**: ; **Mins**:
+>
+> **Type**: ; **Duration**:
+>
+> **Keywords**:
+>
+> **Prerequisite Charms**:
+
+_Flavor._
+
+Mechanical text.
