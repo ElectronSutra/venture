@@ -70,7 +70,7 @@ fight. This roll is called _Join Battle_.
 Here are a couple more Magic Special Words that I wrote down here so that I can
 reference them from other pages.
 
-### Initiative Crash
+### Crash
 
 Uh oh, you made a big fucky and got riggidy-shriggidy-shrecked. _Crash_ happens
 if you ever hit 0 or less Initiative. This represents that you have been

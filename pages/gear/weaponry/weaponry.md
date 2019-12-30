@@ -106,8 +106,9 @@ the attack is **withering**, it ignores 4 points of soak.
 
 **Reaching**: This weapon negates the advantage of mounted targets.
 
-**Shield**: This weapon reduces its damage bonus by 2 and grants +1 Parry. It
-allows you to flurry Full Defense with Rush and Withdraw.
+**Shield**: This weapon reduces its damage bonus by 2. You may flurry Full
+Defense with Rush and Withdraw actions. If you choose to take only Full Defense,
+you boost your Parry by 3 instead of by 2.
 
 **Slow**: This weapon requires an action to reload.
 
