@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Athletics Charms
-permalink: /charms/athletics/
-parent: Charms
-nav_order: 3
+permalink: /charms/abilities/athletics/
+parent: Ability Charms
+grand_parent: Charms
+nav_order: 2
 ---
 
 # Athletics Charms

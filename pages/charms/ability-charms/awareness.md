@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Awareness Charms
-permalink: /charms/awareness/
-parent: Charms
-nav_order: 4
+permalink: /charms/abilities/awareness/
+parent: Ability Charms
+grand_parent: Charms
+nav_order: 3
 ---
 
 # Awareness Charms
