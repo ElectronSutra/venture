@@ -48,7 +48,7 @@ Every Intimacy has one of three intensities: Minor, Major, or Defining.
   Minor Intimacies when asked, but probably couldn't name them off the top of
   their heads.
 
-Here are some examples for Zach Moring:
+Here are some examples for me:
 
 - Defining: My rigid, inflexible system of morals.
 - Major: My political beliefs.
