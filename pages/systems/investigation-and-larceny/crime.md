@@ -24,7 +24,6 @@ difficulty for an investigator to uncover your actions.
 
 ## Disguise
 
-
 Use Disguise to create a disguise that makes you appear to be someone else. In
 most cases, putting a disguise together will require make-up, a costume, and
 about 5 to 15 minutes depending on how complicated your ruse is.

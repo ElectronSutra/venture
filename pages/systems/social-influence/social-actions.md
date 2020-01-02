@@ -38,6 +38,11 @@ Before you roll, name a category or kind of Intimacy you would like to uncover
 If you succeed at the roll, you learn their Intimacy if they have one, or you
 learn conclusively that they do not have such an Intimacy.
 
+### Profile Character
+
+Sometimes [Profile Character](/venture/systems/investigation-larceny/investigation#profile-character)
+can be useful to take someone's measure.
+
 ## Instill
 
 When you Instill an Intimacy, choose one:
