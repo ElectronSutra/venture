@@ -52,18 +52,3 @@ the patient's roll to resist that poison.
 
 Add 2 to the difficulty of any diagnosis or poison treatment roll made while in
 an active combat situation.
-
-## The Aesthetics of Medicine
-
-Medicine is weird because we, as modern Americans, casually happen to know a lot
-more about disease and illness than most historical doctors ever did. Germ
-theory is very recent, after all.
-
-So in Creation, all sorts of different medicines work at the same time. You can
-genuinely treat a lot of diseases using acupuncture, tai chi, and other courses
-of alternative medicine.
-
-Germs and diseases run on narrative. You won't get screwed over because you
-forgot to sanitize a knife -- unless you think that is cool. If you make a
-character that is good at medicine, you should figure out what kind of aesthetic
-you are going for and stick to it.
