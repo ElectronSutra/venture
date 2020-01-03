@@ -4,6 +4,7 @@ title: The Red Art of Violence
 permalink: /systems/combat/
 parent: Systems
 nav_order: 1
+has_children: true
 ---
 
 # The Red Art of Violence
