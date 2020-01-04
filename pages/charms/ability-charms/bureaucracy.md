@@ -28,23 +28,6 @@ disappearing 6s.
 
 ## Essence 1
 
-### Confluence of Savant Thought
-
-> **Cost**: 2m; **Mins**: Bureaucracy 2, Essence 1
->
-> **Type**: Simple; **Duration**: Instant
->
-> **Keywords**: Water
->
-> **Prerequisite Charms**: None
-
-_Your knowledge of systems is truly vast. You glance at a system and all the_
-_little tidal pools of power are obvious to you._
-
-Introduce a fact with Bureaucracy as long as it pertains to an organization.
-
-***
-
 ### Finding the Water's Depths
 
 > **Cost**: 3m; **Mins**: Bureaucracy 2, Essence 1
@@ -155,7 +138,7 @@ Anyone subject to that influence gets +1 Resolve against it.
 >
 > **Keywords**: Water
 >
-> **Prerequisite Charms**: [Confluence of Savant Thought](#confluence-of-savant-thought)
+> **Prerequisite Charms**: None
 
 _Beneath your skillful fingers, crimes and debts sink below the surface like_
 _pebbles into a placid lake..._
