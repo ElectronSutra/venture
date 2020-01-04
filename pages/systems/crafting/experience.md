@@ -26,8 +26,7 @@ complete superior projects.
 ### White Experience
 
 White experience (wxp) is earned from completing superior projects, and used to
-complete the legendary projects that elude even the greatest crafters -- lucky
-that you're a player!
+complete the legendary projects that elude even the greatest crafters...
 
 ## Basic Objectives
 

@@ -32,11 +32,3 @@ must fuse _N_ major project slots and spend _N_ gxp to create an appropriate
 slot.
 
 _Example_: A rank 3 project requires 3 major project slots and costs 3gxp.
-
-## Legendary Project Slots
-
-You must commit a legendary project slot if you are working on a legendary
-project.
-
-You have _no_ legendary project slots to start with. You may purchase a
-legendary project slot with 5wxp.
