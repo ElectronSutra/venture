@@ -19,6 +19,12 @@ Every initiation offers a _shaping ritual_, an alternative means by which you
 can accrue and store sorcerous motes. Your shaping ritual is deeply reflective
 of the nature of your initiation.
 
+## Control Spells
+
+For every initiation, you gain a "control spell." This spell has extra benefits
+in addition to its regular effects, and usually has an aesthetic weirdness you
+get to invoke.
+
 ## Initiation Merits
 
 Some initiations offer Merits that you can purchase, which allow you to buy some
