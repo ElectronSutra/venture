@@ -33,7 +33,7 @@ to engage with.
   traditional House devoted to upholding the social order.
 - [**House Mnemon**.](/venture/the-realm/great-houses/mnemon/) A proud, devout
   House with a deeply-involved guiding hand.
-- [**House Nellens**.](/venture/the-realm/great-houses/nelens/) A scrappy House
+- [**House Nellens**.](/venture/the-realm/great-houses/nellens/) A scrappy House
   of mongrels and thin-bloods.
 - [**House Peleps**.](/venture/the-realm/great-houses/peleps/) A beloved House
   of folk heroes charged with maintaining the Imperial Navy.
