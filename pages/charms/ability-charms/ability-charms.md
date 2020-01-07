@@ -113,3 +113,25 @@ retrieved it from:
   tags. If it already had both, add 1 bonus die to grapple attack rolls.
 - WOOD: The weapon is wrapped in vines and blossoms. It gets the Disarming tag.
   If it already has the Disarming tag, add 1 bonus die to Disarm gambits.
+
+***
+
+### Elemental Aegis
+
+> **Cost**: 3m (+1a); **Mins**: Essence 2
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: None
+>
+> **Prerequisite Charms**: None
+
+You may banish any attuned jade armor into a display of an element. It melts
+into a waterfall, flies away as smoke as you walk through a bonfire, or fades
+into a stone pillar, that sort of thing.
+
+You can use this Charm again to withdraw it from any manifestation of the same
+element. You don it immediately with a cool enough stunt.
+
+Your anima always counts as an "appropriate elemental display" for your Aspect's
+element.
