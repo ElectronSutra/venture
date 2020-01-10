@@ -33,7 +33,7 @@ Add 1 success per 2m spent. Add disappearing 6s.
 >
 > **Type**: Supplemental (Any roll); **Duration**: Instant
 >
-> **Keywords**: Pilot, Water
+> **Keywords**: Captain, Water
 >
 > **Prerequisite Charms**: None
 
@@ -50,7 +50,7 @@ of Wits or Speed, min 1) failed dice that didn't come up as a 1.
 >
 > **Type**: Supplemental (Navigate a Hazard); **Duration**: Instant
 >
-> **Keywords**: Balanced, Pilot, Water
+> **Keywords**: Balanced, Captain, Water
 >
 > **Prerequisite Charms**: [Storm-Outrunning Technique](#storm-outrunning-technique)
 

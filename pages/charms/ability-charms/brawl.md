@@ -227,7 +227,7 @@ Onslaught from this attack lasts an extra turn.
 
 > **Cost**: 3m; **Mins**: Brawl 3, Essence 2
 >
-> **Type**: Supplemental (); **Duration**: Instant
+> **Type**: Supplemental (Damage); **Duration**: Instant
 >
 > **Keywords**: Dual, Earth
 >

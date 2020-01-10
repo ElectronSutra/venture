@@ -133,7 +133,7 @@ Double (Strength) 10s on your damage roll.
 
 > **Cost**: 4m, 1i; **Mins**: Melee 4, Essence 2
 >
-> **Type**: Supplemental (); **Duration**: Instant
+> **Type**: Supplemental (Damage); **Duration**: Instant
 >
 > **Keywords**: Perilous, Withering-only, Wood
 >

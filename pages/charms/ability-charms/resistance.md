@@ -34,7 +34,7 @@ Add 1 success per 2m spent. Add disappearing 6s.
 >
 > **Type**: Permanent; **Duration**: Permanent
 >
-> **Keywords**: None
+> **Keywords**: Stackable
 >
 > **Prerequisite Charms**: None
 
@@ -202,7 +202,7 @@ does Fire protect you from smoke or Anathema hellfire, that sort of thing.
 >
 > **Type**: Simple; **Duration**: One scene
 >
-> **Keywords**: Earth, Restrictin (1/day)
+> **Keywords**: Earth, Restriction (1/day)
 >
 > **Prerequisite Charms**: [Uneating Earth Meditation](#uneating-earth-meditation)
 
