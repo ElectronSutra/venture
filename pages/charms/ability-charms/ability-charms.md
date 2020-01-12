@@ -16,7 +16,7 @@ minimum Essence requirement.
 
 ### Brilliant [Ability] Thought
 
-> **Cost**: 1m; **Mins**: Essence 1
+> **Cost**: 2m; **Mins**: Essence 1
 >
 > **Type**: Simple; **Duration**: Instant
 >
@@ -28,7 +28,8 @@ Introduce a fact with [Ability], as long as it is relevant to [Ability]'s
 specific field of knowledge. For example, Brilliant Bureaucracy Thought can
 introduce facts relating to an organization you are a member of or familiar
 with; Brilliant Melee Thought can introduce a fact related to a fighting style;
-etc.
+Brilliant Survival Thought can introduce a new species of plant or animal native
+to a region you have studied; etc.
 
 You may purchase this Charm separately for every Ability except for Lore.
 
@@ -69,7 +70,7 @@ You can purchase two additional elements as a Charm purchase.
 
 ### Elemental Sheath
 
-> **Cost**: 1m (+1a); **Mins**: Essence 2
+> **Cost**: 2m (+1a); **Mins**: Essence 2
 >
 > **Type**: Reflexive; **Duration**: Instant
 >
