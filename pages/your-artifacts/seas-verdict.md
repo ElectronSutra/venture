@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Coral: Sea's Verdict"
+title: Sea's Verdict
 permalink: /artifacts/seas-verdict/
 parent: Your Artifacts
 nav_order: 1
