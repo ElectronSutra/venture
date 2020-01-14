@@ -124,6 +124,66 @@ beastie gets no Resolve bonus for failing to understand you.
 >
 > **Prerequisite Charms**: [Beast-Taming Aspect](#beast-taming-aspect)
 
+_Even savage beasts bow down before your charming presence._
+
+When you are training an animal to use a latent or magical ability, you complete
+one interval in a week instead of one interval in a month.
+
+***
+
+### Invoking Nature's Forgiveness
+
+> **Cost**: 3m, 1wp; **Mins**: Survival 3, Essence 2
+>
+> **Type**: Simple; **Duration**: One day
+>
+> **Keywords**: Wood
+>
+> **Prerequisite Charms**: None
+
+_You spend time teaching your allies to withstand nature's wrath. Your anima_
+_extends to wrap around them like a comforting blanket. They shall know no_
+_suffering on your watch._
+
+You can target all of your Sworn Kin, plus up to (Essence) additional characters
+with this Charm.
+
+Spend a few minutes with each target in one-on-one training to deal with an
+extreme environment. After your training, each target gets a temporary
+Resistance specialty to withstand that environment. They also ignore (your
+Essence) points of environmental penalty.
+
+***
+
+### Stalking Wolf Pursuit
+
+> **Cost**: 4m; **Mins**: Survival 3, Essence 2
+>
+> **Type**: Supplemental (Tracking); **Duration**: Instant
+>
+> **Keywords**: Wood
+>
+> **Prerequisite Charms**: [Quarry Revelation Technique](#quarry-revelation-technique)
+
+_Your quarry cannot escape you, no matter how it tries to hide._
+
+Ignore penalties from visual obstructions, the age of tracks, etc. If you
+succeed, you also learn how long ago your target passed through the area.
+
+***
+
+### Vanishing Tracks Technique
+
+> **Cost**: 5m; **Mins**: Survival 4, Essence 2
+>
+> **Type**: Supplemental (Hide Tracks); **Duration**: Instant
+>
+> **Keywords**: Air
+>
+> **Prerequisite Charms**: [Trail-Concealing Measure](#trail-concealing-measure)
+
 _Flavor._
 
-Mechanical text.
+Get disappearing 6s. In addition to your own spoor, your may also conceal the
+spoor of your Hearthmates and up to (Essence) other characters if your roll is
+better than theirs.
