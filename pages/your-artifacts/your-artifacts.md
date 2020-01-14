@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Your Artifacts
-permalink: /gear/artifacts/
-parent: Gear
-nav_order: 4
+permalink: /artifacts/
+nav_order: 6
 has_children: true
 ---
 

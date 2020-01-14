@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Coral: Sea's Verdict"
-permalink: /gear/artifacts/seas-verdict/
+permalink: /artifacts/seas-verdict/
 parent: Your Artifacts
-grand_parent: Gear
 nav_order: 1
 ---
 
