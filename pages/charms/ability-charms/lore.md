@@ -124,7 +124,7 @@ the aura.
 >
 > **Type**: Permanent; **Duration**: Permanent
 >
-> **Keywords**: Restricted (1/day)
+> **Keywords**: Restriction (1/day)
 >
 > **Prerequisite Charms**: [Elemental Concentration Trance](#elemental-concentration-trance)
 

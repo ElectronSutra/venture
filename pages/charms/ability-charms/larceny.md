@@ -146,7 +146,7 @@ specialty is indefinite, but you can only have one at a time.
 
 > **Cost**: 2m; **Mins**: Larceny 4, Essence 1
 >
-> **Type**: Supplemental (); **Duration**: Instant
+> **Type**: Supplemental (Throw Voice); **Duration**: Instant
 >
 > **Keywords**: Air
 >
