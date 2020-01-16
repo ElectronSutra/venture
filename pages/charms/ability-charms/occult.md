@@ -188,7 +188,7 @@ the spirit, just not it's exact location.
 >
 > **Prerequisite Charms**: [Seed and Salt Warding](#seed-and-salt-warding)
 
-_Flavor._
+_Spirits bow to the birthright of the Chosen._
 
 Choose one:
 
