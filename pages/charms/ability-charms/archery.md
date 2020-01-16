@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Archery Charms
-permalink: /charms/archery/
-parent: Charms
-nav_order: 2
+permalink: /charms/abilities/archery/
+parent: Ability Charms
+grand_parent: Charms
+nav_order: 1
 ---
 
 # Archery Charms

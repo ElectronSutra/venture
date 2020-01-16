@@ -22,25 +22,46 @@ guide on how to read them.
 
 ### Cost
 
-Charm cost is mostly in motes (m) and willpower (wp). Some combat Charms cost
-Initiative (i) or health levels (lethal lhl, bashing bhl, aggravated ahl). One
-cost you may see is your anima (a); this represents spending 1 level of glow
-from your anima. So 3a means you _must_ be at Iconic to activate the Charm, and
-you immediately go back to dim.
+Every Charm has a listed cost. The cost might be --, in which case the Charm is
+permanent or free. Costs are abbreviated as follows:
+
+| Abbreviation | Meaning                              |
+| :----------- | :----------------------------------- |
+| #m           | # motes                              |
+| #wp          | # Willpower                          |
+| #ahl         | # aggravated health levels of damage |
+| #bhl         | # bashing health levels of damage    |
+| #lhl         | # lethal health levels of damage     |
+| #a           | # levels of glow from your anima     |
+| #i           | # Initiative                         |
 
 ### Minimums
 
-A Charm with minimums Archery 3, Essence 2 means you must have Archery 3 and
-Essence 2 in order to purchase it.
+You must meet both of these minimums in order to purchase this Charm.
 
 ### Charm Types
 
-Charms come in four types:
+Charms have four types: Simple, Reflexive, Supplemental, and Permanent.
 
-- _Simple_ Charms create an action;
-- _Supplemental_ Charms enhance the listed action;
-- _Reflexive_ Charms can be used at any time;
-- _Permanent_ Charms offer a permanent passive effect.
+#### Simple
+
+A simple Charm creates an action. You cannot flurry a simple Charm unless it
+explicitly says that you can.
+
+#### Reflexive
+
+A reflexive Charm can be used at any time, whether or not it is your turn.
+
+#### Supplemental
+
+A supplemental Charm enhances a given action. Supplemental Charms can only
+be used for actions using the Ability (Melee Charms to supplement a Melee roll,
+etc.) unless the Charm explicitly says otherwise. A supplemental Charm will
+specify in parentheses what specific action or actions it affects.
+
+#### Permanent
+
+A permanent Charm is always available.
 
 ### Keywords
 
@@ -54,45 +75,24 @@ Most Charms are _instant_, meaning that they happen at the moment that the cost
 is spent.
 
 If a Charm has a cost that lasts longer than 1 turn, the cost must be
-_committed_. Releasing a commitment is instantaneous and instantly ends the
-effect.
+_committed_. While they are committed, you do not regenerate them.
+
+Lifting a commitment is reflexive and ends the effect immediately.
 
 ### Prerequisite Charms
 
 You must meet _all_ listed prerequisites in order to purchase a Charm.
 
-## Aura
+## Charm Limits
 
-Dragon-Blooded Charms are all aligned to an element. This element is indicated
-by having an elemental keyword.
+Many Charms add bonus dice or successes. Note the following restriction:
 
-Dragon-Blooded can enter a state called an _aura_ by only using Charms of one
-element during their turn; at the end of that turn, they enter that element's
-aura. Lot-Casting Atemi has a little box that keeps track of it for you.
+    You may only add up to (Ability + Specialty) dice using Charms to a single
+    action.
 
-Some Charms are stronger when you are in the appropriate aura. Some Charms can
-_only_ be used in their aura.
+Automatic successes count as 2 dice.
 
-### Aesthetics
+This is called your **Charm limit**. Your Charm limit counts not only your
+Excellency, but _all dice added from all active Charm effects_.
 
-When you enter an aura, your anima changes. If your aura aligns with your
-Aspect, then it gets more intense -- a fire becomes a bonfire, or clouds become
-storming thunder. If it is a different element, your elements blend together --
-so Fire/Earth may become a volcano, or Wood/Water may manifest as thick kelp.
-
-## Signature Charms
-
-Every Ability has five Signature Charms. A Signature Charm is extra powerful
-and flashy. You can have 1 Signature Charm for each Ability, in any element.
-
-## Excellencies
-
-The last and most important note about Charms is the _Excellency_.
-
-An Excellency is a basic workhorse Charm. Every Ability has one. An Excellency
-allows you to buy dice for motes 1-for-1 or successes for motes 1-for-2. These
-Charms are often not the most efficient option, but they are incredibly
-flexible. Savannah can elaborate on how useful they are.
-
-You can only add (Ability + Specialty) total dice on a roll, or half that many
-successes.
+Anything called out as "non-Charm" does not count against your Charm limit
