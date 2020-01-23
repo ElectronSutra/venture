@@ -37,6 +37,8 @@ which it returns without hesitance.
 
     Tags: Artifact, Disarming, Lethal, Melee, Piercing, Thrown (Short)
 
+    Hearthstone Slots: 2
+
 ## Aesthetics
 
 Sea's Verdict is a black jade trident. It is engraved with silver serpents along
