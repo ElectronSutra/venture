@@ -107,7 +107,7 @@ their Onslaught resets as usual.
 
 ### The All-Consuming Maw
 
-> **Cost**: 4m (+1m), 1wp; **Mins**: Essence 2
+> **Cost**: 4m, 1wp; **Mins**: Essence 2
 >
 > **Type**: Simple; **Duration**: Instant
 >
@@ -119,8 +119,8 @@ _As Tsichu once devoured the many, so the Plum Garden Fangs now devour the few._
 _They fly through the air, tethered to your wrists by glowing Essence, and_
 _drag your prey into your maw._
 
-Make grapple gambit against an opponent out to short range. You use Martial Arts
-or Melee instead of Brawl for the gambit and control rolls.
+Make a grapple gambit against an opponent out to short range. You use Martial
+Arts or Melee instead of Brawl for the gambit and control rolls.
 
 If you win control of the grapple, you drag your opponent into close range if
 they are not already. You _must_ make a savage action as your first action in
