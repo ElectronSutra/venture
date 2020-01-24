@@ -36,88 +36,153 @@ works.
 
 ### Ability Tags
 
-**Brawl/Melee/Martial Arts**: These tags indicate that the weapon is an up-close
-weapon. Weapons with the `Brawl` or `Melee` tag use their associated Ability.
-Weapons with the `Martial Arts` tag require special training to use; either at
-least 1 dot of a relevant Martial Art _or_ a Specialty in that weapon.
+#### Archery
 
-**Archery (_distance_)**: This weapon is is ranged. It can make attacks out to
-the indicated _distance_. Use the following table instead of the weapon's
-usual Accuracy:
+This weapon uses Archery as its combat stat. It can make ranged attacks. It has
+no inherent accuracy; it uses the following chart instead:
 
 | Close | Short | Medium | Long | Extreme |
 | :---- | :---- | :----- | :--- | :------ |
 | -2    | +4    | +2     | +0   | -2      |
 
-**Thrown (_distance_)**: This weapon can be thrown. It can make attacks out to
-the indicated _distance_. Use the following table instead of the weapon's usual
-Accuracy when it is thrown:
+The parenthetical after the tag indicates the weapon's maximum range.
+
+#### Brawl
+
+This weapon uses Brawl as its combat stat. It can only make close-range attacks.
+
+#### Martial Arts
+
+This weapon requires special training. You can wield it with martial arts by
+training in a martial art which lists it as a form weapon. You may wield it
+using Melee by taking a melee specialty in this weapon.
+
+#### Melee
+
+This weapon uses Melee as its combat stat. It can only make close-range attacks.
+
+#### Thrown
+
+This weapon can be Thrown; usually these weapons can also be used with another
+skill. It has no inherent accuracy while thrown; instead, it uses the following
+table:
 
 | Close | Short | Medium | Long | Extreme |
 | :---- | :---- | :----- | :--- | :------ |
 | +4    | +3    | +2     | -1   | -3      |
 
+The parenthetical after the tag indicates the weapon's maximum range.
+
 ### Damage Tags
 
-**Bashing**: This weapon deals bashing damage.
+#### Bashing
 
-**Lethal**: This wepaon deals lethal damage. You can always use a stunt to deal
-bashing damage instead.
+This weapon deals bashing damage only.
+
+#### Lethal
+
+This weapon deals lethal damage. You may also _always_ choose to deal bashing
+damage by declaring that you wish to do so and providing an appropriate stunt.
 
 ### Other Tags
 
-**Artifact**: This weapon is an _Artifact_. Add +1 to the accuracy value; +2 to
-the damage value; and +2/+3/+4 to the Overwhelming value depending on the
-weight.
+#### Artifact
 
-**Balanced**: Increase the weapon's Overwhelming value by 1.
+This weapn is an Artifact. In order to wield this weapon, you must commit the
+_attunement cost_ as noted in the weapon's text body. It is also capable of
+unlocking _Evocations_, the extremely powerful techniques that blend the legend
+of the weapon and wielder.
 
-**Chopping**: This weapon allows you to make a Chopping attack. A Chopping
-attack reduces your Defense by 1 until your next turn, but increases your
-**withering** damage by 3 _or_ reduces the target's Hardness by 2.
+This weapon gets +1 Accuracy and +2 damage. It gets +2/+3/+4 Overwhelming
+depending on the weight class.
 
-**Concealable**: This weapon can be hidden on your person with a difficulty 1
-Larceny roll.
+#### Balanced
 
-**Crossbow**: This weapon adds +4 damage in place of using your Strength,
-regardless of your actual Strength value.
+This weapon gets +1 Overwhelming.
 
-**Disarming**: This weapon reduces the difficulty and cost of a Disarm gambit
-by 1.
+#### Chopping
 
-**Flame**: This weapon shoots fire. This tag behaves like the _Crossbow_ tag,
-with the additional restriction that Charms cannot increase the range of attacks
-made with this weapon.
+This weapon allows you to make a chopping attack.
 
-**Flexible**: This weapon ignores the Defense bonus from a Full Defense action.
+> **Chopping Attack** (-1 Defense until next turn): Get +3 **withering** damage
+> or reduce your target's Hardness by 2 against this attack.
 
-**Grappling**: This weapon can be used to make a grappling attack.
+#### Concealable
 
-**Hefty**. This weapon is too heavy to be used on horseback.
+This weapon can be hidden on your person. Concealing your weapon is a Larceny
+roll against difficulty 1; if you have at least 5 minutes, it succeeds
+automatically.
 
-**Natural/Worn**: This weapon cannot be disarmed. Natural weapons are part of
-your body; worn weapons are something you wear.
+#### Crossbow
 
-**Piercing**: This weapon allows you to make a Piercing attack. A Piercing
-attack costs 1i and lowers the target's Defense by 1 until their next turn. If
-the attack is **withering**, it ignores 4 points of soak.
+This weapon does not add your Strength to calculate damage. Instead, it always
+adds 4 damage.
 
-**Poisonable**: This weapon can be poisoned.
+#### Disarming
 
-**Reaching**: This weapon negates the advantage of mounted targets.
+This weapon reduces the cost and difficulty of a disarm gambit by 1.
 
-**Shield**: This weapon reduces its damage bonus by 2. You may flurry Full
-Defense with Rush and Withdraw actions. If you choose to take only Full Defense,
-you boost your Parry by 3 instead of by 2.
+#### Flame
 
-**Slow**: This weapon requires an action to reload.
+This weapon shoots fire. It behaves as though it has the [_Crossbow_](#crossbow)
+tag. Charms cannot enhance the range of attacks made with this weapon.
 
-**Smashing**: This weapon allows you to make a Smashing attack. A Smashing
-attack costs 2i. You reduce your Defense by 1 until your next turn and send your
-target flying 1 range band away or knock them prone.
+#### Flexible
 
-**Subtle**. This weapon cannot deal damage; it can only be used to inflict
-poison.
+This weapon ignores the Defense bonus from a [full defense](/venture/systems/combat/actions#full-defense)
+action.
 
-**Two-Handed**: You may use Strength instead of Dexterity when making attacks
-with this weapon.
+#### Grappling
+
+This weapon can be used to make a grappling attack and to savage while making a
+grappling attack.
+
+#### Hefty
+
+This weapon is too heavy to be used on horseback.
+
+#### Natural
+
+This weapon cannot be disarmed. It is part of your body.
+
+#### Piercing
+
+This weapon allows you to make a piercing attack.
+
+> **Piercing Attack** (1i): Lower the target's Defense by 1 until their next
+> turn. If **withering**, also ignore 4 points of soak.
+
+#### Poisonable
+
+This weapon can be poisoned.
+
+#### Reaching
+
+This weapon negates the advantage of mounted targets.
+
+#### Shield
+
+This weapon gets -2 damage. You get +1 more Defense when taking Full Defense.
+You may flurry Full Defense with [rush](/venture/systems/combat/actions#rush) and
+[disengage](/venture/systems/combat/actions#disengage) actions and still get a
++2 Defense bonus.
+
+#### Slow
+
+This weapon requires an action to reload.
+
+#### Smashing
+
+This weapon allows you to make a smashing attack.
+
+> **Smashing Attack** (2i, -1 Defense): Send your target flying 1 range
+> band in any direction or knock them prone.
+
+#### Subtle
+
+This weapon cannot deal damage; it can only be used to inflict poison.
+
+#### Two-Handed
+
+You may use Strength instead of Dexterity when making attacks with this weapon.
+You cannot use another weapon in your offhand.
