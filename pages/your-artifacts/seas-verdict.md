@@ -1,10 +1,8 @@
 ---
 layout: default
-title: "Coral: Sea's Verdict"
-permalink: /gear/artifacts/seas-verdict/
+title: Sea's Verdict
+permalink: /artifacts/seas-verdict/
 parent: Your Artifacts
-grand_parent: Gear
-nav_order: 1
 ---
 
 # Sea's Verdict
@@ -38,6 +36,8 @@ which it returns without hesitance.
     Type: Medium Artifact (Accuracy +3, Damage +12L, Overwhelming 4)
 
     Tags: Artifact, Disarming, Lethal, Melee, Piercing, Thrown (Short)
+
+    Hearthstone Slots: 2
 
 ## Aesthetics
 
