@@ -28,6 +28,10 @@ attack.
 
 You may make a **withering** or **decisive** attack.
 
+### Gambit
+
+You may commit to a gambit and try to change the battle state.
+
 ### Rush
 
 You may barrel toward a target. Roll (Strength + Athletics) against the target's
