@@ -32,7 +32,7 @@ many Artifacts awarded to House Ledaal upon Jurul's destruction.
 
     Tags: Artifact, Disarming, Lethal, Martial Arts, Poisonable
 
-    Hearthstone Slots: 2
+    Hearthstone Slots: 1
 
 ## Aesthetics
 
