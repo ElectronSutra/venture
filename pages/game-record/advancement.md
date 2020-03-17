@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advancement
-permalink: /record/advancement/
+permalink: /game-record/advancement/
 parent: Game Record
 nav_order: 1
 ---

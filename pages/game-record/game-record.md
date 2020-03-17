@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Game Record
-permalink: /record/
+permalink: /game-record/
 nav_order: 7
 has_children: true
 ---
