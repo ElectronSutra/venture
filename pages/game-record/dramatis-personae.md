@@ -3,7 +3,7 @@ layout: default
 title: Dramatis Personae
 permalink: /game-record/dramatis-personae/
 parent: Game Record
-nav_order: 2
+nav_order: 3
 ---
 
 # Dramatis Personae
