@@ -42,6 +42,8 @@ At the end of session 15, you progress from Essence 2 to Essence 3.
 - A new specialty,
 - Finalize a working, project, etc.
 
+You may waive advancement A twice in a row to get 1 of anything.
+
 **B**. Choose one of the following:
 
 - A new Charm from an Aspect or Favored skill,
