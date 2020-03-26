@@ -1,19 +1,17 @@
 ---
 layout: default
-title: The Immaculate Order
-permalink: /the-realm/immaculate-order/
+title: Immaculatism
+permalink: /the-realm/immaculatism/
 parent: The Realm
 nav_order: 4
 ---
 
-# The Immaculate Order
+# Immaculatism
 
-The Immaculate Philosophy is the state religion of the Realm, and the spiritual
-practice in which you were all raised. The clergy of this religion are known as
-the Immaculate Order.
-
-The Immaculate Order is basically fantasy Buddhism crossed with Indian Orthodoxy
-with a healthy sprinkle of proselytizing and social control.
+_Immaculatism_ is the state religion of the Realm and the one true understanding
+of faith and self in Creation. The Realm's spiritual life is administered by the
+Immaculate Order, the body attached to the state which comprises the monks and
+laity who recognize the Mouth of Peace as spiritual authority.
 
 ## High-Level Summary
 
@@ -29,77 +27,64 @@ your character as someone who practices it:
 
 ## Core Beliefs
 
-The heart of Immaculate belief is the Perfected Hierarchy. The Order teaches
-that all human beings exist within a natural and perfect hierarchy. Everybody is
-born with a sacred duty, and the goal of life is to fulfill your duty. The
-farmer's lot is to farm; the monk's lot is to pray; the Dragon-Blooded's lot is
-to rule.
+The Elemental Dragons birthed Creation from their very own souls, their own
+Essence. Thus, all human beings are shards of the Dragons' divine energy. This
+energy naturally seeks to reunite with its source by cultivating perfection and
+enlightenment. A transcendant individual, when they die, reunites with the
+Elemental Dragons.
 
-By living in accordance with their sacred duty, the individual is blessed with
-good merit, good fortune, and good luck. When they pass on, their accumulated
-merit advances them along the path to spiritual enlightenment. Thus, in their
-next life, they are born into a more perfect step.
+The best way to cultivate merit is through fulfilling one's place in the
+_Perfected Hierarchy_. Every human being is born with a natural station and a
+specific sacred duty. Farmers are meant to farm, soldiers to war, and
+Dragon-Blooded, as the most enlightened and the closest to the Dragons, to rule
+over society in wisdom and mercy.
 
-In the end, the individual accumulates enough merit to transcend the cycle of
-rebirth and reunify their soul with the Elemental Dragons. Becoming a Prince of
-the Earth is the last step in this cycle; they're the humans that are in closest
-alignment to the Elemental Dragons.
+By living in accordance with one's sacred duty, an individual is able to
+accumulate merit and advance along the path to enlightenment with their next
+reincarnation. Eventually, they are reborn as a Dragon-Blooded, and then, they
+have the potential to transcend mortality and reunite with the Dragons.
 
-The Order teaches that mortals should _not_ worship gods directly, because this
-leads the soul astray. Instead, mortals should focus on personal betterment and
-fulfilling their duty, and allow the Order to coordinate divine worship.
+## The Immaculate Dragons
 
-## Dragons and Dragons and More Dragons
-
-The world was created by the five Elemental Dragons, who also created humanity
-from their souls. Humans, an imperfect subset of the souls of the dragons, are
-subject to impurity and temptation; the goal of the Order is to liberate
-yourself from your human attachments and reunify your soul with the dragons.
-
-Also of vital importance are the Five Immaculate Dragons, five Dragon-Blooded
-heroes of ancient times. These five soldier-messiahs liberated the world from
-the tyranny of the Anathema and wrote the original texts which the Order has
-preserved to this day.
-
-## The Five Immaculate Dragons
-
-The Five Immaculate Dragons who defeated the Anathema of the Realm Before and
-wrote the original texts are:
-
-- **Mela**, the Dragon of Air, Petitioner of Clouds Accordant to the Call of
-  Battle. Mela was the first of the Five Immaculate Dragons to incarnate.
-  She was a devoted soldier and deeply involved in her community; she teaches us
-  the value of Engagement.
-- **Sextes Jylis**, the Dragon of Wood, He Who Hath Strewn Much Grass. Sextes
-  Jylis wandered the world bringing grain, livestock, and prosperity to everyone
-  he encountered. He never lost sight of the important things: the virtue of
-  Duty.
-- **Daana'd**, the Dragon of Water, the Arbiter of the Immaculate Complaint.
-  Daana'd was born as a man before she gave up her life and her beard to join
-  the Immaculate Dragons. When the Dragons made war on the Anathema, she swam
-  down to the darkest depths to ensure that none escaped justice. She teaches us
-  the value of Devotion.
-- **Pasiap**, the Dragon of Earth, He Who Illuminates Both Worlds With Majesty
-  and Power. Pasiap was the educator of the Dragons, and the most knowledgeable
-  of the Anathema. He was second in command after Mela. Pasiap devoted his life
-  to education and mercy. He teaches us the value of Compassion.
-- **Hesiesh**, the Dragon of Fire, the Reciter of Loud Hymns and Efficacious
-  Prayers. Hesiesh was the most powerful of the Dragons, but spent his whole
-  life carefully cultivating his power for when he needed it most. When the
-  Dragons made war on the Anathema, he unleased his full power as a firestorm
-  that swept the world clean. Hesiesh teaches us the value of Self-Control.
-
-The Order teaches that the way to lead your best life is to emulate the five
-Immaculate Dragons in action and in thought.
+[The Immaculate Dragons](/the-realm/immaculatism//the-realm/immaculate-order/immaculate-dragons/)
+are the five ancient saint-heroes of ancient yore which were responsible for
+writing the Immaculate Texts and bringing enlightened wisdom to humanity. These
+soldier-messiahs lead humanity in revolution against the decadent gold and
+silver devil-kings of the Realm Before. They are sacred and powerful figures
+which all Immaculates strive to emulate, in order to progress along the path
+to enlightenment.
 
 ## Anathema
 
-The Order terms anything that would lead their flock astray as _Anathema_. In
-this label, we find everything from the gold and silver demons of the Realm
-Before who enslaved humanity, to raksha and fair folk preying on dreams, to gods
-who demand worship and shun the calendar.
+**Anathema** is a label which describes anything that poses an existential
+threat to the liberation and well-being of humanity as a whole. It is a term
+which incorporates everything from the dream-hungry raksha hiding in Wyld
+pockets and the borders of the world, to rogue gods that prey on humans and
+demand illegal worship, to the gold and silver devil-kings of the Realm Before.
 
-The Order occasionally organizes a "Wyld Hunt" to deal with a pressing problem
-of Anathema. You are aware of this obligation -- if you are called, you must
-answer. However, mostly the Order calls on its own monks, so it's a distant
-possibility.
+In general, the category of Anathema is the category of wicked things used to
+scare children to bed at night, or to label the dangerous and wicked creatures
+that lurk beyond respectable society.
+
+## History of Immaculatism
+
+In the Realm Before, the devil-kings demanded worship from mortals, and cavorted
+with greedy gods to extort prayer and exultation from all human beings of the
+world. Their honeyed words promised liberation and freedom, but this honey only
+turned to sour vinegar when time came to taste of it.
+
+The Five Immaculate Dragons were born into this world, and rejected its cruelty
+and the decadent ways of the Anathema Princes. They lead a glorious revolution
+to overthrow the social order, and liberated humanity from its bondage. After
+this holy war, the Dragons wandered the world spreading the Immaculate Word as
+the true religion of Creation.
+
+During the Shogunate, after the war but before the Empress ascended the throne,
+the Immaculate Order carried on spreading the word of the Immaculate Dragons.
+The religion first converted the Blessed Isle, and then from there spread to the
+Inner Sea, and then further still.
+
+When the Empress ascended to the throne, she made the Immaculate Order the
+official religious body of her new empire. She found the first Mouth of Peace,
+and gradually consolidated the religious order under the office of the Mouth of
+Peace. Today, all of the Blessed Isle is Immaculate, and lead by the Order.
