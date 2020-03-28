@@ -16,8 +16,8 @@ you will gain an advancement according to the following table:
 |      | Session | Advancement |
 | :--- | :------ | :---------- |
 | [x]  | 1       | A           |
-| [ ]  | 2       | B           |
-| [ ]  | 3       | A and C     |
+| [x]  | 2       | B           |
+| [x]  | 3       | A and C     |
 | [ ]  | 4       | B           |
 | [ ]  | 5       | A           |
 | [ ]  | 6       | B and C     |
