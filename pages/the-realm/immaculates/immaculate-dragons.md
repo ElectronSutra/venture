@@ -15,12 +15,31 @@ messianic role, having brought the wisdom of the Immaculate Order to the masses
 after their conquest of the Anathema. They also fulfill an aspirational role, as
 all Immaculates are encouraged to emulate them and their virtues.
 
-Despite the Immaculate Order's objections to iconography, temple shrines often
-feature depictions of the Immaculate Dragons, statues of the Immaculate Dragons
-can be found throughout the Isle, and iconography survives in many forms. The
-strictness of aniconic enforcement varies through time, and at many periods has
-allowed devotional depictions of the Immaculate Dragons, although rarely any
-other figures.
+## Aniconism
+
+The Immaculate Order has a complicated relationship to images and icons. All
+images of gods and spirits are forbidden, as such icons lead mortals astray and
+encourage direct worship. Likewise, images of Immaculate figures are largely
+forbidden as well, because these figures are to be admired and emulated, not
+worshipped.
+
+However, the status of temple iconography is more complicated. For many, many
+periods throughout the Realm's history, the Order has voiced no objection to the
+construction of statues as part of the architecture of temples. In fact, in many
+cases, entire shrines are bedecked in draconic imagery. At other periods, the
+Order has grown more conservative, and restricted the production of icons,
+focusing instead on abstract representations.
+
+No incarnations of the Order have encouraged iconoclasm, which has thankfully
+left many ancient shrines in good repair. Even during very aniconic periods, the
+monks have largely protected the statues, especially if the monk was old enough
+to remember a more iconic period.
+
+The current Order, under the XXI Mouth of Peace, is among the more liberal,
+allowing depictions of the Immaculate Dragons in home shrines as well as in
+temples. The Order formally disapproves of the production of trinkets, such
+as necklaces carved in the image of Daana'd, but they are nonetheless very
+popular among the peasantry.
 
 ## Daana'd
 
