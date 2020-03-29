@@ -45,7 +45,7 @@ popular among the peasantry.
 
 Danaa'd, the Arbiter of the Immaculate Complaint, is the Immaculate Dragon of
 water. She is frequently depicted as a dark-haired woman in a breasplate,
-carrying either a sword or a spear. In her warrior aspect, she is sometimes
+carrying either a sword or trident. In her warrior aspect, she is sometimes
 presented with a long, curling tongue, claws, and black skin; this figure is
 often called _Vengeant Daana'd_. In her aspect as an arbiter and judge, she is
 often depicted blindfolded and strangling a serpent, which is said to represent
@@ -351,7 +351,7 @@ Hesiesh is a mysterious figure for many Immaculates, a serene and meditative
 figure associated with meditation, the act of devotion, spiritual wellness, and
 internal alchemy. People often revere Hesiesh with the goal of achieving long
 life and serenity. His patronages include musicians, artits, policemen,
-keepers-of-the-peace, and leaders, owing to his royal heritage.
+keepers-of-the-peace, and monarchs, owing to his royal heritage.
 
 Hesiesh is occasionally attributed to more eccentric patronages as well. He is
 often considered a patron of bakers, cooks, and tea-makers, as the _Epic of_
@@ -377,3 +377,182 @@ Fire Aspects are encouraged to emulate Hesiesh by studying his control. He is
 known to have been precise, deliberate, and contained. Fire Aspects are often
 drawn to spontaneous action without considering the consequence of their action,
 and Hesiesh reminds them to consider and contain.
+
+## Mela
+
+Mela, the Petitioner of Clouds Accordant to the Call of Battle, is the
+Immaculate Dragon of air. In many depictions, she is a gray-haired woman with
+armor and a spear. As _Mela Insightful_, she wears a broad conical straw hat,
+carries a bandolier of scrolls and ink, raises one hand in contemplation and
+holds a wreath in the other. In her aspect as _Mela Perilous_, she appears as a
+six-armed woman in motion, running forward, brandishing two swords, a lantern,
+a horn, and making the Sign of Saturn with her two remaining hands.
+Mela Perilous wears a towering headdress and is nude from the waist up.
+
+In strongly aniconic times, Mela may be depicted by a swirling triskelion, a
+radiant feather, or an encircled fan.
+
+The _First Epic of Mela_, the _Second Epic of Mela_, and the _Final Epic of_
+_Mela_ describe Mela's life, with a heavy emphasis on her role as the supreme
+commander of the forces of the Righteous Army of Liberation. Her Epics are rich
+in military detail, and the _Thousand Actions of the Upright Soldier_ borrows
+many idioms and techniques from these epics.
+
+### Early Life of Mela
+
+Mela was the first of the Immaculate Dragons to incarnate into the world,
+leading the others by many decades. The _First Epic of Mela_ begins with Mela as
+an adult, and contains scant references to her childhood; as a result, differing
+accounts of her childhood have emerged over time.
+
+The most widespread account of Mela's birth describes her as "a forceful and
+impetuous wind," tearing through many evils as a youth. In this account, she is
+said to have been born from the heart of a storm and emerged fully-formed as a
+young adult, bearing a lightning spear of virtue. She then laid siege to the
+warlord Yasu the Great and defeated him in single combat.
+
+A much later, and much more controversial, emerged during the early Shogunate
+period, and is often attributed to the insights of Immaculate abbot Ten Peaches
+in Harmony. This account describes Mela as being born in mundane circumstances
+to two peasants, and skilled in arms a child. After her family is slaughtered by
+Yasu the Great, the child Mela takes up a mundane spear and uses it to slay him,
+thereupon transforming the spear into her mighty weapon.
+
+The child Mela is said to have known how to read and write from the moment she
+was born, and to know poetry and meter by the sound of wind whipping through the
+branches. Mela's most common miracles include summoning spirits with her
+fingernails and binding them with her hair, whispering to the sky to change the
+weather, and breathing chill winter to freeze her foes.
+
+### The First Epic of Mela
+
+The _First Epic of Mela_ begins with Mela as a grown woman, traveling the many
+ancient cities of the Anathema to test her skill-at-arms against the greatest
+warriors the Anathema have to offer. She defeats all of the Anathema's masters
+with ease, and in so doing develops the five Immaculate Martial Arts.
+Eventually, her ashamed and defeated foes raise an army to defeat her, and
+narrowly manage to drive her into exile. While traveling between the cities, she
+is waylaid by many side adventures, including sealing away the
+one-hundred-and-eight wrathful ghosts at Red Plum Gorge, defeating a poetry god
+in a game of rhymes set to music, and the cleansing of the Library At Qupo.
+
+The _First Epic of Mela_ chronicles a time in Mela's life before the incarnation
+of the other Immaculate Dragons, and features a Mela who is, individually, more
+powerful than she appears in the later epics. It is also likely the youngest of
+the three epics, leading some branches of Immaculatism to consider it
+non-canonical. The Immaculate Order currently considers large parts of it
+apocryphal, but preserves the canonicity of several chapters. The _Younger_
+_Epic of Mela_, named in accordance with the _Younger Epic of Daana'd_, is the
+Order's abbreviated canonical version of the _First Epic_.
+
+### The Second Epic of Mela
+
+The second epic of Mela begins in Mela's exile from the lands of the Anathema
+kings, and focuses on the story of her gathering the other Immaculate Dragons
+and her foundation of the Righteous Army of Liberation. In contrast to the
+_First Epic_, the second epic -- hailing from a much earlier period -- features
+a greater emphasis on Mela's community-building and strategic genius than on her
+individual martial skill.
+
+Mela is prompted to unite the Immaculate Dragons after receiving the _Vision of_
+_Clouds and the Shaking of the Earth_, which is conveyed in a prismatic dream
+sequence lasting nine chapters. Awakening back into the world, Mela swears her
+Three Oaths, and locates the other Immaculate Dragons by following the patterns
+of clouds in the sky. Having done so, Mela conquers several outlying kingdoms in
+a brief and vicious campaign, and assembles the Righteous Army of Liberation to
+finally defeat the Anathema.
+
+During her assembly, the Anathema sent three agents to crush her spirits and
+stray her from her course. In challenging these Anathema, Mela is forced to
+undergo three sacrifices. First, the Anathema targeted her Love by murdering her
+unnamed and undetailed lover. Second, the Anathema destroy her Home by razing
+the kingdom of her youth and desecrating the tombs of her parents. Lastly, the
+Anathema target her Cameraderie by separating Mela from her saint-like traveling
+companions. After enduring each of the Three Sacrifices, Mela redoubles her
+intent to defeat the Anathema, and delivers a speech indicating the virtuous
+reaction to loss and grief.
+
+The _Second Epic_ notably does not feature the character of Pasiap, who
+incarnated into the world during the Anathema War. Likewise, despite describing
+Mela's early campaigns in extensive detail, the _Second Epic of Mela_ does not
+feature the Anathema War. These facts, combined with commentaries from the early
+period and references in the sutras, indicate that the actual chronicle of the
+early years of the Anathema War are within the lost and fragmented _Epic of_
+_Pasiap_.
+
+### The Final Epic of Mela
+
+The _Final Epic of Mela_ consists entirely of a depiction of the Five Days of
+Mela, the final five days of the Anathema War. It tells the story of Mela's
+generalship in leading the Righteous Army of Liberation against the
+slave-soldiers of the last Anathema devil-kings, of Mela summoning storms and
+binding spirits in aid of the war, and lastly of Mela's
+death-by-a-thousand-stings on the end of the final day. The end of the _Final_
+_Epic_ features the Immolation of Hesiesh (which is recorded in significantly
+more detail in the _Epic of Hesiesh_), and the Great Mourning Celebration that
+marks the end of the war and the liberation of humanity.
+
+Mela was, of course, successful in leading the Righteous Army, but faced her own
+death at the end of the war. During her final climactic battles with the
+Forsaken generals of the devil-kings, Mela is able to defeat them, but at great
+cost to herself. Weary and fading, Mela is susceptible to the poisons and
+magical diseases of the "sour-edged swords and acrid spears" of the Anathema and
+contracts a condition so morbid that even Sextes Jylis is unable to heal her.
+Mela lives to see the Great Mourning Celebration -- where the surviving Dragons
+establish Immaculatism with great prayers and honor the dead -- but dies the
+following morning.
+
+Upon her death, Mela sublimates into a divine storm, tearing through the dead
+cities of the Anathema and purging them of stragglers. When the storm dies down,
+Mela reunites with the Elemental Dragons and leaves no trace. Although such a
+fact is not noted in the _Epic_, it is widely believed that upon transforming
+into a storm, Mela gave an instantaneous virgin birth to a daughter, who grew to
+a full-grown woman in five days and eventually founded the First Dragon-Blooded
+Shogunate. Early in the Realm's history, the Order, in collaboration with the
+Empress' ministries, undertook an expansive genealogical effort, and traced the
+lineage of the Empress back to this daughter. Thus, it is canon within the Order
+that the Sacred Daughter was born and that the Scarlet Empress is her
+descendant.
+
+### Mela's Purviews and Mystery Cults
+
+Mela is obviously associated with generalship, martial skill, and the act of
+battle. She is widely revered by soldiers, Legionnaires, mercenaries, and others
+who make their living by the sword. Especially in the abroads, Mela is also a
+source of radical and widespread syncretism. The Order has, in its time, stamped
+out hundreds of cults blending Mela with local gods of war, combat, and
+strategy. The cult of Mela Perilous is widespread among the Legions, and some
+soldiers even construct the figure of _Mela Rouge_, a figure blending Mela, the
+Empress, and the maiden Mars of the House of Battles into a potent figure of
+war.
+
+Beyond her purview of war and battle, Mela is also a patron of scholars. She is
+famed as a wise and fiercely intelligent woman, the greatest warrior-poet to
+have ever lived. Mela holds patronage over scholars and shares patronage over
+poets with Hesiesh. Although she is never described as a sorcerer in any of her
+epics or in any sutras, Mela is also often thought of as a patron of sorcerers,
+owing to her miraculous powers to bind spirits, control the weather, and evince
+mystical knowledge.
+
+Mystery cults of Mela exist beyond her ilicit worship by soldiers and scholars.
+Owing to her miraculous feats in the _Younger Epic_, shrines of worship to Mela
+can crop up almost anywhere on the Isle or in the Threshold that obvious
+mystical happenings can be seen. In these cults, Mela is described as the
+ultimate cause of the phenomenon and she is worshipped either in gratitude for
+the phenomenon or to guard against its spreading.
+
+### Emulation of Mela
+
+Immaculates are called upon to emulate Mela by being excellent at things. Mela's
+defining characteristic is her arete in many different fields. Emulating Mela
+entails developing your own skills, mastering yourself, and never settling for
+good enough. Mela is also emulated through strong community involvement. As the
+organizer of the Righteous Army of Liberation, Mela teaches us that we must be
+active in our communities and share of ourselves and our skills. This is why
+her antithesis is the Sickly Whore, who squanders her natural gifts and does not
+share with the community.
+
+Air Aspects can often be disconnected or float through the world with their
+heads in the clouds, forgetting to focus on the tangible and meaningful. Mela's
+investment and focus on personal excellence remind Air Aspects that they must
+act, as well as conceive, in order for their lofty ideas to come to fruition.
