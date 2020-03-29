@@ -47,9 +47,9 @@ Danaa'd, the Arbiter of the Immaculate Complaint, is the Immaculate Dragon of
 water. She is frequently depicted as a dark-haired woman in a breasplate,
 carrying either a sword or trident. In her warrior aspect, she is sometimes
 presented with a long, curling tongue, claws, and black skin; this figure is
-often called _Vengeant Daana'd_. In her aspect as an arbiter and judge, she is
+called _Daana'd Vengeant_. In her aspect as an arbiter and judge, she is
 often depicted blindfolded and strangling a serpent, which is said to represent
-ignorance and prejudice. This _Blind Danaa'd_ aspect is often seen at shrines
+ignorance and prejudice. This _Danaa'd Obscure_ aspect is often seen at shrines
 which serve judges and government officials.
 
 Daana'd's life story is mostly contained in two epics: the _Younger Epic of_
@@ -275,8 +275,8 @@ At the time of his coronation, Hesiesh's father's ministers attempted to clothe
 him in "the raiments of wicked kings," which ignited in flames as soon as they
 touched his skin. The resultant fireball destroyed the palace and scarred
 Hesiesh's father, who sent the forces of the Anathema after him. Hesiesh fled
-the Anathema  for ten days and ten nights. Every second night of the pursuit, he
-saw a comet  in the sky, drawing closer -- the same comet which foretold his
+the Anathema for ten days and ten nights. Every second night of the pursuit, he
+saw a comet in the sky, drawing closer -- the same comet which foretold his
 birth. The comet was actually the fires burning in the souls of all humans for
 liberation from the forces of the devil-kings. On the tenth night, the comet
 crashed into Hesiesh, and his pursuers break off chase because they cannot
@@ -285,7 +285,7 @@ approach the pyre.
 Eventually, Hesiesh took up hermitage in a hidden cave. There, he meditated on
 virtue for many years. In the darkness of the cave, his mind was freed from the
 blinding Anathema light and he was able to achieve true wisdom. Hesiesh wrote
-thousands of pages of text on the walls in ash. He survived off of the water
+thousands of verses of wisdom on the walls in ash. He survived off of the water
 dripping from the stalactites and what stray whisps of grain flew into the cave.
 He is even said to have taken a breath only once every day and twice every
 night.
@@ -342,12 +342,12 @@ for herself, the other dragons, and her men. Hesiesh takes a lotus position
 in the center of the battlefield, and as the vicious hungry ghosts of the slain
 devil-kings begin to rise, calls out echoing prayers as he immolates himself in
 his own anima. The purging fires of his righteous devotion sweep across the
-whole of Creation, burning away the corpses of the war and assuring rest for
+whole of Creation, burning away the corpses of the war and assuring rest for all
 those slain in the conflict.
 
 ### Hesiesh's Purviews and Mystery Cults
 
-Hesiesh is a mysterious figure for many Immaculates, a serene and meditative
+Hesiesh is a distant entity for many Immaculates, a serene and contemplative
 figure associated with meditation, the act of devotion, spiritual wellness, and
 internal alchemy. People often revere Hesiesh with the goal of achieving long
 life and serenity. His patronages include musicians, artits, policemen,
@@ -395,8 +395,8 @@ radiant feather, or an encircled fan.
 The _First Epic of Mela_, the _Second Epic of Mela_, and the _Final Epic of_
 _Mela_ describe Mela's life, with a heavy emphasis on her role as the supreme
 commander of the forces of the Righteous Army of Liberation. Her Epics are rich
-in military detail, and the _Thousand Actions of the Upright Soldier_ borrows
-many idioms and techniques from these epics.
+in military detail, and the _Thousand Correct Actions of the Upright Soldier_
+borrows many idioms and techniques from these epics.
 
 ### Early Life of Mela
 
@@ -411,12 +411,12 @@ said to have been born from the heart of a storm and emerged fully-formed as a
 young adult, bearing a lightning spear of virtue. She then laid siege to the
 warlord Yasu the Great and defeated him in single combat.
 
-A much later, and much more controversial, emerged during the early Shogunate
-period, and is often attributed to the insights of Immaculate abbot Ten Peaches
-in Harmony. This account describes Mela as being born in mundane circumstances
-to two peasants, and skilled in arms a child. After her family is slaughtered by
-Yasu the Great, the child Mela takes up a mundane spear and uses it to slay him,
-thereupon transforming the spear into her mighty weapon.
+A much later, and much more controversial, account emerged during the early
+Shogunate period, and is often attributed to the insights of Immaculate abbot
+Ten Peaches in Harmony. This account describes Mela as being born in mundane
+circumstances to two peasants, and skilled in arms a child. After her family is
+slaughtered by Yasu the Great, the child Mela takes up a mundane spear and uses
+it to slay him, thereupon transforming the spear into her mighty weapon.
 
 The child Mela is said to have known how to read and write from the moment she
 was born, and to know poetry and meter by the sound of wind whipping through the
@@ -441,7 +441,7 @@ of the other Immaculate Dragons, and features a Mela who is, individually, more
 powerful than she appears in the later epics. It is also likely the youngest of
 the three epics, leading some branches of Immaculatism to consider it
 non-canonical. The Immaculate Order currently considers large parts of it
-apocryphal, but preserves the canonicity of several chapters. The _Younger_
+apocryphal, but preserves the canonicity of some chapters. The _Younger_
 _Epic of Mela_, named in accordance with the _Younger Epic of Daana'd_, is the
 Order's abbreviated canonical version of the _First Epic_.
 
@@ -466,7 +466,7 @@ During her assembly, the Anathema sent three agents to crush her spirits and
 stray her from her course. In challenging these Anathema, Mela is forced to
 undergo three sacrifices. First, the Anathema targeted her Love by murdering her
 unnamed and undetailed lover. Second, the Anathema destroy her Home by razing
-the kingdom of her youth and desecrating the tombs of her parents. Lastly, the
+the kingdom of her youth and desecrating the tombs of her people. Lastly, the
 Anathema target her Cameraderie by separating Mela from her saint-like traveling
 companions. After enduring each of the Three Sacrifices, Mela redoubles her
 intent to defeat the Anathema, and delivers a speech indicating the virtuous
