@@ -47,12 +47,12 @@ have the potential to transcend mortality and reunite with the Dragons.
 ## The Immaculate Dragons
 
 [The Immaculate Dragons](/the-realm/immaculate-order/immaculate-dragons/) are
-the five ancient saint-heroes of ancient yore which were responsible for writing
-the Immaculate Texts and bringing enlightened wisdom to humanity. These
+the five ancient saint-heroes of yore which were responsible for writing the
+Immaculate Texts and bringing enlightened wisdom to humanity. These
 soldier-messiahs lead humanity in revolution against the decadent gold and
 silver devil-kings of the Realm Before. They are sacred and powerful figures
-which all Immaculates strive to emulate, in order to progress along the path
-to enlightenment.
+which all Immaculates strive to emulate, in order to progress along the path to
+enlightenment.
 
 ## Anathema
 
