@@ -1,8 +1,8 @@
 ---
 layout: default
 title: The Immaculate Dragons
-permalink: /the-realm/immaculate-order/immaculate-dragons
-parent: The Immaculate Order
+permalink: /the-realm/immaculatism/immaculate-dragons
+parent: Immaculatism
 grand_parent: The Realm
 nav_order: 1
 ---
