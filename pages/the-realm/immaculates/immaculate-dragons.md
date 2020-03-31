@@ -556,3 +556,184 @@ Air Aspects can often be disconnected or float through the world with their
 heads in the clouds, forgetting to focus on the tangible and meaningful. Mela's
 investment and focus on personal excellence remind Air Aspects that they must
 act, as well as conceive, in order for their lofty ideas to come to fruition.
+
+## Pasiap
+
+Pasiap, He Who Illuminates Both Worlds With Majesty and Power, is the Immaculate
+Dragon of earth. He is depicted variously as a large man with a big beard, heavy
+armor, and carrying a club; as a handsome, almost monkey-like youth with a
+carpenter's square, a bandolier of tools, and a staff, called _Pasiap_
+_Ingenious_; and as an elephantine man with underbite tusks, a long beard with
+many jewels, an exaggerated belly, and a halo of arms making sacred mudras, a
+shape called _Pasiap Omphalos_.
+
+The character of Pasiap is something of a mystery to modern Immaculatism,
+despite his evident importance as a founding member of the religion. Numerous
+hints point to the existence of a fragmented _Epic of Pasiap_, chronciling both
+the early period of the Anathema War and the life of Pasiap, but a coherent,
+complete epic has yet to be found. The reconstruction of a canonical _Epic of_
+_Pasiap_ is a lifetime passion for many monks, who scour Creation far and wide
+for all the stories and lore which can be attributed to him.
+
+In strongly aniconic times, Pasiap is represented as an encircled mountain, as
+a jewel, or as a pair of upward and downward facing chevrons.
+
+### Constructing the Life of Pasiap
+
+Given that the _Epic of Pasiap_ is fragmented and scattered, monks and scholars
+must make do with what information they can find in stories of Pasiap scattered
+throughout the world. Despite this fragmentation, the shared aspects of many of
+these stories have allowed an understanding of Pasiap to emerge.
+
+Pasiap was the youngest of the Immaculate Dragons; the Righteous Army of
+Liberation had already assembled under Mela by the time that Pasiap came of age.
+The stories tell that Pasiap was born from a jade egg deep beneath the earth,
+carving himself from it across many years. Once the baby Pasiap had shaped
+himself, he caused a great earthquake, cracking the earth above him that he may
+emerge into the world.
+
+In other stories, Pasiap was born when a landslide threatened to crush a family
+of slaves, who prayed for mercy to the Dragon of Earth. In that instant, the
+stones and mud bent around the family, and Pasiap arose from the cascade,
+holding the devastation at bay with his bare palm.
+
+Pasiap was raised as a slave and spent his youth mastering many crafts. By the
+time he came of age, he had completed his masterworks in many different areas,
+including carpentry, masonry, and geomancy. He toiled for many years as a
+luxury slave of the devil-kings, passed among them to build vain temples and
+raise cities in their image. Eventually, Pasiap dreamed of a mighty storm
+brewing that would purge the world, and joined the Righteous Army of Liberation.
+
+The _Final Epic of Mela_ contains suggestions that the _Epic of Pasiap_
+described the early period of the Anathema War, and thus how Pasiap came to find
+the Righteous Army. The surviving epics which cover the war period consistently
+refer to Pasiap as the quartermaster of the army, laboring day and night in the
+heat of his forge to create the magical armor that turned aside the lightning
+and witchcraft of the Anathema. He is said to have raised castles in a day from
+which to hold off the slave armies of the Anathema, and to have turned seafoam
+and ash into mighty siege engines that tore down the walls of the Anathema
+cities.
+
+### The House Which Pasiap Built
+
+Mela and Hesiesh perished as a result of the Anathema War, and Daana'd
+sacrificed herself shortly thereafter. Sextes Jylis set to wander, ne'er to be
+seen again. After the end of the war, only Pasiap remained, to carry on the
+legacy of the Dragons to future generations.
+
+He labored for many decades on his greatest creation, an edifice not of jade but
+of souls: the Immaculate religion. He spoke wisdom to the monks, who transcribed
+his words into the early sutras. He built great temples and founded many cities
+around his monasteries; indeed, most cities on the Blessed Isle attempt to trace
+their origin back to Pasiap.
+
+Today, the Order is often called _The House Which Pasiap Built_. The Order
+conceives of itself as a single home, a massive family which encompasses all the
+souls of the world. It cherishes this imagery, using metaphors of house and
+family to describe the spiritual life of the Realm. Theological debates among
+friends are sometimes known as "dinnertime conversations," larger disagreements
+as "rows in the family." Schisms and factionalization are almost always referred
+to as "cracks in the wall" or "in the foundation."
+
+### The Palace of Dust
+
+A huge number of Pasiap stories exist, mostly as explanations for ruins, for
+cities, or as the mystical origins of Artifacts. The Order recognizes only a few
+of these stories as canonical, meaning that Pasiap has fewer canon stories than
+even Hesiesh.
+
+The Palace of Dust is one of Pasiap's canon stories. As a young man, before
+joining the Righteous Army, Pasiap was approached by an Anathema Lord hoping to
+build a spectacular palace. She paid him in silver, more than enough for Pasiap
+to buy his freedom from his master. In truth, the silver pebbles she paid him
+were enchanted seeds of rotten grain, for she schemed to humiliate him and thus
+deprive any other Anathema Lord of his glorious work.
+
+She was shocked, then, to find that when the seeds touched Pasiap's hands, they
+became true silver, as pure as if fresh from the mines. Pasiap quickly purchased
+his freedom and returned to honor his contract.
+
+He built a spectacular palace, more lovely than any other. Its soaring arches
+and heartbreaking frescos drove even the most stoic to tears. But when the
+Anathema Lord strode into her new palace, the building collapsed around her,
+blowing away like dust in the wind.
+
+Peasant retellings of this story often portray their local lord in the position
+of the Anathema Lord, an object of derision. They often include a humiliating
+public mockery of the Anathema Lord at the end of the story. The monks, on the
+other hand, place much greater emphasis on the story's morals and lessons about
+the transience of material wealth.
+
+### The Lecturing of the Taxmen
+
+The Lecturing of the Taxmen is usually analyzed to be set immediately before
+Pasiap's dream and departure to join the Righteous Army of Liberation. At this
+time, Pasiap was traveling to his next lord to begin a new project, and found
+a village oppressed by vicious taxmen collecting extortionate tribute in the
+name of their king.
+
+Pasiap interceded, and convinced the taxmen to return in one month, when he
+promised them as much jade in tribute as they would normally receive in a whole
+year. The greedy taxmen accepted and returned the next month.
+
+Upon their return, Pasiap struck the ground with his club, causing great
+fissures to open. Stones, boulders, and rocks covered the ground. Pasiap told
+the taxmen that this was their pay, and the taxmen began greedily collecting the
+plain rocks, until eventually they crushed themselves beneath the weight of
+their own purses.
+
+Confused, the serfs asked Pasiap why the collectors had so coveted plain gray
+rocks. Pasiap revealed that the taxmen were so greedy that they saw the rocks
+as silver, jade, and jewels. Having lived a life of leeches, drawing from
+communities and never contributing anything themselves, the taxmen were so
+foolish that mere boulders looked as rubies to them. The peasants, meanwhile,
+saw through the illusion, for they were rich not in gold, but in wisdom.
+
+The story of the Lecturing of the Taxmen is again popular among the peasantry.
+In their tellings, Pasiap often reveals a _real_ mine full of jewels for the
+community, as a reward for their good merit. Monks sigh and shake their heads,
+wishing that the peasants could understand the true message.
+
+### Pasiap's Purviews and Mystery Cults
+
+Pasiap is, first and foremost, the patron of makers. Smiths, masons, carpenters,
+wainwrights, shipwrights, and others are all within is purview. Pasiap is said
+to be especially fond of architects and temple-builders, who help to maintain
+the House He Built. Pasiap is also the defender of monks, whose protective
+presence guards the faithful against disruptions from heretics. In his aspect as
+Omphalos, Pasiap is an even broader defender, often invoked for protection from
+harm of all kinds.
+
+Peasant stories of Pasiap abound, despite almost all of them being considered
+apocryphal by the Order. Owing to his humble origins, Pasiap is the protector of
+slaves and the downtrodden. This, combined with his relationship to wealth,
+makes him very popular among the peasantry. He is often heretically prayed to
+for wealth and success.
+
+It is unsurprising, then, that mystery cults to Pasiap often focus their worship
+on wealth and material gain. Many of these cults believe that direct worship of
+Pasiap will bring them piles of silver or monetary success. More divergent cults
+syncretize Pasiap with local gods of mountains, caves, commerce, and sometimes
+of the dead. Syncretized Pasiaps are often worshipped to bring mineral wealth,
+to avoid earthquakes, and to keep watch over the buried.
+
+A popular heresy holds that Pasiap is spiritually present within every
+consecrated temple and shrine, keeping watch over all who enter. For this
+reason, he knows if you are lying or skipping your meditations. Similarly,
+Pasiap is often ascribed to dwell within the cornerstone of the house of every
+true believer, and will punish the unjust if he catches word of them. For this
+reason, peasants sometimes kneel at the cornerstone of their home and whisper of
+community wrongdoings, hoping that Pasiap will intercede to set things right.
+
+### Emulation of Pasiap
+
+Immaculates are called upon to emulate Pasiap by being creative, by passing on
+their knowledge, and by attending temple regularly. Pasiap teaches the value of
+hard work and labor. Emulating Pasiap entails thinking of the future and
+sharing your wisdom with those who follow.
+
+Earth Aspects are encouraged to emulate Pasiap by thinking in new ways. Pasiap
+was endlessly creative and endlessly curious, in a way that many Earth Aspects,
+conservative in their thinking and stoic in their action, are not. Thus, Pasiap
+encourages them to share instead of hoarding and to focus on the future instead
+of on the past.
