@@ -73,7 +73,7 @@ What is yours?
   is associated with the color _black_.
 - **Wood**. Wood is _vital_ and _sensual_. Wood presides over the cycle of
   _life_ and _death_. It _nurtures_ and also _destroys_. It manifests in the
-  passive as _blossoms_ and _fruits_. It manifests in the positive as _thorns_,
+  passive as _blossoms_ and _fruits_. It manifests in the active as _thorns_,
   _vines_, and _poisons_. It is associated with the color _green_.
 
 After you choose your Aspect, Lot-Casting Atemi will automatically fill in your

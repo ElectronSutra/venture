@@ -25,10 +25,10 @@ been raised against her, it has been swiftly crushed and destroyed.
 Below the Empress are the _Dynasty_, the ten Great Houses that she has elevated
 to the highest possible status. The Dynasty is ruled by the Dragon-Blooded, who
 have been Chosen by the dragons; their un-Exalted family are just below them on
-the hierarchy. Also included in the Dynasty are _cadet Houses_, royal families
-from the satrapies that have sworn fealty to one of the Great Houses, and
-_outcastes_ who have received the blessing of the dragons but have not yet
-joined a Great House.
+the hierarchy. Also included in the Dynasty are the various adopted _lost eggs_,
+Dragon-Blooded who originated from outside the Great Houses, and sometimes the
+_cadet houses_, royal Dragon-Blooded families from the Threshold tied by
+marriage to the Dynasty proper.
 
 Below the Dynasty is the _patriciate_, the Realm's administrative class. These
 are the vital functionaries of the Realm who handle the day-to-day work of

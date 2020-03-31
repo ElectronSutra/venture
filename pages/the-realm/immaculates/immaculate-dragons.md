@@ -35,11 +35,10 @@ left many ancient shrines in good repair. Even during very aniconic periods, the
 monks have largely protected the statues, especially if the monk was old enough
 to remember a more iconic period.
 
-The current Order, under the XXI Mouth of Peace, is among the more liberal,
-allowing depictions of the Immaculate Dragons in home shrines as well as in
-temples. The Order formally disapproves of the production of trinkets, such
-as necklaces carved in the image of Daana'd, but they are nonetheless very
-popular among the peasantry.
+The current Order, under the XXI Mouth of Peace, is among the more liberal. The
+Order formally disapproves of the production of trinkets, such as necklaces
+carved in the image of Daana'd, but they are nonetheless very popular among the
+peasantry.
 
 ## Daana'd
 
