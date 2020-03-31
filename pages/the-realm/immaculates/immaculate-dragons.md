@@ -737,3 +737,195 @@ was endlessly creative and endlessly curious, in a way that many Earth Aspects,
 conservative in their thinking and stoic in their action, are not. Thus, Pasiap
 encourages them to share instead of hoarding and to focus on the future instead
 of on the past.
+
+## Sextes Jylis
+
+Sextes Jylis, He Who Has Strewn Much Grass, is the Immaculate Dragon of wood.
+In temples throughout the Blessed Isle, he is a handsome man in a set of light
+armor, carrying a large bow, and dripping seeds from his palms. In his shape as
+_Sextes Captor_, he carries a ram's horn in one hand and a dagger in the other,
+dressed in pelts and the trappings of an outdoorsman. As _Sextes Medic_, he is
+older and wiser -- a huge bundle of herbs over one shoulder, a brace of
+acupuncture needles hanging from his belt, and carrying a shamisen.
+
+None of these depictions, however, are what the people of the Blessed Isle
+picture when the name Sextes Jylis is said. No, they picture a blasphemy, a
+depiction of Sextes Jylis which the Immaculate Order has quite firmly rallied
+against. In their minds eye, they see a strapping, handsome young man, with a
+wise glint in his eye, wearing a magical jade cloak that allows him to travel
+the world, carrying a quiver with arrows to cure every disease. They picture the
+Sextes Jylis they grew up hearing folktales about, the Sextes Jylis that they
+may -- just maybe -- believe is still out there, still watching the world, still
+saving people and healing diseases.
+
+The life of the canonical Sextes Jylis is captured in the _War Epic of Sextes_
+_Jylis_ and the _Medicine Epic of Sextes Jylis_, which depict a heroic and
+virtuous Sextes Jylis and his actions in the Anathema War. These epics paint
+only a small picture of the popular figure of Sextes Jylis, who competes with
+Daana'd as the most popular and heretically worshipped Dragon.
+
+In aniconic times, Sextes Jylis is represented by a bow, an incense burner, an
+encircled tree, or a curled ram's horn.
+
+### The Early Life of Sextes Jylis
+
+Sextes Jylis is said to have been born from a ghostflower, a rare and beautiful
+blossom with semitransparent blue leaves. The child Sextes Jylis is recorded to
+have been shaped from the nectar of the flower, and when the flower bloomed in
+early spring, the petals fell open to reveal his meditating form. The young
+Dragon spoke three sentences of profound wisdom, and the forest bowed to him. No
+record of these sacred words exists -- were such a record to be found, it would
+offer a profound insight into the workings of the world and the foundations of
+the early Immaculate tradition.
+
+Sextes Jylis was a radiant child, who brought health and good fortune to all
+those around him. Folktales say that flowers bloomed where he walked and snakes,
+spiders, and other wicked creatures would flee from his presence. His touch was
+remedial, curing fevers and coughs with a brush of his fingers. He took up
+residence in a bamboo grove, offering healing to any who could find him.
+
+The _First Epic of Mela_ makes reference to a "great healer" who patches her
+wounds after her battle against a Forsaken warlord. This "great healer" is not
+further detailed, but is mentioned to be a young man. Some theologians propose
+that this may in fact be Sextes Jylis, but such an incarnation would place his
+date of incarnation much earlier than would be expected. Regardless of whether
+the "great healer" is, in fact, Sextes Jylis, he is known with certainty to be
+the first of the Dragons united by Mela to form the Righteous Army of
+Liberation.
+
+### The War Epic of Sextes Jylis
+
+The _War Epic of Sextes Jylis_ is somewhat misnamed, as only the last few
+chapters of the epic deal with the Anathema War. The rest of the Epic details
+Sextes Jylis' life as a young man, focused mainly on his prowess as a healer and
+as a musician.
+
+The _War Epic_ is one of the few epic sources to detail the birth of a Dragon,
+and introduces the story of his birth-by-flower. It spends several chapters
+detailing his adventures as a child, before depicting his capture by the
+Anathema king Yoza of Ten Thousand Candles. The Anathema king is old and
+dying of illness, and coerces Sextes Jylis into traveling to the peak of the
+Imperial Mountain to recover the only herb which will save him. Along the way,
+Sextes Jylis is joined by a colorful cast of characters and eventually returns
+with the herb. Yoza seizes it by force and exiles Sextes Jylis.
+
+The newly-exiled Sextes Jylis joins forces with Mela, then the narrative skips
+ahead to briefly describe Sextes Jylis' attempts to heal Mela of the wounds,
+poisons, and diseases inflicted on her by the Anathema during the Five Days of
+Mela. The Epic closes with their final farewell and the death of Mela on the
+crowning of the sixth day.
+
+One of the most famous stories from the _War Epic_ is the tale of the Great King
+and Captured Prince. While ascending the Mountain, Sextes Jylis comes across a
+valley kingdom ruled by a king touched with madness from the Anathema. He has
+imprisoned the son of his greatest rival, a beautiful young Prince. Sextes Jylis
+tries to poison the Great King, but he is unharmed. Sextes Jylis tries to infect
+the Great King with a plague, but aborts his plan as the disease threatens to
+break out into a pandemic. Finally, Sextes Jylis curses the Great King in his
+sleep, turning his body to soil and flowers with a touch.
+
+The tale of the Great King and Captured Prince is expanded upon in several other
+sources. An ancient and widespread expansion features Sextes Jylis taking the
+Prince as his lover, a "sacred love" that transcends boundaries. This depiction
+of love between a Dragon and a mortal Prince has been removed from the canon at
+various points, but is old enough that it is likely contemporaneous with the
+original epic.
+
+### The Medicine Epic of Sextes Jylis
+
+The _Medicine Epic of Sextes Jylis_ describes Sextes Jylis' cooperation with
+Pasiap following the war and his travels around all of Creation to heal the
+wounds inflicted upon it by the Anathema. Sextes Jylis spreads grass and grain
+all over Creation to offer food to the stricken people, heals the death-curse
+diseases that plague the populace, and eventually helps Pasiap in setting the
+strictures of monastic life and the outline of a healthy society.
+
+The _Medicine Epic_ contains many valuable insights into medicine and farming,
+the details of which are studied today as foundational to the spiritual
+philosophy of healing. It contains a (likely heavily fictionalized) depiction of
+the early monastic traditions and introduces Sextes Jylis' magical bow, which is
+said to have an arrow for every disease -- this bow features prominently in his
+folktales.
+
+It is important to note that the _Medicine Epic_ ends with Sextes Jylis still
+alive -- the epic does not detail his death. In fact, no canonical source in the
+Immaculate Texts shows or claims to show the death of Sextes Jylis. It is thus
+never explicitly established that he sublimated to Wood and reunited with the
+Elemental Dragon of Wood -- in fact, it is never clearly established that he
+died at all. The Order, however, is very quick to point out that absence of
+evidence is not evidence of absence, and teaches the canon that Sextes Jylis
+went to wander, ne'er to be seen again, and eventually disincarnated and
+reunited with the Dragons.
+
+### The Sextes Jylis Stories and the Heresy of His Divine Continuation
+
+The lack of a clear death for Sextes Jylis has given rise to a popular
+folkloric conception that the Order has given up trying to completely stamp out.
+In the minds of the populace, Sextes Jylis has thousands of apocryphal stories,
+all of them adventurous, charming, and exciting.
+
+The Sextes Jylis of these stories is a true folk hero. He is a compassionate,
+just, kind, smart, strapping hero doing good out in the world. He woos foreign
+princes, frees slaves from cruel masters, duels with evil gods, cures plagues
+with a clap of his hands, and so forth.
+
+In these stories, Sextes Jylis is often attributed powers beyond even those in
+his epics. He has a magical cloak which "connects the green places of the
+world," allowing him to travel from any forest in Creation to any other with
+just a single step. He is often a face-changer, able to take on any likeness he
+desires -- this trait, shared by the silvery Anathema ogres, is particularly
+distressing to monks. His bow has an arrow for every disease, allowing him to
+give and take them with ease. His walking stick allows him to tread into the
+world of spirits and the world of the dead, and his looking glass can see the
+future.
+
+Among these stories are a thousand variations of his death, but more often than
+not, the storyteller reminds her audience that Sextes Jylis never stays dead
+forever. This is the heresy of His Divine Continuation -- the widespread
+peasant belief that Sextes Jylis is alive and incarnated _right now_, still
+traveling the world and doing good.
+
+### Purviews and Mystery Cults
+
+Sextes Jylis' primary domain is healing and health. He is a patron of doctors,
+herbalists, healers, midwifes, and all others who work to make life better. He
+is also the guardian of woodsmen and hunters, who keeps them safe from wild
+beasts. He inspires musicians and storytellers, and -- of course -- gives good
+fortune when using a bow.
+
+Sextes Jylis is also, based on his folktales, thought to be the guardian of many
+things the Order would rather he not be associated with. Rebels, prisoners,
+escaped slaves, and the dispossessed all revere Sextes Jylis as their defender.
+Criminals honor him alongside Daana'd. Prostitutes especially invoke his image,
+but often not as a man -- the figure of the Green Lady is a blend of Sextes
+Jylis' healing traits with goddesses of love and passion, the lady Venus of the
+House of Serenity, and sometimes (worst of all) the Empress' own famed beauty.
+
+In addition to the Green Lady, Sextes Jylis has many other shapes, a surprising
+number of them female. The Healing Woman is an older figure who bears many of
+his traits, but is a female guardian of menstruation, childbirth, and labor. The
+Stag Prince resembles Sextes Captor, but more visceral and nasty, with deer
+horns and a thirst for slaughter. The King of Soil is a fearful Sextes Jylis,
+black and green, who is rumored to return the dead to life in exchange for an
+appropriate sacrifice.
+
+All these figures and more can be found as objects of worship in the myriad
+mystery cults of Sextes Jylis. Other cults may be based on the heresy of His
+Divine Continuation, hoping to gain his attention by whatever means that he may
+be the hero they want. Lastly, some cults merely revere a recognizable variation
+of Sextes Jylis alongside Hesiesh, hoping to gain good health, long life, and a
+peaceful home life.
+
+### Emulation of Sextes Jylis
+
+Immaculates emulate Sextes Jylis by being compassionate. The Dragon himself
+always worked first and foremost for the sake of compassion: healing the sick
+and feeding the hungry. Emulating Sextes Jylis is to approach all things with
+compassion, to engage in acts of charity, and to put your emotions to good,
+positive use rather than dwelling on them.
+
+Wood Aspects are encouraged to emulate Sextes Jylis by focusing on others. Wood
+Aspects can often become hedonists, caught in the flow of life and death, living
+mostly for their own sensual pleasure rather than the betterment of the whole.
+Sextes Jylis reminds them to focus not on themselves but on what good they can
+do for others.
