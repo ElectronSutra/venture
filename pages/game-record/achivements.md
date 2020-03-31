@@ -20,8 +20,16 @@ Pass the encounter with Sister River Serpent and win the Farewell.
 
 Graduate from primary school and attend secondary school.
 
-## Arc 2: Ongoing
+## Arc 2: (name yet to be decided)
 
 ### The Peleps Family Secret Technique
 
 Apprehend the assassin with a flying atomic elbow.
+
+### You Saved My Life!
+
+Survive the poisoning attempt at the Mnemon compound.
+
+### At Last, the Plot
+
+Discover the secret of the Triptych at the Mnemon compound.

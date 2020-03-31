@@ -81,9 +81,15 @@ super lawyer and bureaucrat. Elder brother by twenty years of
 
 ### House Ragara
 
-#### Ragara (First Name Unknown)
+#### Ragara Mango
 
-Air Aspect. Assassin, responsible for the murder of Mnemon Temperance.
+Air Aspect. Assassin, responsible for the murder of Mnemon Temperance. Son of
+[Ragara Sayyah](#ragara-sayyah).
+
+#### Ragara Sayyah
+
+Earth Aspect. A former Legionnaire, a current sorcerer, and on the DNFW list.
+Mother to [Ragara Mango](#ragara-mango).
 
 ### House Sesus
 
