@@ -4,6 +4,7 @@ title: Immaculatism
 permalink: /the-realm/immaculatism/
 parent: The Realm
 nav_order: 4
+has_children: true
 ---
 
 # Immaculatism
@@ -46,7 +47,7 @@ have the potential to transcend mortality and reunite with the Dragons.
 
 ## The Immaculate Dragons
 
-[The Immaculate Dragons](/the-realm/immaculate-order/immaculate-dragons/) are
+[The Immaculate Dragons](/the-realm/immaculatism/immaculate-dragons) are
 the five ancient saint-heroes of yore which were responsible for writing the
 Immaculate Texts and bringing enlightened wisdom to humanity. These
 soldier-messiahs lead humanity in revolution against the decadent gold and
