@@ -1,15 +1,15 @@
 ---
 layout: default
 title: The Immaculate Dragons
-permalink: /the-realm/immaculatism/immaculate-dragons
-parent: Immaculatism
+permalink: /the-realm/Immaculacy/immaculate-dragons
+parent: Immaculacy
 grand_parent: The Realm
 nav_order: 1
 ---
 
 # The Immaculate Dragons
 
-The Immaculate Dragons are the five warrior-saints that founded Immaculatism and
+The Immaculate Dragons are the five warrior-saints that founded Immaculacy and
 wrote the first of the Immaculate Texts. The Immaculate Dragons fulfill a
 messianic role, having brought the wisdom of the Immaculate Order to the masses
 after their conquest of the Anathema. They also fulfill an aspirational role, as
@@ -298,7 +298,7 @@ demon with a barking prayer, driving them out of the cave with the power of his
 voice, and a sermon which banishes them back to Hell.
 
 Every telling ends with Hesiesh defeating the final demon by singing a hymn so
-true and powerful that it is converted to Immaculatism on the spot. In most
+true and powerful that it is converted to Immaculacy on the spot. In most
 variations, this demon is the living storm Garuvar, who becomes known as the
 Foremost Among the Virtuous Demons. Some variations, not recognized as canonical
 by the Order, feature Hesiesh's older sister Aodri, corrupted by Anathemic
@@ -438,7 +438,7 @@ in a game of rhymes set to music, and the cleansing of the Library At Qupo.
 The _First Epic of Mela_ chronicles a time in Mela's life before the incarnation
 of the other Immaculate Dragons, and features a Mela who is, individually, more
 powerful than she appears in the later epics. It is also likely the youngest of
-the three epics, leading some branches of Immaculatism to consider it
+the three epics, leading some branches of Immaculacy to consider it
 non-canonical. The Immaculate Order currently considers large parts of it
 apocryphal, but preserves the canonicity of some chapters. The _Younger_
 _Epic of Mela_, named in accordance with the _Younger Epic of Daana'd_, is the
@@ -498,7 +498,7 @@ cost to herself. Weary and fading, Mela is susceptible to the poisons and
 magical diseases of the "sour-edged swords and acrid spears" of the Anathema and
 contracts a condition so morbid that even Sextes Jylis is unable to heal her.
 Mela lives to see the Great Mourning Celebration -- where the surviving Dragons
-establish Immaculatism with great prayers and honor the dead -- but dies the
+establish Immaculacy with great prayers and honor the dead -- but dies the
 following morning.
 
 Upon her death, Mela sublimates into a divine storm, tearing through the dead
@@ -566,7 +566,7 @@ _Ingenious_; and as an elephantine man with underbite tusks, a long beard with
 many jewels, an exaggerated belly, and a halo of arms making sacred mudras, a
 shape called _Pasiap Omphalos_.
 
-The character of Pasiap is something of a mystery to modern Immaculatism,
+The character of Pasiap is something of a mystery to modern Immaculacy,
 despite his evident importance as a founding member of the religion. Numerous
 hints point to the existence of a fragmented _Epic of Pasiap_, chronciling both
 the early period of the Anathema War and the life of Pasiap, but a coherent,

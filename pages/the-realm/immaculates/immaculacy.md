@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Immaculatism
-permalink: /the-realm/immaculatism/
+title: Immaculacy
+permalink: /the-realm/immaculacy/
 parent: The Realm
 nav_order: 4
 has_children: true
 ---
 
-# Immaculatism
+# Immaculacy
 
-_Immaculatism_ is the state religion of the Realm and the one true understanding
+_Immaculacy_ is the state religion of the Realm and the one true understanding
 of faith and self in Creation. The Realm's spiritual life is administered by the
 Immaculate Order, the body attached to the state which comprises the monks and
 laity who recognize the Mouth of Peace as spiritual authority.
@@ -47,7 +47,7 @@ have the potential to transcend mortality and reunite with the Dragons.
 
 ## The Immaculate Dragons
 
-[The Immaculate Dragons](/the-realm/immaculatism/immaculate-dragons) are
+[The Immaculate Dragons](/the-realm/Immaculacy/immaculate-dragons) are
 the five ancient saint-heroes of yore which were responsible for writing the
 Immaculate Texts and bringing enlightened wisdom to humanity. These
 soldier-messiahs lead humanity in revolution against the decadent gold and
@@ -67,7 +67,7 @@ In general, the category of Anathema is the category of wicked things used to
 scare children to bed at night, or to label the dangerous and wicked creatures
 that lurk beyond respectable society.
 
-## History of Immaculatism
+## History of Immaculacy
 
 In the Realm Before, the devil-kings demanded worship from mortals, and cavorted
 with greedy gods to extort prayer and exultation from all human beings of the
