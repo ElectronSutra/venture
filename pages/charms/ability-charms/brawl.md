@@ -49,6 +49,25 @@ Add your target's current Onslaught penalty to this attack's Overwhelming.
 
 ***
 
+### Flotsam-and-Jetsam Approach
+
+> **Cost**: 1m; **Mins**: Brawl 1, Essence 1
+>
+> **Type**: Reflexive; **Duration**: One scene
+>
+> **Keywords**: Uniform, Water
+>
+> **Prerequisite Charms**: None
+
+_You grab whatever is within reach, and smash it against your target with the_
+_force of waves wearing down the shore._
+
+Pay no Initiative for wielding improvised weapons in combat; this applies to all
+improvised weapons wielded with Brawl, as well as with any other Ability. You
+may use Strength instead of Dexterity to make these attacks.
+
+***
+
 ### Water Dragon's Coils
 
 > **Cost**: 3m; **Mins**: Brawl 2, Essence 1
@@ -76,7 +95,7 @@ Initiative roll.
 >
 > **Keywords**: Balanced, Decisive-only, Water
 >
-> **Prerequisite Charms**: Water Dragon's Coils
+> **Prerequisite Charms**: [Water Dragon's Coils](#water-dragons-coils)
 
 _Your grip is as curshing as deep sea pressure._
 
@@ -220,6 +239,25 @@ Double 10s on the damage roll.
 
 **WATER AURA** -- If you inflict at least one level of health track damage, the
 Onslaught from this attack lasts an extra turn.
+
+***
+
+### Twisting Vicious Tide
+
+> **Cost**: 1m; **Mins**: Brawl 3, Essence 2
+>
+> **Type**: Supplemental (Clash); **Duration**: Instant
+>
+> **Keywords**: Uniform, Water
+>
+> **Prerequisite Charms**: [Pounding Surf Style](#pounding-surf-style)
+
+_Water is persistent, wearing stones down over time. Your fists boil with black_
+_Water Essence; your opponent is about to learn this lesson the hard way._
+
+Your opponent loses dice from his attack equal to his Onslaught penalty that
+wore off at the start of his turn. If he has current Onslaught (has not reset),
+he takes that penalty instead.
 
 ***
 
