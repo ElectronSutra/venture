@@ -3,7 +3,7 @@ layout: default
 title: The Quiet Art of Sorcery
 permalink: /systems/sorcery/
 parent: Systems
-nav_order: 8
+nav_order: 9
 has_children: true
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: The Bitter Art of Medicine
 permalink: /systems/medicine/
 parent: Systems
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 
