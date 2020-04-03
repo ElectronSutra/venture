@@ -46,6 +46,30 @@ Add a non-Charm bonus success if you impersonate a relative.
 
 ***
 
+### Veiled Dragon's Secret
+
+> **Cost**: 5m; **Mins**: Larceny 3, Essence 1
+>
+> **Type**: Simple; **Duration**: One day
+>
+> **Keywords**: Variable (Air, Earth, Fire, Water, Wood)
+>
+> **Prerequisite Charms**: [Flowing Body Disguise](#flowing-body-disguise)
+
+_All of the Dragon-Blooded contain all five of the elements, but one dominates_
+_the others. With a realignment of your energy, you can change this._
+
+When you commit this Charm, your anima banner and Aspect Markings transform to
+reflect a new element that you choose. This doesn't allow you to imitate the
+look of a _specific_ other anima banner; it changes yours to match the new
+element.
+
+This Charm does not _actually_ change your Aspect, it simply allows you to put
+on the appearance of another Aspect. When you release the commitment, your
+aesthetics return to their natural state.
+
+***
+
 ### Nimble Thief's Fingers
 
 > **Cost**: 1m; **Mins**: Larceny 2, Essence 1
