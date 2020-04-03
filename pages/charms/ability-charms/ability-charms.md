@@ -16,7 +16,7 @@ minimum Essence requirement.
 
 ### Brilliant [Ability] Thought
 
-> **Cost**: 2m; **Mins**: Essence 1
+> **Cost**: 2m; **Mins**: [Ability] 1, Essence 1
 >
 > **Type**: Simple; **Duration**: Instant
 >
@@ -31,7 +31,8 @@ with; Brilliant Melee Thought can introduce a fact related to a fighting style;
 Brilliant Survival Thought can introduce a new species of plant or animal native
 to a region you have studied; etc.
 
-You may purchase this Charm separately for every Ability except for Lore.
+You may purchase this Charm separately for every Ability except for Lore. It
+counts as favored/unfavored based on [Ability].
 
 ***
 
@@ -66,15 +67,18 @@ This Charm has your element when you first buy it:
 
 You can purchase two additional elements as a Charm purchase.
 
+Your first purchase of this Charm counts as favored. Purchasing upgrades counts
+as unfavored.
+
 ## Essence 2
 
 ### Elemental Sheath
 
-> **Cost**: 2m (+1a); **Mins**: Essence 2
+> **Cost**: 2m (+1a); **Mins**: [Ability] 3, Essence 2
 >
 > **Type**: Reflexive; **Duration**: Instant
 >
-> **Keywords**: None
+> **Keywords**: Variable
 >
 > **Prerequisite Charms**: None
 
@@ -88,15 +92,18 @@ element.
 Your anima always counts as "an appropriate elemental dispaly" for your Aspect's
 element.
 
+This Charm can be purchased as an Archery, Brawl, Melee, or Thrown Charm, and
+counts as Favored/Unfavored depending on which skill you are purchasing it for.
+
 ***
 
 ### Dragon-Graced Weapon
 
-> **Cost**: -- (+1m); **Mins**: Essence 2
+> **Cost**: -- (+1m); **Mins**: [Ability] 3, Essence 2
 >
 > **Type**: Reflexive; **Duration**: One scene
 >
-> **Keywords**: None
+> **Keywords**: Variable
 >
 > **Prerequisite Charms**: [Elemental Sheath](#elemental-sheath)
 
@@ -114,6 +121,31 @@ retrieved it from:
   tags. If it already had both, add 1 bonus die to grapple attack rolls.
 - WOOD: The weapon is wrapped in vines and blossoms. It gets the Disarming tag.
   If it already has the Disarming tag, add 1 bonus die to Disarm gambits.
+
+This Charm can be purchased as an Archery, Brawl, Melee, or Thrown Charm, and
+counts as Favored/Unfavored depending on which skill you are purchasing it for.
+It must be the same as you purchased for Elemental Sheath.
+
+***
+
+### Five-Dragon Arsenal
+
+> **Cost**: --; **Mins**: [Ability] 4, Essence 2
+>
+> **Type**: Permanent; **Duration**: Permanent
+>
+> **Keywords**: None
+>
+> **Prerequisite Charms**: None
+
+_You are a master of many Artifacts; your Essence permeates them. Your arsenal_
+_is a part of you, and you a part of it._
+
+Commit the full-cost attunement of an Artifact weapon. Reduce the attunement
+cost of further Artifact weapons to 1m each. This doesn't stack with any other
+discount. If you end your full-cost attunement for any reason, you must commit
+motes to one of your remaining weapons sufficient to bring it to the full
+commitment.
 
 ***
 
@@ -136,3 +168,5 @@ element. You don it immediately with a cool enough stunt.
 
 Your anima always counts as an "appropriate elemental display" for your Aspect's
 element.
+
+This Charm can be purchased as a Favored Charm.

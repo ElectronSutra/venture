@@ -172,6 +172,39 @@ further than close range from the bow.
 
 ***
 
+### Grasping Vine Shot
+
+> **Cost**: 3m; **Mins**: Archery 3, Essence 2
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: Wood
+>
+> **Prerequisite Charms**: [Harvest of the Hunter](#harvest-of-the-hunter)
+
+_Your arrow grows in midair, sprouting a sturdy trailing vine. Your firebolt_
+_trails braids of tangible smoke, thick enough to grab on to and warm, not_
+_burning, to the touch._
+
+When you active this Charm, choose one of the following:
+
+- **Grapnel**. The projectile attaches itself to a surface within close range.
+  The rope is exceptional equipment. You can use your reflexive move action to
+  climb it (ascending or descending one range band), or to swing on it, which
+  moves you one range band forward and (optionally) down. Other characters can't
+  move on the rope, but can use it as exceptional equipment to climb.
+- **Hook**. The projectile grabs an unattended object within short range, as
+  long as it's small enough to fit in your hands. It then retracts and drags the
+  object to your feet.
+
+If you have a relevant Craft, completing
+[crafting objectives](/systems/craft/experience/#basic-objectives) based on
+using this rope counts as a basic project and gives you silver XP.
+
+> _Exceptional Equipment_. +1 die to rolls that take advantage.
+
+***
+
 ### Drawing Lightning Style
 
 > **Cost**: 4m; **Mins**: Archery 4, Essence 2
@@ -205,3 +238,42 @@ _mark._
 
 You must declare this Charm before your attack is rolled. After your roll, you
 may spend 1i per die to reroll up to (Essence) dice that came up as 1s.
+
+***
+
+### Landslide Missile Attack
+
+> **Cost**: 2m, 2i; **Mins**: Archery 3, Essence 2
+>
+> **Type**: Supplemental (Attack roll); **Duration**: Instant
+>
+> **Keywords**: Decisive-only, Earth
+>
+> **Prerequisite Charms**: [Death From Nowhere](#death-from-nowhere)
+
+_Your arrow is laden with Earth Essence, wrapped in a glowing white aura as it_
+_flies heavy._
+
+**AIM** -- Knock your target back one range band. If he ends up on any earth or
+stone surface, he is also knocked prone.
+
+***
+
+### Nightshade's Deadly Bloom
+
+> **Cost**: 5m, 1i; **Mins**: Archery 4, Essence 2
+>
+> **Type**: Supplemental (Attack roll); **Duration**: Instant
+>
+> **Keywords**: Decisive-only, Wood
+>
+> **Prerequisite Charms**: [Arrow Thorn Technique](#arrow-thorn-technique)
+
+_Your arrow sprouts cruel, curling thorns, dripping with poison. Your fireblast_
+_is shot through with a sickening green that corrodes and bubbles as it burns._
+
+You must have Initiative 10+ to active this Charm.
+
+For this attack, your arrow is laced with the following poison:
+
+> Damage 2i/round (L), Duration (Essence + extra successes), penalty -3.
