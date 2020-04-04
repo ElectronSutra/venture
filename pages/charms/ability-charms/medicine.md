@@ -201,3 +201,31 @@ When you use Wound-Closing Technique, you may pay a 1wp surcharge. If you do,
 each success converts a point of aggravated damage to lethal; once all
 aggravated damage is cured, further successes turn lethal damage to bashing as
 usual.
+
+***
+
+### Flesh-Sealing Flame Technique
+
+> **Cost**: -- (+2m or 2i); **Mins**: Medicine 3, Essence 2
+>
+> **Type**: Permanent; **Duration**: Permanent
+>
+> **Keywords**: Fire
+>
+> **Prerequisite Charms**: [Wound-Closing Technique](#wound-closing-technique)
+
+_Your hands are wreathed in healing flames, sealing wounds and cauterizing_
+_blood flows._
+
+When you use Wound-Closing Technique to convert lethal damage to bashing, you
+may pay +2m (or 2i in combat, if you choose) to double 9s and complete the
+treatment instantly.
+
+If you use this Charm on mortals, it also automatically staunches bleeding and
+prevents infection. The treatment is painful, so they increase their wound
+penalty by -1 for (6 - patient's Stamina) rounds.
+
+You can use this Charm to enhance a Rally for Numbers roll as the leader of a
+battle group. Roll (Intelligence + War) with (Medicine) non-Charm bonus dice.
+
+Using this Charm changes Wound-Closing Technique's Aspect to Fire.
