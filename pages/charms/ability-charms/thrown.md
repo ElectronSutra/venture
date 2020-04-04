@@ -208,6 +208,27 @@ Double 9s. Flurry with a movement action with no penalty to either.
 
 ***
 
+### Sand-Scourge Feint
+
+> **Cost**: 1m, 1wp; **Mins**: Thrown 4, Essence 2
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: Decisive-only, Earth
+>
+> **Prerequisite Charms**: [Elusive Zephyr Strike](#elusive-zephyr-strike)
+
+_Pocket sand!_
+
+Make a distract gambit. If you succeed, your victim loses Initiative equal to
+the gambit's Initiative cost. If you Crash him with it, the break bonus goes to
+the recipient of your distraction, not to you.
+
+**EARTH AURA** -- You may expend your aura instead of paying the Initiative cost
+for the gambit.
+
+***
+
 ### Smoke Burst Eruption
 
 > **Cost**: 5m; **Mins**: Thrown 4, Essence 2
