@@ -136,6 +136,33 @@ The range of this Charm increases as your Essence increases.
 
 ***
 
+### Rose's Secret Petal
+
+> **Cost**: 5m; **Mins**: Linguistics 3, Essence 1
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: Wood
+>
+> **Prerequisite Charms**: [Cryptic Essence Cipher](#cryptic-essence-cipher),
+> [Wind-Carried Words Technique](#wind-carried-words-technique)
+
+_Secrets grow like scattered petals._
+
+You plant a written message into the soil. Influenced by your Wood Essence, it
+rapidly grows into a small, colorful flower. The arrangement of petals, leaves,
+and colors acts like a cipher created using Cryptic Essence Cipher. The message
+it conveys can be up to one page long.
+
+Roll ([Intelligence or Manipulation] + Linguistics) with double 9s to determine
+the strength of the cipher. In order to crack the cipher, someone must first
+determine that the flower _is_ a message to begin with. Only magical
+examination reveals the true nature of the blossom.
+
+The meaning of the flower is immediately recognizable to the intended recipient.
+
+***
+
 ### Language-Learning Ritual
 
 > **Cost**: 5m; **Mins**: Linguistics 3, Essence 1
@@ -154,6 +181,29 @@ You may understand any language that you have been exposed to for at least
 **ENHANCEMENT** (Linguistics 4, Essence 2) -- You may speak and write in the
 language. You have a noticeable accent and your writing is unsubtle. You take
 -3 on social influence.
+
+***
+
+### Root Tongue of the Dragon's Stemmata
+
+> **Cost**: 3m, 1wp; **Mins**: Linguistics 3, Essence 1
+>
+> **Type**: Reflexive; **Duration**: One scene
+>
+> **Keywords**: Wood
+>
+> **Prerequisite Charms**: [Language-Learning Ritual](#language-learning-ritual)
+
+_Flavor._
+
+Your spoken language can be understood by any other Dragon-Blooded, and you can
+understand all of their words, regardless of what language you or they are
+speaking. You can read anything written in any language by another Prince of the
+Earth while this Charm is active, but they can't read your writing unless they
+are normally able to.
+
+While this Charm is active, you reroll 1s on Read Intentions against other
+Dragon-Blooded and to break ciphers.
 
 ## Essence 2
 
@@ -190,6 +240,34 @@ _Language is a tool and you are an adept user._
 When you use Language-Learning Ritual, you may pay 5m, 1wp to waive the
 requirement of previous exposure. You can speak it instantly even without
 having been exposed to it.
+
+***
+
+### Shared Breath Understanding
+
+> **Cost**: 5m, 1wp; **Mins**: Linguistics 4, Essence 2
+>
+> **Type**: Simple; **Duration**: Varies
+>
+> **Keywords**: Air
+>
+> **Prerequisite Charms**: [Thousand Tongues Meditation](#thousand-tongues-meditation)
+
+_Flavor._
+
+Roll ([Manipulation or Wits] + Linguistics) against the Resolve of a target
+within close range. If you succeed, you steal his voice.
+
+You gain fluency in a single language that your target speaks, as if under the
+benefits of [Language-Learning Ritual](#language-learning-ritual), for the next
+(Essence + extra successes) days. You suffer no penalties for using that
+language and can mimic the voice of your target perfectly.
+
+Your target's voice is suppressed for the duration of this Charm. He can only
+whisper and takes -3 on all spoken social interaction. He can reclaim his voice
+from you by closing to close range and succeeding on a difficulty 6 roll (a
+gambit in combat), by stealing it from you using Larceny, or other appropriate
+means.
 
 ***
 
