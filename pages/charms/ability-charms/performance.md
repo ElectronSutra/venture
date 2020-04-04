@@ -67,6 +67,39 @@ cannot be noticed by anyone whose Resolve doesn't beat your roll. Your
 concealment disappears if you draw notice to yourself such as rolling Join
 Battle, drawing a weapon, etc.
 
+***
+
+### Enticing Paramour Passion
+
+> **Cost**: 5m, 1wp; **Mins**: Performance 3, Essence 1
+>
+> **Type**: Reflexive; **Duration**: Indefinite
+>
+> **Keywords**: Mute, Fire/Wood, Restriction (1/story)
+>
+> **Prerequisite Charms**: None
+
+_Love is a strange thing. It often grows quickly in the fiery crucible of_
+_rivalry._
+
+You may use this Charm after you engage in consensual, voluntary physical
+intimacy (sex, a kiss, a passionate embrace) with someone you have seduced, or
+after being seduced yourself. The other individual becomes your _rival_.
+
+You gain a stock of (Appearance + your strongest Tie to your rival + your
+rival's strongest tie toward you) non-Charm dice. You may add up to (Essence)
+of these dice at a time to any roll in the following list:
+
+- An Influence roll (any Ability) to inspire an emotion or instill or leverage
+  a Tie in your rival;
+- Read Intentions or profile character which target your rival;
+- Your Resolve or Guile against influence originating from your rival, costing
+  2 dice per +1 Resolve;
+- Any roll to introduce a fact or challenge a fact about your rival;
+- Strategic Maneuver rolls against your rival.
+
+**RESET** -- Achieve a major character or story goal by seducing someone.
+
 ## Universal: Essence 2
 
 ### Dance of Flashing Swords
