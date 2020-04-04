@@ -97,7 +97,7 @@ Elemental Bolt Attack is enhanced with the following benefits:
 - As long as you are in your Aspect's Aura, you don't have to spend anima to
   increase the range of your Elemental Bolt Attack.
 
-This Charm is favored.
+This Charm can be purchased as a favored Charm.
 
 ### Elemental Sheath
 
@@ -195,5 +195,55 @@ element. You don it immediately with a cool enough stunt.
 
 Your anima always counts as an "appropriate elemental display" for your Aspect's
 element.
+
+This Charm can be purchased as a Favored Charm.
+
+***
+
+### Dragon-Graced Raiment
+
+> **Cost**: -- (4m); **Mins**: Resistance 3, Essence 2
+>
+> **Type**: Reflexive; **Duration**: One scene _or_ Indefinite
+>
+> **Keywords**: None
+>
+> **Prerequisite Charms**: [Elemental Aegis](#elemental-aegis)
+
+_You infuse your armor with the elements, or shape it from them._
+
+When you recall armor banished with Elemental Aegis, you can put it on in just
+(Mobility Penalty + 1) rounds. It is wreathed in the element you used to summon
+it: its plates are frozen lightning, its elegant layers are woven from colorful
+flame, its chestplate is wood and the epaulettes huge blossoms, etc. It remains
+empowered for 1 scene.
+
+You can also use Elemental Aegis to create any type of mundane armor instantly
+out of the elements. Created armor normally disappears when the scene ends, but
+you can commit 4m to make it indefinite. You may also create mundane clothes
+that count as exceptional equipment for all social rolls that take your clothes
+into account (esp. through a stunt).
+
+Each element conveys the following benefits when girding or shaping armor:
+
+- **AIR**. The armor is weightless. It gains the Buoyant and Silent tags. Its
+  mobility penalty is reduced by 1 when it impacts your Evasion. Light armor
+  adds 1 bonus die to Stealth rolls.
+- **EARTH**. The armor gains +1 Soak, or +(higher of Essence or 3) soak against
+  smashing attacks or any other attack that would attempt to move you. Artifact
+  armor gets +1 Hardness against such attacks, and normal clothing gets Hardness
+  4 against them. Earth clothing does not count as armor but offers Soak and
+  Hardness against smashing attacks.
+- **FIRE**. Fire armor deals 1 die of **lethal** damage, ignoring Hardness, to
+  any enemy who hits you with an unarmed or natural attack, or once per round to
+  anyone who attempts to grab you. You get an automatic success on all
+  Apperance-based threaten rolls.
+- **WATER**. Water armor gets the Concealable tag and adds 1 automatic success
+  to resist being grappled, bound, restrained, or to move through tight spaces.
+  Armor that is already Concealable gains an automatic success on disguise
+  rolls, as does water clothing.
+- **WOOD**. Wood armor grants 1 automatic success on Inspire rolls, Instill
+  rolls to create ties of attraction to the wearer, and persuade or bargain
+  rolls to seduce characters. Likewise wood clothing.
 
 This Charm can be purchased as a Favored Charm.
