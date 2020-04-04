@@ -253,7 +253,7 @@ having been exposed to it.
 >
 > **Prerequisite Charms**: [Thousand Tongues Meditation](#thousand-tongues-meditation)
 
-_Flavor._
+_The breath is an expression of the self. It is clay in your hands..._
 
 Roll ([Manipulation or Wits] + Linguistics) against the Resolve of a target
 within close range. If you succeed, you steal his voice.

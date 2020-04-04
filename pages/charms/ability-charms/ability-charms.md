@@ -72,6 +72,33 @@ as unfavored.
 
 ## Essence 2
 
+### Mantle of Elemental Power
+
+> **Cost**: 3m, 1a, 1wp; **Mins**: Lore 3, Essence 2
+>
+> **Type**: Simple; **Duration**: One scene
+>
+> **Keywords**: None
+>
+> **Prerequisite Charms**: [Elemental Bolt Attack](#elemental-bolt-attack)
+
+_Air: Your anima swirls around you in a crackling lightning display; Wood: You_
+_wrap yourself in a swirling cascade of whirling petals; Earth: Huge rocks,_
+_shards of stone, and sand lift up from the earth to swirl around you; etc._
+
+Use this Charm to enhance your anima display. For the rest of the scene, your
+Elemental Bolt Attack is enhanced with the following benefits:
+
+- Cost is reduced by 3m, to a total of 1m per shot;
+- Whenever a Simple or Reflexive Charm lets you make an Archery or Thrown
+  attack, you can reflexively use Elemental Bolt Attack to make it;
+- You  can use Elemental Bolt Attack reflexively to defend against an attack
+  with ([Dex + [higher or Archery or Thrown] / 2, round up] + 1) Parry;
+- As long as you are in your Aspect's Aura, you don't have to spend anima to
+  increase the range of your Elemental Bolt Attack.
+
+This Charm is favored.
+
 ### Elemental Sheath
 
 > **Cost**: 2m (+1a); **Mins**: [Ability] 3, Essence 2

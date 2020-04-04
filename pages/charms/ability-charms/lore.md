@@ -102,7 +102,7 @@ fact about the weather; etc.
 >
 > **Keywords**: Aura
 >
-> **Prerequisite Charms**: Elemental Concentration Trance
+> **Prerequisite Charms**: [Elemental Concentration Trance](#elemental-concentration-trance)
 
 _Your understanding of the elements allows you to inspire them in others._
 
@@ -115,6 +115,33 @@ available, he has to spend them before his next turn or the extras go away.
 
 **REPURCHASE** (Lore 5, Essence 2) -- You can also transfer 1a in addition to
 the aura.
+
+***
+
+### Deadly Essence Flashpoint
+
+> **Cost**: 1m/die; **Mins**: Lore 3, Essence 1
+>
+> **Type**: Reflexive; **Duration**: One scene
+>
+> **Keywords**: Balanced, Stackable
+>
+> **Prerequisite Charms**: [Elemental Concentration Trance](#elemental-concentration-trance)
+
+_Careful study of esoteric wisdom has allowed you a fine degree of control over_
+_your anima._
+
+Whenever you would roll damage for your Anima Flux, you can commit 1m to hold it
+in abeyance. You can have up to (higher of Essence or 3) stacks.
+
+When you make a **decisive** attack, you can release your commitment to this
+Charm and add one die of **decisive** damage per stack. Your attack is wreathed
+in your element.
+
+If you use this Charm to enhance Elemental Bolt Attack, it's range is extended
+by one band, maximum long.
+
+This Charm's element is the same as your Aspect.
 
 ## Essence 2
 
