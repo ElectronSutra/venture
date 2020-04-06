@@ -155,3 +155,68 @@ _As water retains no constant shape, and storms no single path, so in warfare_
 _there are no constant conditions._
 
 Reroll (Essence) failed dice that didn't come up as a 1.
+
+***
+
+### Swift Rain, Fierce Storm
+
+> **Cost**: 3m/battlegroup, 1wp; **Mins**: War 3, Essence 2
+>
+> **Type**: Simple; **Duration**: One scene
+>
+> **Keywords**: Air/Water
+>
+> **Prerequisite Charms**: [Tireless Footfalls Cadence](#tireless-footfalls-cadence)
+
+_We shall fight in the shade._
+
+Enhance any number of allied battlegroups for 3m/battle group. They get an
+automatic success on their movement rolls, an automatic success on ranged
+attack rolls made from medium distance or further, and they get +1 Evasion
+against incoming attacks.
+
+If the enhanced battlegroup has elite drill, their elite drill grants +3
+non-Charm bonus dice to rally, move, or order ranged attacks from medium range
+or further.
+
+If you are fighting under a stratagem you have successfully enacted in strategic
+combat, you can use this Charm reflexively instead of as Simple.
+
+***
+
+### Tiger-and-Dragon Combination
+
+> **Cost**: 7m, 1wp; **Mins**: War 3, Essence 2
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: Balanced, Decisive-only, Restriction (1/day)
+>
+> **Prerequisite Charms**: Any combination of five Archery, Brawl, Martial Arts,
+> Melee, Thrown, or War Charms
+
+_You and your partner move in perfect synchronicity. With blinding speed and_
+_terrifying prowess, you and your ally strike a blow from the depths of the_
+_Earth._
+
+When you purchase this Charm, you must spend the learn time with a training
+montage of you and a single ally in which the two of you develop a signature
+combo.
+
+You may use this Charm if your ally is within short range of you. If they are at
+short range, they can reflexively move to close range from you. This doesn't
+count as their movement action for the turn. You cannot use this Charm if your
+ally is too far away or if they are Crashed.
+
+Then, you and your ally each make a **decisive** attack against your target, and
+each of you deals damage based on the _higher_ of your two commitments. Both
+attacks apply their Onslaught before either of you rolls. This attack counts as
+your attack action, but not your ally's.
+
+> Timing Clarification Example: Your target has Onslaught -1. You use this
+> Charm. His Onslaught increases to -3, then the first of you attacks, then the
+> second.
+
+**SPECIAL** -- Participating as an ally counts as your 1/day use of this Charm.
+
+**REPURCHASE** -- Gain a new combo with a new ally.

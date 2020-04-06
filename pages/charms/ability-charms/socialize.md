@@ -192,6 +192,32 @@ Regardless, this effect disappears once they sober up.
 
 ***
 
+### Impeccable Purity Lavation
+
+> **Cost**: 5m, 1wp; **Mins**: Socialize 3, Essence 2
+>
+> **Type**: Simple; **Duration**: (Essence + Appearance) days
+>
+> **Keywords**: Mute, Water
+>
+> **Prerequisite Charms**: [Friend-to-All-Nations Attitude](#friend-to-all-nations-attitude)
+
+_Infused with cleansing Water Essence, you cannot be dirtied or sullied by the_
+_imperfections of the world._
+
+You may use this Charm after you spend at least one hour bathing. For the
+duration of this Charm, you and your clothes cannot be stained or dirtied by any
+mundane material.
+
+Any character you interact with is treated as having a positive Minor Tie toward
+you, the context of which you can specify per-character. If you interact with a
+character that already has a positive Tie toward you, they get -1 Resolve
+instead. Any affected character may spend 1wp to become immune to this Charm. If
+you offend someone or treat them demandingly, the magic instantly breaks for
+them.
+
+***
+
 ### Shadow-Dispersing Radiance
 
 > **Cost**: 1m, 1wp; **Mins**: Socialize 4, Essence 2

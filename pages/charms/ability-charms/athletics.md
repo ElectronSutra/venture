@@ -162,6 +162,75 @@ Charm again at the start of your next turn or you will fall.
 
 ***
 
+### Ice-Slick Tread Technique
+
+> **Cost**: 2m, 2i; **Mins**: Athletics 3, Essence 2
+>
+> **Type**: Supplemental (Walking or Running); **Duration**: Instant
+>
+> **Keywords**: Air, Perilous
+>
+> **Prerequisite Charms**: [Bellows-Pumping Stride](#bellows-pumping-stride)
+
+_Your freezing feet leave a trail of ice and frost, so thick and cold that_
+_others struggle to follow._
+
+This Charm can enhance movement rolls made with any Ability, as long as they
+move at least 1 range band. Add 1 automatic success and ignore any penalties
+based on ice, snow, or cold.
+
+You freeze the ground in a trail as you move. The frozen ground is difficult
+terrain for all others. If you move across water or another freezable liquid, it
+freezes thick enough for you to walk on and others to follow.
+
+***
+
+### Crashing Tide Advance
+
+> **Cost**: 3m; **Mins**: Athletics 4, Essence 2
+>
+> **Type**: Supplemental (Rush); **Duration**: Instant
+>
+> **Keywords**: Dual, Water
+>
+> **Prerequisite Charms**: [Bellows-Pumping Stride](#bellows-pumping-stride)
+
+_You are buoyed along on a crashing wave, as ceaseless as the tides._
+
+Add 1 automatic success.
+
+If your rush is successful and your enemy triggers your movement, you inflict
+a -1 Onslaught penalty on him and your first close-range attack him on the next
+turn gets +1 **decisive** or **withering** damage.
+
+***
+
+### Flying Dagger Leap
+
+> **Cost**: 3m; **Mins**: Athletics 4, Essence 2
+>
+> **Type**: Supplemental (Jump or Rush); **Duration**: Instant
+>
+> **Keywords**: Air, Dual
+>
+> **Prerequisite Charms**: [Soaring Leap Technique](#soaring-leap-technique)
+
+_You fly through the air with a sudden burst, blurring from the speed._
+
+If you leap at your opponent into close range or your rush is successful and
+your enemy triggers your reflexive movement, then you get (Essence) bonus dice
+on your next attack roll and:
+
+#### Decisive
+
+Add +1 **decisive** damage.
+
+#### Withering
+
+Add 1 automatic success on your attack roll.
+
+***
+
 ### Mountain-Toppling Might
 
 > **Cost**: 3m; **Mins**: Athletics 5, Essence 2

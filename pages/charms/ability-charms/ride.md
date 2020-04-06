@@ -136,6 +136,31 @@ be accelerated with the use of Survival Charms.
 
 ***
 
+### Rearing Stallion Provocation
+
+> **Cost**: 3m, 1wp; **Mins**: Ride 3, Essence 2
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: Fire
+>
+> **Prerequisite Charms**: [Dance of the Jade Bridle](#dance-of-the-jade-bridle)
+
+_Your presence is disquieting to your target's mount. They know it is not their_
+_nature to ride against you._
+
+Make a (Charisma + [Presence, Survival, or Ride]) threaten roll with double 9s
+against an animal mount. If you succeed, the mount reflexively moves one range
+band in a direction of your choice, taking its rider with it. It won't move into
+obvious danger (ie., a cliff or into a tiger's maw), but it can move into perils
+it isn't aware of. Mounts cannot spend WP to resist this unless they are trained
+war mounts or they have a Major or Defining Intimacy to their rider to oppose
+it.
+
+**SPECIAL** -- This Charm can be flurried.
+
+***
+
 ### Reins-Like-Roots Unity
 
 > **Cost**: 3m; **Mins**: Ride 3, Essence 2

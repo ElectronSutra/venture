@@ -135,6 +135,25 @@ If you foresee dangerous weather, you gain a Sail specialty in avoiding or
 navigating that weather. This specialty lasts until the weather has passed. You
 can only have 1 specialty from this Charm at a time.
 
+***
+
+### Sea Dragon's Cunning
+
+> **Cost**: 3m; **Mins**: Sail 3, Essence 1
+>
+> **Type**: Supplemental (Maneuver); **Duration**: Instant
+>
+> **Keywords**: Balanced, Captain, Water
+>
+> **Prerequisite Charms**: None
+
+_You are unopposed in your naval glory. Your execution of naval strategy is_
+_flawless._
+
+Double 9s. If you succeed, gain 1 Momentum.
+
+**WATER AURA** -- Gain 1 Momentum even if you fail.
+
 ## Essence 2
 
 ### Old Salt Spirit
@@ -196,3 +215,38 @@ successes to your roll to have avoided the damage. If the roll now succeeds,
 your ship takes half the damage, rounded down, that it would have before.
 
 **RESET** -- Succeed at a difficulty 4+ Sail roll.
+
+***
+
+### Mountain-Hull Meditation
+
+> **Cost**: 1m; **Mins**: Sail 4, Essence 2
+>
+> **Type**: Reflexive; **Duration**: Instant
+>
+> **Keywords**: Captain, Earth
+>
+> **Prerequisite Charms**: [Sturdy Bulkhead Concentration](#sturdy-bulkhead-concentration)
+
+_Your ship's hull is reinforced with your Earth Essence. It sails unimperiled_
+_through perilous storms, firey explosions, and any terror which stands in its_
+_way._
+
+Rules in development...
+
+***
+
+### Trial-by-Fire Imperilment
+
+> **Cost**: 5m; **Mins**: Sail 4, Essence 2
+>
+> **Type**: Reflexive; **Duration**: Instant
+>
+> **Keywords**: Captain, Fire
+>
+> **Prerequisite Charms**: [Sea Dragon's Cunning](#sea-dragons-cunning)
+
+_You summon up a rain of fire. Huge plumes of steam and boiling water roil_
+_around you ship as chaos decimates your foes._
+
+Rules in development...

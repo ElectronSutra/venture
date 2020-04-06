@@ -63,6 +63,25 @@ This Charm functions the same as Finding the Water's Depths, except that instead
 of a price it reveals how the target intends to vote on an upcoming issue in
 which they have a say. It also reveals his strongest Intimacy driving his vote.
 
+***
+
+### Sink-or-Swim Discernment
+
+> **Cost**: --; **Mins**: Bureaucracy 2, Essence 1
+>
+> **Type**: Permanent; **Duration**: Permanent
+>
+> **Keywords**: Water
+>
+> **Prerequisite Charms**: [Finding the Water's Depths](#finding-the-waters-depths)
+
+_Important people bubble to the top._
+
+You may use Finding the Water's Depths in order to get a general sense of what
+formal organizations, if any, your target belongs to, as well as his approximate
+rank within that organization. Ministries, religious organizations, clans -- all
+of these are formal. Secret societies are not.
+
 ## Essence 2
 
 ### Benevolent Master's Blessing
@@ -148,6 +167,27 @@ a bureaucratic process such as embezzlement or laundering money.
 
 Anyone attempting to discover your deception must use (lower of Bureaucracy or
 Investigation).
+
+***
+
+### Charting Unfamiliar Tides
+
+> **Cost**: --; **Mins**: Bureaucracy 3, Essence 2
+>
+> **Type**: Permanent; **Duration**: Permanent
+>
+> **Keywords**: Water
+>
+> **Prerequisite Charms**: None
+
+_Even on the farthest shores, a bureaucracy is a bureaucracy. It doesn't matter_
+_if those foreigners trade in shells instead of jade or keep their records in_
+_sketches in the dirt; where formal structures exist, you will exploit them._
+
+You may Introduce Facts about bureaucratic and mercantile organizations even if
+you aren't familiar with them and have no reason to know that. You must have
+spent at least one scene interacting with or eavesdroppping on that
+organization or its members acting in official capacity.
 
 ***
 

@@ -28,6 +28,31 @@ Add 1 success per 2m spent.
 
 ## Essence 1
 
+### Blood-Chilling Strike
+
+> **Cost**: 4m; **Mins**: Stealth 3, Essence 1
+>
+> **Type**: Supplemental (Attack Roll); **Duration**: Instant
+>
+> **Keywords**: Air, Decisive-only
+>
+> **Prerequisite Charms**: None
+
+_Appearing from nowhere like a chill down the spine, you freeze your opponent_
+_with fear and throw off their battle-rhythm, leaving them vulnerable._
+
+Activate this Charm when you land an unexpected or ambush **decisive** attack
+(with any combat Ability) on an enemy who hasn't acted yet. He loses 1i, or
+(your Essence)i if it's an ambush. You don't gain this Initiative.
+
+If you deal 3 or more levels of damage, he cannot use a move action (except for
+Rise from Prone) this round, even if a Charm grants him movement with the "this
+does not use your movement action" text.
+
+**AIR AURA** -- You get the Initiative he loses.
+
+***
+
 ### Vanishing Wind-Body Technique
 
 > **Cost**: 4m; **Mins**: Stealth 3, Essence 2
@@ -88,6 +113,27 @@ be detected by hearing; if your opponent has magical hearing, they take -2
 instead.
 
 ## Essence 2
+
+### Foe-Blinding Venom
+
+> **Cost**: 4m; **Mins**: Stealth 3, Essence 2
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: Balanced, Decisive-only, Wood
+>
+> **Prerequisite Charms**: [Blood-Chilling Strike](#blood-chilling-strike)
+
+_Your very presence is toxic to those who oppose you. Even when they can't see_
+_you, your powerful Wood Essence pricks at their eyes and makes them blind._
+
+You must be concealed to use this Charm. Make an unexpected **decisive** attack
+using any combat Ability. This attack conveys the following poison:
+
+> Damage 2i/round (L), duration (your current Stealth successes) rounds, penalty
+> -1 (-4 to oppose your stealth).
+
+***
 
 ### Shimmering Heat-Mirage Tactic
 

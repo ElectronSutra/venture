@@ -51,6 +51,27 @@ Your vision is extended to its full normal range.
 
 ***
 
+### Victory-Seeking Insight
+
+> **Cost**: 4m; **Mins**: Awareness 2, Essence 1
+>
+> **Type**: Reflexive; **Duration**: Instant
+>
+> **Keywords**: Air, Perilous
+>
+> **Prerequisite Charms**: None
+
+_In a flash of clarity, you understand the positions of combatants and the best_
+_means for victory._
+
+After you Join Battle, you may transfer up to (highest of Intelligence, Wits, or
+War) Initiative to any number of allies, dividing it up however you choose. You
+can't Crash yourself.
+
+If you transfer 1+ Initiative to a Hearthmate, he gets 1 additional Initiative.
+
+***
+
 ### Deep-Listening Palm
 
 > **Cost**: 5m; **Mins**: Awareness 2, Essence 1
@@ -170,3 +191,22 @@ are underground, extend to long range instead.
 **EARTH AURA** -- You may commit the 5m to sustain this effect for as long as
 you remain in Earth Aura. All-Encompassing Earth Sense is free as long as you
 maintain this commitment.
+
+***
+
+### Pasiap Preempts Haste
+
+> **Cost**: 3m; **Mins**: Awareness 3, Essence 2
+>
+> **Type**: Supplemental (Join Battle); **Duration**: Instant
+>
+> **Keywords**: Earth
+>
+> **Prerequisite Charms**: [All-Encompassing Earth Sense](#all-encompassing-earth-sense)
+
+_As silent as the mountain, you pause, breathing sharply; the perfect moment is_
+_just around the corner..._
+
+Double 9s. If you win Join Battle, you can delay your first action for free, and
+add +(Perception) bonus dice to your attack roll if you delay until after at
+least one enemy acts.
