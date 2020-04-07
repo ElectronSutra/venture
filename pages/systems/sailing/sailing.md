@@ -132,4 +132,3 @@ Competency), although she still uses her own Sail for Charm purposes.
 When the life and livelihood of the ship are in direct danger, the ship enters
 _combat operation_. Combat operation is fully explained in the
 [shipboard combat](/systems/sailing/combat) section.
-
