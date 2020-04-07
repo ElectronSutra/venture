@@ -124,11 +124,13 @@ from the ship you are engaged with when you Move!.
 
 ### Ready Weapons!
 
-You order the crew to take a [Ready Weapons action](/system/sailing/ready-weapons/).
+You order the crew to ready weapons. They automatically ready the weapons and
+can launch an attack with the Fire Weapons! effect or the
+[Fire action](/systems/sailing/actions#fire)
 
 ### Fire Weapons!
 
-You order the crew to take a [Fire Weapons action](/systems/sailing/actions/).
+You order the crew to fire the ships' weapons. Fire Weapons! guarantees a hit.
 
 ### Launch a Boarding Action!
 
