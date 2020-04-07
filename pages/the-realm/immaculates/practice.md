@@ -23,7 +23,9 @@ _Heaven Harmonious Orthodox_ lineage, mostly practiced by the Tepet territories.
 This section will present a brief overview of some practices of the Rainbow Gate
 of Wisdom lineage and some of its non-practical traditions.
 
-## Physical Wellness
+## Some Daily Routine
+
+### Physical Wellness
 
 The Order teaches that spiritual and physical wellness are deeply connected to
 one another. Because of this, they encourage all followers to take a few
@@ -43,21 +45,21 @@ powerful manifestation of the soul and good breathing improves your spiritual
 energy. Monks often suggest certain sacred forms to perform in the morning,
 with the goal of aligning the body's energy to the work of the day.
 
-### A Daily Routine of a Prince of the Earth: Morning Exercises
+#### A Daily Routine of a Prince of the Earth: Morning Exercises
 
 Cathak Wren wakes up in the morning and starts her day with her morning
 exercises. She performs several katas with her sword, moving through three of
 the sacred forms. After that, she practices with shield, through three other
 sacred forms. She spars with her partner and then refreshes herself.
 
-### A Daily Routine of a Peasant: Morning Exercises
+#### A Daily Routine of a Peasant: Morning Exercises
 
 Morningflower wakes up in the morning with her family. She, her sister, and
 their mother take a few moments to stretch and move through the sacred form that
 the monk gave them -- he said it would bring them more energy during the day.
 It also helps Mother and her old joints, so she insists on doing them daily.
 
-## Household Shrines
+### Household Shrines
 
 Almost all Immaculate households maintain a household (or family) shrine. This
 sacred space is a focus of spiritual energy and an anchor point for meditation
@@ -111,7 +113,7 @@ oldest child of the youngest generation living in the house, as long as they are
 old enough to perform their duties respectfully. The tedium of this chore is
 often a bonding point for children from pious families.
 
-### A Daily Routine of a Prince of the Earth: Maintaing the Household Shrine
+#### A Daily Routine of a Prince of the Earth: Maintaing the Household Shrine
 
 As the oldest child of the youngest generation still living at the compound, it
 is Cathak Wren's duty to maintain the family shrine. On this compound, the
@@ -147,7 +149,7 @@ before the lineage stone.
 
 She has now prepared the shrine and is ready for the morning meditation.
 
-### A Daily Routine of a Peasant: Maintaining the Household Shrine
+#### A Daily Routine of a Peasant: Maintaining the Household Shrine
 
 As the oldest child of the youngest generation still living in her home, it is
 Morningflower's duty to maintain the family shrine. It is located in the corner
@@ -176,3 +178,118 @@ circular incense stone.
 Lastly, she grabs an apple from her family's meager pantry and a small scoop of
 rice. She puts the apple on the offering board and arranges the rice in a little
 pile next to it. Mother gets very annoyed if the offerings don't look pretty.
+
+### Meditation and Chants
+
+The Immaculate orthodoxy reserves prayer as a thing directed at gods during
+their scheduled worship. In the personal practice, the emphasis is not on
+prayer, but rather on meditation for personal achievement.
+
+Meditation takes many forms, the most common being sitting meditation and
+standing meditation. The goal of these meditations is to cultivate positive
+energy, free the mind from misconceptions, and exercise the soul in the way one
+would exercise the body. Regular meditation is essential to spiritual wellness.
+
+Sitting meditation is performed with the legs crossed, and the hands folded in
+the lap. Many mudras are available for the hands to encourage certain kinds of
+energy within the body; unless instructed by a monk, few devotees use these
+specialized signs. Many simply fold their hands. Seated meditations require a
+clean seat; meditating in squalor is harmful because of the negative energy that
+unclean environments produce.
+
+Standing meditation can be performed on one's feet anywhere that one desires.
+The hands are pressed firmly to the solar plexus, again either simply folded
+over one another or in a specific mudra if the practitioner desires a more
+specific kind of energy.
+
+While meditating, the practitioner focuses on her breath and her thoughts. The
+goal is to focus the mind singularly on duty and wisdom, and to avoid stray
+thoughts. The breath is the manifestation of the soul into the world, so it is
+vital that the meditating Immaculate concentrates on her breathing, on
+mindfulness of her place in the universe, and on the flow of Essence within her
+body.
+
+Having cultivated positive energy within the body, one may either store it
+within themselves, disperse it into the ambient environment, or direct it to a
+specific target. Dispersing energy to the environment is done with wide gestures
+and sharp exhalation of breath. Positive energy can be directed through the
+fingertips, as one does when preparing a cultivation bowl.
+
+Chanting is also an important part of Immaculate practice. Countless chants and
+mantras are recorded in the Immaculate Texts and sacred manuals, each with a
+different purpose. These chants are often reminders of duty and good behavior,
+reminders of specific teachings, or other reminders of important aspects of the
+Immaculate Philosophy.
+
+Chants are musical and liberating, often accompanied in temples by the beating
+of drums, ringing of bells, clapping of hands, and other sources of sound.
+Chants are also very physical, involving bowing, rotating to face specific
+directions, prostrations, raising hands in mudras, and other involvements. Where
+meditation is about personal energy, chants are about communal energy.
+
+The line between prayer on the one hand and meditation and chanting on the other
+is often unclear, especially to more casual Immaculates. Although prayer to the
+Dragons is not condoned, many Immaculates do so freely as part of chanting and
+meditating, often in a way that they themselves would not even really consider
+"prayer." As with all things in spirituality, these things are personal,
+complicated, and subject to interpretation.
+
+#### A Daily Routine of a Prince of the Earth: Morning Meditations and Chants
+
+Cathak Wren and her retinue of servants grab their cushions from the bin on the
+righthand wall. Each cushion is a small personal square that will keep their
+knees from getting sore on the floor. Cathak Wren takes her place in front of
+the lineage stone; she is the only Prince currently in the shrine, so she has
+the front half of the space to herself. The servants arrange themselves into
+neat rows in the rear half of the shrine. One of them takes her place at the
+drum in the back left corner.
+
+Cathak Wren signals for the chants to begin by ringing the bell hanging beside
+the lineage stone. The drummer beats out a simple rhythm to signal every few
+syllables, so that all of the servants are in sync. They begin facing the north,
+toward the lineage stone.
+
+Everyone takes a bow, bending at the waist on their feet. When the drummer hits
+the third beat, they stand back up. In time with the rhythm, Cathak Wren calls
+out the first line of the chant. The servants reply with the second and third
+line. She replies with the fourth and fifth. Then, they all make five
+prostrations: they descend to their knees on the cushion in front of them, hands
+in prayer position. In time with the drums, they press their foreheads to
+the floor with hands outstretched, hold for one beat, and rise on the third,
+returning the hands to prayer position. They repeat this for five total
+prostrations before they rise to their feet.
+
+Cathak Wren rings the bell, signalling the end of the prayer. The group now
+turns to face east and repeats: striking the bell, a bow, a chant, and five
+prostrations. They complete this for south and west.
+
+At the end, Cathak Wren faces toward the center of the shrine, and the servants
+arrange themselves in a semicircle around the center point, still within their
+rear half. A final ring of the bell, bow, chant, and set of five prostrations
+closes the ritual by facing the center.
+
+All present take a seat on their cushions for a few moments of seated
+meditation. Cathak Wren is the first to leave. As a Prince of the Earth, when
+she stands, so do the rest. She faces the semicircle of servants and releases
+her positive energy to them, then departs for her daily affairs. Many servants
+follow; a few settle back onto their rears for more meditations.
+
+#### A Daily Routine of a Peasant: Morning Meditations and Chants
+
+In the corner of the kitchen, Morningflower stands before her family shrine and
+is eager to be finished. Mother is watching, however, so she must be mindful.
+
+Her family shrine's noisemaker is a small wooden block. She strikes it to mark
+the opening of the chants. She turns to face North, the lineage stone at her
+left due to the arrangement of the kitchen.
+
+She bows from the waist, returns to standing, and recites five syllables for her
+chant. She repeats this for east, south, and west, ignoring the cat which is
+pressing his head against her leg. For the center, she stares at her feet and
+recites the five syllables, then directs her energy toward the shrine. The cat
+stares up at her quizzically and leaps up onto the windowsill, then out the
+window. She strikes the wood block again to mark the end of the chants.
+
+Mother's joints have been causing her paint recently, so Morningflower asks the
+Dragons to send good health and good fortune. She extinguishes the incense and
+bows to her mother, who nods sternly and exits the room.
