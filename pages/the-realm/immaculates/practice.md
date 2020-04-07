@@ -337,4 +337,5 @@ their practices, because they don't have the time, or because they are tired, or
 any of the other excuses that humans use to avoid their responsibilities. For
 many practitioners, the Philosophy is a somewhat distant thing, and they are
 content to merely live their lives in accordance with their station and
-sometimes go to the temple for advice or service.
+sometimes go to the temple for advice or service. They trust that monks and
+spiritual leaders will direct them on the right course.
