@@ -115,17 +115,9 @@ be physical, and outwitting her pursuer through tricky maneuvering is probably
 mental.
 
 The crew of a ship has their own skill and experience, and are able to operate
-at a basic level of efficacy even under the command of a novice captain. In the
-same manner, a veteran captain can whip even a layabout crew into action. To
-reflect this, the captain may use (higher of her own Sail or her crew's
-Competency), although she still uses her own Sail for Charm purposes.
-
-> **Competency**: An improvised crew or a crew made up entirely of greenhorn
-> recruits has Competency 0. A crew of novices, pollywogs, and ordinary sailors,
-> with basic training but no great experience, has Competency 1. A crew of
-> able sailors, battle-ready marines, and shellbacks has Competency 2. True
-> hard-sea veterans and salty shellbacks have Competency 3. The vast majority of
-> ships have Competency 1 or 2.
+at a basic level of efficacy even under the command of a novice captain. As long
+as your crew consists of **experienced sailors**, **wizened shellbacks**, and
+**able crewmen**, you get +2 on your Sail roll to a maximum of 5 Sail.
 
 ### Combat Operation
 
