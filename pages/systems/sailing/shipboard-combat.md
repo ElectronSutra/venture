@@ -92,6 +92,8 @@ The captain may spend tempo as her action or as her nautical action to gain
 any of the following benefits. She may only spend tempo on one benefit at a
 time.
 
+### Tempo Table
+
 | **Cost** | **Effect**                                             |
 | :------- | :----------------------------------------------------- |
 | 3t       | [Move!](#move)                                         |

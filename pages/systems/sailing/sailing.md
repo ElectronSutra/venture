@@ -27,7 +27,7 @@ A normal ship has thirty health levels: five -0 health levels, five -1 health
 levels, ten -2 health levels, and en -4 health levels. An incapacitated ship is
 not sunk; rather, it is rendered immobile and is taking on water. While
 incapacitated, the captain cannot spend tempo and the only available
-ship-specific action is Remove Bilge.
+ship-specific action is [Remove Bilge](/systems/sailing/actions#remove-bilge).
 
 Repairing the ship is a craft project. Simple repairs sufficient to render an
 incapacitated ship able to limp back to port are a basic project. More expansive
