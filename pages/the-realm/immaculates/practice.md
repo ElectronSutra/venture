@@ -293,3 +293,48 @@ window. She strikes the wood block again to mark the end of the chants.
 Mother's joints have been causing her paint recently, so Morningflower asks the
 Dragons to send good health and good fortune. She extinguishes the incense and
 bows to her mother, who nods sternly and exits the room.
+
+### The Devotional Act of Living Your Life
+
+A unique benefit of the Immaculate Philosophy is that the simple act of existing
+happily in your station can be a devotional act. After all, there is nothing
+more meritorious than living your life according to your position in the
+Perfected Hierarchy.
+
+For this reason, Dragon-Blooded can accumulate merit in their day simply by
+being wise, just, and compassionate rulers. Farmers can accumulate merit by
+farming. Potters can accumulate merit by spinning clay.
+
+The Order encourages everyone to go about their day with mindfulness, taking
+moments here and there to pause and really internalize the act they are doing.
+This kind of momentary on-the-fly meditation helps to ground the soul in its
+proper place. They teach that striving to live your life the best you can and
+being happy with what you have are, themselves, acts of devotion.
+
+In addition to this ad-hoc meditation, practitioners are encouraged to take time
+out of their day to meditate. All practitioners are encouraged to attend their
+household shrine or some other sacred space for a few minutes every day, using
+that time to meditate or chant the mantras. Practitioners are also encouraged to
+chant when they feel the desire, especially in connection to powerful emotions;
+the act of focusing on the chant should suppress those strong feelings and lead
+to a more clear-headed judgement.
+
+### Conclusion
+
+Daily practice in the Rainbow Gate lineage is focused on cultivating physical
+and spiritual wellness through ritual behavior. The family shrine is a focal
+point, and not only provides a sacred space for clear-headed meditation, but
+also acts as a reminder of daily practice. Plus, the ritual of maintaining it is
+a good disciplinary tool for the kids!
+
+Meditation and chanting are the focus of daily practice. Used in conjunction,
+they promote spiritual energy and focus the mind on its position within the
+Perfected Hierarchy.
+
+The degree to which these practices are observed is, of course, subject to very
+strong personal variation. Most Immaculates don't attend to the full course of
+their practices, because they don't have the time, or because they are tired, or
+any of the other excuses that humans use to avoid their responsibilities. For
+many practitioners, the Philosophy is a somewhat distant thing, and they are
+content to merely live their lives in accordance with their station and
+sometimes go to the temple for advice or service.
