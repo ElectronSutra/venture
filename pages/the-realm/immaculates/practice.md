@@ -23,7 +23,7 @@ _Heaven Harmonious Orthodox_ lineage, mostly practiced by the Tepet territories.
 This section will present a brief overview of some practices of the Rainbow Gate
 of Wisdom lineage and some of its non-practical traditions.
 
-## Some Daily Routine
+## Some Daily Routines
 
 ### Physical Wellness
 
