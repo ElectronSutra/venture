@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Temples and Services
-permalink: /the-realm/immaculacy/temples-and-monastics/
+permalink: /the-realm/immaculacy/temples-and-services/
 parent: Immaculacy
 grand_parent: The Realm
 nav_order: 2
 ---
 
-# Temples and Monastics
+# Temples and Services
 
 The Immaculate house of worship is called the _temple_. Where the family shrine
 is the focus of spirituality for the individual, the temple is the focus of
@@ -115,4 +115,36 @@ Gate"; this allows the Princes of the Earth to go about their business
 unimpeded. In many temples, the rainbow gate and stormcloud gate are the most
 intricately decorated gates in the facility.
 
-## Monasticism
+### Uses of the Temple
+
+In addition to providing a sacred space for formal services, the temple is also
+a meeting place and hub of the community. Monks encourage frequent visits to the
+temple, and all holidays and celebrations are held within the temple.
+
+The temple watches over all stages of life and has ceremonies for all occasions.
+Throughout the Blessed Isle, children are not named until they are brought to
+the temple and have their name recited by a monk in a naming ceremony -- until
+that point, they are simply "boy" or "girl." Marriages are usually performed at
+the local temple, as well as celebrations of birth and mourning of the dead. The
+temple is home to the local House of the Dead, usually in the outer temple or
+outside the temple entirely and accessed by a path, which houses the cremated
+remains of the dead and serves as a place of remembrance for the deceased.
+
+The monks at the temple are responsible for basic education, so the temple often
+has chambers set aside for schooling and childcare. The monks are often the most
+qualified people to act as physicians, so many temples include a House of the
+Ailing where the monks can tend to the wounded, offer herbal treatments, and
+ease suffering.
+
+Monks are outside of politics and expert maintainers of old texts, so local
+governments often shelter their records within the local temple. Sometimes local
+workers even trust the temple to handle the accounting of loans, leaving
+valuable collateral to the temple, where it is secured within the walls and will
+not be absconded with during the process of settlement.
+
+In conclusion, the temple provides for all aspects of life. The local temple is
+often a vital organ of local public life, a place where all ranks of the
+community come and go. The monks serve as a social glue that spans boundaries of
+class and status, an impartial outside force that offers wisdom and guidance.
+
+## Services
