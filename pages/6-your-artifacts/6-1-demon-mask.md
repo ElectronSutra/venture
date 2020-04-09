@@ -3,6 +3,7 @@ layout: default
 title: Devil Mask
 permalink: /artifacts/devil-mask/
 parent: Your Artifacts
+nav_order: 1
 ---
 
 # Demon Mask

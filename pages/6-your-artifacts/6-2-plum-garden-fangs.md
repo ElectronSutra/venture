@@ -3,6 +3,7 @@ layout: default
 title: Plum Garden Fangs
 permalink: /artifacts/plum-garden-fangs/
 parent: Your Artifacts
+nav_order: 2
 ---
 
 # Plum Garden Fangs

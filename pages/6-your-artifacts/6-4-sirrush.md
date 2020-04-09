@@ -3,6 +3,7 @@ layout: default
 title: Sirrush
 permalink: /artifacts/sirrush/
 parent: Your Artifacts
+nav_order: 4
 ---
 
 # Sirrush

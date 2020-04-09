@@ -3,6 +3,7 @@ layout: default
 title: The Windrose Arsenal
 permalink: /artifacts/windrose-arsenal/
 parent: Your Artifacts
+nav_order: 5
 ---
 
 <!--

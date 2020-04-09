@@ -3,6 +3,7 @@ layout: default
 title: Sea's Verdict
 permalink: /artifacts/seas-verdict/
 parent: Your Artifacts
+nav_order: 3
 ---
 
 # Sea's Verdict
