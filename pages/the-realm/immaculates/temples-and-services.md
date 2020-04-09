@@ -148,3 +148,158 @@ community come and go. The monks serve as a social glue that spans boundaries of
 class and status, an impartial outside force that offers wisdom and guidance.
 
 ## Services
+
+Immaculate services are focused primarily on chanting, meditation, and group
+involvement. The goal of a service is to instill moral lessons that can be
+applied to daily life and to guide the faithful toward accumulating merit by
+filling their station.
+
+Temples host regularly-scheduled services throughout the week, and larger
+temples throughout the day. Monks encourage the community to attend as many
+services as they are able, in order to interact with other members of the
+community and receive regular guidance on their lives.
+
+Immaculate services are lead by the monks in the central building of the inner
+temple, with space reserved at the front for the Dragon-Blooded and mortals in
+the rest of the space. In small temples that know they are unlikely to receive
+attendance by living saints, the place of honor is usually small and ceremonial.
+
+### A Typical Service
+
+A typical service in the Rainbow Gate of Wisdom lineage follows a predictable
+pattern. Once the crowd is assembled, a bell is rung or drum is beat to call
+the service to begin. The assembled stand while the presiding monks take their
+place at the front of the assembly. They lead the crowd in several chants, and
+then five prostrations toward each of the five shrines of the inner temple.
+
+Following prostrations, the monks gather the crowd to be seated, and the
+presiding monk takes her place at the front of the assembly on a raised
+platform. The monks make their way among the assembled, offering water from a
+sacred vessel with which to wash the hands and face. Once the water has been
+distributed, the presiding monk begins a recitation of the day's sutras. In most
+temples, the monk reads from an oversized copy of the Immaculate Texts, with
+pages several feet across, placed on sacred blankets. Normally, only the page
+currently being read is exposed; the other page is covered by a blanket until it
+is read.
+
+All Immaculate chants and recitations are set to music. Monks assembled at the
+rear of the temple play drums, flutes, and other instruments to set the tone of
+the ceremony. This allows those in attendance to hum, clap, or vocalize along
+with the recitation, even if they do not know the words.
+
+Following the recitation, the monks lead the congregation in making offerings to
+each of the Five Elemental Dragons. These offerings are carried among the
+congregation, every attendant bowing before the offering as it passes, and then
+placed at the window corresponding to each of the shrines. Mela is always first,
+offered perfumes, feathers, sweet-scented oils, a fan, a lantern, etc. Then
+Sextes Jylis, offered flowers, leafy branches, fresh fruit and vegetables,
+etc.; Hesiesh, offered burning incense, bells, pots of tea, etc.; and Daana'd,
+offered sacred water, seashells, a mirror, seaweed, etc. Lastly, the monks offer
+bread, coins, salt, and milk to Pasiap at the center. The exact offerings for
+the day vary, and are determined based on complicated schedules within the
+sacred manuals. During all of this, the crowd chants for transformation of the
+mundane into the divine and gratitude for the teachings of the Immaculate
+Dragons.
+
+After offerings are made, the presiding monk offers a homily on the recitation
+for the day. This homily is up to the presiding monk, so it can be rambling and
+detailed or short and concise depending on the monk. The homily is intended for
+the community at large; individual practitioners can seek private sessions with
+the monks to discuss their specific situation, and its solutions based on the
+Texts, in more detail.
+
+The final phase of the service is the worship of the gods prescribed for that
+day by the local calendar. The monks lead the crowd to the exterior shrine in
+the outer temple, which is reserved for this function. There, they assemble an
+offering tray appropriate to the god being revered, and lead the congregation in
+many rote prayers personalized for the deity being revered. After the prayers
+are said, the monks specify which good should be offered at home the next day as
+part of the worship. The service is then complete.
+
+### Special Services
+
+Special services take place for atypical circumstances like funerals, namings,
+marriages, and so forth. The exact form that these special services take
+depends on the local tradition and the circumstances of the event. Most of these
+special celebrations take place in the outer temple, at a place of importance.
+
+Namegiving ceremonies bestow a formal name onto the child, and are joyous
+celebrations for the whole community. Namegivings are typically held one year
+and one day after the child is born; until that point, the child is nameless,
+which helps keep malicious spirits from stealing them away. By the time the
+namegiving comes around, the monks have already consulted with the parents and
+helped to choose an auspicious name. There is a great big celebration with music
+and dancing and food, and the baby is named after a monk whispers the baby's
+name in each ear five times, covering the other ear with a flower, fan, smooth
+stone, mirror, or bell, depending on the child's protective element. Then, the
+child is introduced to the Dragons by taking them to the inner temple for the
+first time and touring the five shrines and reciting protective chants.
+
+Marriages are highly dependent on local tradition, but are usually orchestrated
+by a monk. Most marriages involve tying two cords around the entwined hands of
+the participants; the cords are a braid of five twines colored for the elements,
+and represents the ties that bond the couple in marriage. Once the cording is
+complete, the spouses wear the cords as necklaces for five days.
+
+Funerals are usually private affairs, and involve making a final chant over the
+body and a vigil held by the family at the temple. During the vigil, mourners
+can come by to chant over the deceased or seek counsel from the monks. Once the
+vigil is complete, the body is disposed of. Most funerals end in cremation on a
+pyre; devotees of a specific Dragon may choose an alternative. Some devotees of
+Pasiap are mummified; the costs of mummifying and maintaining a mummified tomb
+fall to the family, so this is rather rare. Devotees of Daana'd are buried at
+sea or sunk into lakes. Devotees of Sextes Jylis are buried and have trees or
+flowers planted over their corpse. Lastly, rarest of all, some devotees of Mela
+opt for a sky burial, allowing their bodies to be picked clean by birds in
+special towers far from settlements.
+
+### Physical Attendance of Gods
+
+The Immaculate Philosophy is practiced not only by humans, but also by spirits
+of many kinds who have been converted. Such gods and spirits are not denied
+access to the temple, and are permitted to chant, meditate, and pray like any
+other practitioner during service -- but are handled with extra care.
+
+Gods who choose to attend service are kept segregated from mortal practitioners
+for the sake of the souls of both. Spirits are pushed to the far left and far
+right of the mortal practitioners, and separated physically; they are expected
+to move as the crowd moves, unlike mortal practitioners who can rotate in place
+when the direction of worship changes. This ensures that worship is never
+directed _at_ the spirits. Larger temples, or temples with regular attendance by
+spirits, have balcony platforms reserved for spirits in attendance, which allow
+them a greater degree of freedom of movement than being on the floor with
+mortals.
+
+Gods and spirits are also allowed personal religious guidance just like mortals,
+and can request assistance on matters of faith from the monks. Pastoral care of
+gods and spirits is a complicated and messy affair with lots of detailed and
+nuanced questions, so it is usually performed by ranking monks. In the same way
+as mortals come to cherish their monks, gods and spirits also often come to view
+the elder monks at their local temple as friends -- in turn, these pious gods
+tend to be easier to deal with, which creates a reinforcing cycle of amicable
+understanding in the best circumstances.
+
+#### Gods At Their Own Worship
+
+Sometimes, gods like to attend their own days of worship in person to observe or
+take part in the service. The monks have a special procedure for these days.
+
+The presiding monk will always be an elder, and wears special robes to reflect
+the circumstance. The service has a greater emphasis on text readings and the
+homily usually involves a lecture on the proper relationship between mortals and
+gods. If at all possible, a Prince of the Earth is made to attend, or --
+ideally -- to preside, if the temple is lucky enough to merit a Prince among its
+monks.
+
+The presiding monk leads the congregation to the worship shrine as usual, but
+carries with her a coiled whip (ideally for a Prince, a sacred direlash held
+by the temple) and a sword. The monk whips at the air and beckons the god to
+come forth. The presiding monk recites a catechism with the god outlining the
+position of gods and their relationship to mortals. Then, the god offers the
+sword to the monk, who accepts it and allows the god to enter their shrine.
+
+Having prepared and contextualized the act of worship, the assembly is now
+permitted to directly worship the god in attendance, under the strict
+supervision of the monks. This direct, physical worship is highly desireable by
+gods and spirits, who bear the humiliation of the ritual for the high of worship
+in person.
