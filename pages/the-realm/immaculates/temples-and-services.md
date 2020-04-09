@@ -38,4 +38,59 @@ and confidant -- sometimes of many generations.
 
 ## Immaculate Temples
 
+Immaculate temples are designed in accordance with principles of sacred geometry
+and geomancy. They are laid out in a shape that concentrates positive energy
+at the focal point, where the innermost sanctum is arranged. Symmetry is a
+major focus of the temple, representing harmony and stability.
+
+Very small temples, such as the consecrated household shrines found on many
+Dynastic compounds, are not bound by these designs, and usually consist only of
+what would be the central building in a larger temple. Monks out in the world
+are sometimes called upon for use of a temple when none is available; in these
+cases, they can construct an on-the-fly sanctified temple by simply drawing a
+square in the dirt and inscribing a circle within it.
+
+### Parts of a Temple
+
+The temple is composed of two subdivisions: the _outer temple_ and the _inner_
+_temple_. The design of the inner temple is fairly standardized and fixed, while
+the design of the outer temple can vary wildly.
+
+#### The Inner Temple
+
+![Diagram of the Inner Temple](../../../assets/immaculacy/immaculate-temple.png)
+
+The inner temple is a standardized layout based on Pasiap's Sacred Geometry: the
+circle inscribed within the square. In this mystical plan, the square represents
+Creation, and the interior circle represents the sacred temple space. The
+square, which is usually the outer wall, is always aligned so that the four
+corners each point in a cardinal direction.
+
+A typical inner temple is designed with a large circular ambulatory, surrounding
+a central interior circle. This circle houses a square building, arranged with
+corners facing the centers of the sides of the outer wall; each face thus points
+in a cardinal direction, with a wide window looking out over the shrine in that
+corner.
+
+Each corner of the inner temple is home to a shrine representing one of the
+Immaculate Dragons: Mela to the north, Sextes Jylis to the east, Hesiesh to the
+south, and Daana'd to the west. The shrine to Pasiap is housed within the
+central building. Thus, every temple has five major shrines housed within the
+inner temple.
+
+The four directional shrines are often very grand, and usually free-standing
+buildings surrounded by gardens within their wedge. In small temples, these
+shrines may be housed within gazebos, but sprawling temples will construct
+entire buildings. One popular shape is _Pasiap's Cudgel_:
+
+![Pasiap's Cudgel](../../../assets/immaculacy/pasiaps-cudgel.png)
+
+The cudgel features a large entry room for meditation and reflection, and an
+elevated interior room where the shrine itself is housed.
+
+The shapes of the buildings within the inner temple is variable, as long as it
+remains symmetrical. Some larger temples enclose the inner temple entirely, with
+arcing glass allowing sunlight into the ambulatory; most temples, however, leave
+the inner temple exposed to the air.
+
 ## Monasticism
