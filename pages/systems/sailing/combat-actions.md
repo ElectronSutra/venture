@@ -22,7 +22,7 @@ The captain may _generate tempo_ for the boat. Roll (Wits + Sail) and generate
 ### Spend Tempo
 
 The captain may _spend tempo_ as part of her action, gaining any single effect
-listed on the [tempo table](/systems/sailing/combat#tempo-table).
+listed on the [tempo table](/venture/systems/sailing/combat#tempo-table).
 
 ## Everybody Actions
 
@@ -77,7 +77,7 @@ weaponry.
 
 ### Patch Job
 
-You complete a [basic project](/systems/craft/projects#basic-project) to reduce
-the number of ship's health levels that count when calculating bilge. This
-action does not actually repair the ship; it just reduces the amount of ongoing
-hurt.
+You complete a [basic project](/venture/systems/craft/projects#basic-project) to
+reduce the number of ship's health levels that count when calculating bilge.
+This action does not actually repair the ship; it just reduces the amount of
+ongoing hurt.

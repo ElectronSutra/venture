@@ -47,7 +47,7 @@ have the potential to transcend mortality and reunite with the Dragons.
 
 ## The Immaculate Dragons
 
-[The Immaculate Dragons](/the-realm/Immaculacy/immaculate-dragons) are
+[The Immaculate Dragons](/venture/the-realm/immaculacy/immaculate-dragons) are
 the five ancient saint-heroes of yore which were responsible for writing the
 Immaculate Texts and bringing enlightened wisdom to humanity. These
 soldier-messiahs lead humanity in revolution against the decadent gold and

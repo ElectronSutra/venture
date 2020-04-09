@@ -126,7 +126,7 @@ from the ship you are engaged with when you Move!.
 
 You order the crew to ready weapons. They automatically ready the weapons and
 can launch an attack with the Fire Weapons! effect or the
-[Fire action](/systems/sailing/actions#fire)
+[Fire action](/venture/systems/sailing/actions#fire)
 
 ### Fire Weapons!
 
