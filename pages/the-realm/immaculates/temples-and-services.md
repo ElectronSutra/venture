@@ -93,4 +93,26 @@ remains symmetrical. Some larger temples enclose the inner temple entirely, with
 arcing glass allowing sunlight into the ambulatory; most temples, however, leave
 the inner temple exposed to the air.
 
+#### The Outer Temple
+
+The outer temple is all parts of the temple that surround the walls of the inner
+temple. For small temples, there may be very little of the outer temple, simply
+a manicured ground and some buildings for the monks to live inside of. In large
+temples, the outer temple may have another set of walls or even two, and the
+space can be home to dozens of buildings, spectacular gardens, and towering
+minarets.
+
+Monks make their homes within the outer temple, as well as carry out most of
+their non-faithful business here. The outer temple usually features public
+buildings like schoolrooms, meditation halls, and clinics. The outer temple is
+meant to be extremely accessible to the community, to provide a place in which
+the community can gather and interact with their spiritual leaders.
+
+It is traditional, even in sparsely-populated areas, to feature a special gate,
+the "Rainbow Gate", which is only permitted to be used by the Dragon-Blooded.
+The Rainbow Gate features a direct path to the inner temple via the "Stormcloud
+Gate"; this allows the Princes of the Earth to go about their business
+unimpeded. In many temples, the rainbow gate and stormcloud gate are the most
+intricately decorated gates in the facility.
+
 ## Monasticism
