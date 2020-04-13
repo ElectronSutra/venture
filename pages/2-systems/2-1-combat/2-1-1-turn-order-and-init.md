@@ -48,12 +48,18 @@ make an informed decision about offense and defense.
 Turn order begins with whoever has the highest Initaive, and proceeds down from
 there, skipping any ticks where no one is acting.
 
-On your turn, you can take 1 _combat action_ and 1 _movement action_.
+On your turn, you can take 1 _combat action_ and 1 _reflexive move_.
 
 After you take your combat action, you may choose to _flurry_ and take a second
 combat action by spending Initiative.
 
 Lastly, you gain 5m from combat adrenaline.
+
+### Delaying Your Action
+
+You may always choose to act _after_ you normally would. When it comes around to
+your tick, you may declare that you are delaying your action. You hold your
+action until you choose to spend it.
 
 ### Formal Start-of-Turn Execution
 
