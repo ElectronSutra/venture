@@ -29,9 +29,9 @@ are all **withering** attacks.
 
 ### Resolving a Withering Attack
 
-Roll (Dexterity + [attack skill]) against the target's Defense. If you are using
-a heavy weapon, you may use Strength instead of Dexterity. If you meet or exceed
-your target's Defense, you hit them.
+Roll (Dexterity + [attack skill] + Accuracy) against the target's Defense. If
+you are using a heavy weapon, you may use Strength instead of Dexterity. If you
+meet or exceed your target's Defense, you hit them.
 
 ### Withering Damage
 
@@ -68,9 +68,9 @@ for damage. Your commitment can range from 1 to 20. You **may** spend more
 Initiative than you have; this will Crash you, but allow you to do significantly
 more damage.
 
-Roll (Dexterity + [attack skill]) against the target's Defense. If you are using
-a heavy weapon, you may use Strength instead of Dexterity. If you meet or exceed
-your target's Defense, you hit them.
+Roll (Dexterity + [attack skill] + Accuracy) against the target's Defense. If
+you are using a heavy weapon, you may use Strength instead of Dexterity. If you
+meet or exceed your target's Defense, you hit them.
 
 You immediately lose the Initiative you have committed. If this puts you at 0 or
 less, you are Crashed.
