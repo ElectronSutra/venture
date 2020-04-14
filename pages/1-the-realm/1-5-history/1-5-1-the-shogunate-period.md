@@ -3,6 +3,7 @@ layout: default
 title: The Shogunate Period
 permalink: /the-realm/history/shogunate-period/
 parent: History
+grand_parent: The Realm
 nav_order: 1
 ---
 
@@ -54,10 +55,10 @@ who wielded authority over individual Legions or collections of Legions. All
 daimyo technically answered back to the shogun, who held supreme authority.
 
 In reality, the position of shogun weakened drastically with each year that
-passed after the death of the first shogun. During the second century, the
+passed after the death of the first shogun. During the IInd century, the
 position of shogun was stripped of most effective authority, and essentially
 rendered a gold stamp on the authority of the individual daimyos. At times, and
-for almost the entirety of the fourth century, the position of Shogun was empty,
+for almost the entirety of the IVth century, the position of Shogun was empty,
 and a Regent (the most powerful daimyo, naturally) ruled in her place.
 
 Although the position of the shogun was quickly reduced in authority, the shogun
@@ -161,7 +162,7 @@ As the Shogunate period reached the later centuries, the continued decline in
 prominence of the Shogun, the rising wealth of allodial-states from the
 refinery economy, and the increasing frequency of raids and attacks from
 Anathema lead to a decline in the norms of the Shogunate and a growing internal
-divide. Scholars generally point to the fourth century as the turning point when
+divide. Scholars generally point to the IVth century as the turning point when
 the Shogunate began to lose its path.
 
 During the Late Shogunate, the states began to break away, many spinning off to
@@ -182,7 +183,7 @@ soldiers were available to do so. The flow of jade began to dry up, the
 allodial-states demanding higher and higher tribute in exchange for the jade
 they produced.
 
-Modern scholars point to the wars of the fifth and sixth centuries as concrete
+Modern scholars point to the wars of the Vth and VIth centuries as concrete
 proof that the Shogunate had strayed from its true path and become decadent and
 arrogant just like the Anathema before them. The internecine strife of the
 period is generally regarded as the source of the karmic retribution of the
@@ -192,7 +193,7 @@ Thousand Tragedies.
 
 Despite the shift in warfare, the Late Shogunate was still the Shogunate. Many
 of the states still traded, many of the norms persisted (especially in
-marriage), and jade still flowed from allodial-state to marcher-state. The
+marriage), and jade still flowed from allodial-state to marcher-state. The Late
 period is generally looked upon unfavorably by the modern era, but the Late
 Shogunate was by no means fallen -- though it probably was in the _act_ of
 falling.
