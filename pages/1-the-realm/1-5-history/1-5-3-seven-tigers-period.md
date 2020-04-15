@@ -53,8 +53,8 @@ fellow Tigers of this goal.
 In RY -11, the Seven Tigers mounted their invasion of the Blessed Isle, hoping
 to push inland and find territory that was unmarred by the Unraveling. They knew
 that at the very least, the Triumphate of Arjuf had survived mostly in tact,
-under the rule of Heron XIX. They hoped that other states might have survived
-further inland, who would bow to their authority.
+under the rule of Araka Jeresh, called Heron XIX. They hoped that other states
+might have survived further inland, who would bow to their authority.
 
 The Empress awoke from her dormancy, and saw that the Isle was about to be
 consumed by the unworthy Tigers. She feared that this would lead to seven states
