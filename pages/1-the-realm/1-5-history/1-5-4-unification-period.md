@@ -198,7 +198,7 @@ state within two decades.
 
 ## RY 3: The Integration of the Xianyu Peninsula
 
-![RY 1](../../..//assets/history/unification-period/ry003.png)
+![RY 3](../../..//assets/history/unification-period/ry003.png)
 
 The Empress is Wàn, descended from the chocobo-riding, red-haired people of the
 Xianyu Peninsula. During the first few years recovering from the apocalypse, the
@@ -245,7 +245,7 @@ fertility, health, and good harvests.
 
 ## RY 15: The Luo-Han Subjugation
 
-![RY 1](../../..//assets/history/unification-period/ry015.png)
+![RY 15](../../..//assets/history/unification-period/ry015.png)
 
 The Luo-Han Plains are known today as a beautiful and tranquil place of farmland
 and respite, a temperate and pleasant retreat for those who want a more quiet
@@ -274,8 +274,6 @@ servitude, promising to seal the cracks and restore the Luo-Han Plains to their
 former verdancy in exchange for loyalty. The people listened to their stomachs.
 
 ## RY 18: Araka Jeresh
-
-![RY 1](../../..//assets/history/unification-period/ry020.png)
 
 The man called Araka Jeresh, more formally Heron XIX, ruled Arjuf as Heron XIX
 through the Seven Tigers period and into the Empress' rule. A man equally as
@@ -311,6 +309,8 @@ with the cities rebuilding themselves on the southeastern edge of the Isle.
 The Empress accepted. Jerah was born shortly thereafter.
 
 ## RY 19 - RY 20: Pushing Radimel from the Isle
+
+![RY 20](../../..//assets/history/unification-period/ry020.png)
 
 During the Seven Tigers period, the See of Radimel had pushed onto the mainland
 Blessed Isle by taking the land along the Bay of Radimel. Most importantly, the
@@ -403,6 +403,8 @@ would power the Legions for centuries.
 
 ## RY 44: The Succession of Heron XX
 
+![RY 44](../../../assets/history/unification-period/ry044.png)
+
 Araka Jeresh was an effective military leader, but struggled in the Realm of
 economics and policy. He was unpopular among his own elites for his willingness
 to allow the young Realm the port city of Garu, and for his known relationship
@@ -435,6 +437,8 @@ the Realm, and arranged for better planting seasons by impressing her local
 sorcerers into mandatory service.
 
 ## RY 47 - 53: The First Invasion of the River Province
+
+![RY 53](../../../assets/history/unification-period/ry053.png)
 
 The Empress now found her westward expansion blocked by a militarized and
 oppositional Arjuf, not so pliable with Heron XX on the throne. The empty lands
@@ -538,6 +542,8 @@ City, and with his forces allied to her own, the Empress had acquired Pneuma.
 
 ## RY 75 - 76: The Second Invasion of the Scavenger Lands
 
+![RY 76](../../../assets/history/unification-period/ry076.png)
+
 In RY 75, after a few more decades of consolidating power and establishing
 infrastructure, the Empress and Tepet arranged to make a second attempt at the
 River Province. Tepet was chosen to lead the invasion, along with the general
@@ -556,6 +562,8 @@ Tepet and Akiyo to retreat back to the Calinlands, bringing the second invasion
 to a close.
 
 ## RY 88 - 89: The Third Invasion of the Scavenger Lands
+
+![RY 89](../../../assets/history/unification-period/ry089.png)
 
 Exciting developments in the crossbow and an internal succession crisis in the
 Emirate of Jiara prompted the Empress to launch her third and final invasion
@@ -589,6 +597,8 @@ From there, she installed her trusted advisor as the satrap -- and the system
 was born.
 
 ## RY 103: The Establishment of the Great Houses
+
+![RY 103](../../../assets/history/unification-period/ry103.png)
 
 By RY 103, the Empress had made a series of minor advancements, incorporating
 the port city of Chanos and swathes of land around the Mhaltin mountains. Arjuf
@@ -703,6 +713,8 @@ simply who would restart the conflict.
 
 ## RY 123 - 125: The Continuation War
 
+![RY 125](../../../assets/history/unification-period/ry125.png)
+
 The brief peace of RY 121 did not last very long. Heron XX's desire for Garu
 and the southern shore would not be contained. As he continued to press into her
 territory, the Empress increased her presence in Garu and along the western
@@ -743,6 +755,8 @@ Sakeraha's immaculately calculated tax protocols, the Empress managed to
 overcome her reputation and gain favor among the locals.
 
 ## RY 124 - 126: The Conquest of Radimel's Seat
+
+![RY 126](../../../assets/history/unification-period/ry126.png)
 
 By RY 124, the See of Radimel had finally grown too much of a nuisance for the
 Empress to ignore any longer. With the reconquest of Garu, the periodic raids by
@@ -806,6 +820,8 @@ successful -- but the cost was great.
 
 ## RY 127: The Founding of the Immaculate Order
 
+![RY 127](../../../assets/history/unification-period/ry127.png)
+
 In RY 126, as the Empress was just beginning her campaign in what would
 eventually become the War of Sevenfold Revenge, the Immaculate State had been a
 constant but unassuming presence for over a century. Secluded in their
@@ -841,6 +857,10 @@ the city of Karashelen, which surrendered with little resistance. The throne of
 the Shogun was rewarded to Tepet as a gift by Imperial decree.
 
 ## RY 144 - RY 158: The War of the Scarlet Deluge
+
+![RY 144](../../../assets/history/unification-period/ry144.png)
+
+![RY 158](../../../assets/history/unification-period/ry158.png)
 
 RY 144 marked the conclusion of the 18 years of the War of Sevenfold Revenge,
 and the Empress' plans were swiftly set back by the loss of half of her land and
@@ -957,6 +977,8 @@ almost 70 years, until it was wielded by
 
 ## RY 162: The Conquest of Gloam
 
+![RY 162](../../../assets/history/unification-period/ry162.png)
+
 The island of Gloam had operated for over a century as an independent port,
 having barely survived the Thousand Tragedies with only a hundred or so
 surviving residents. From there, it profited greatly during the wars between the
@@ -1029,6 +1051,8 @@ eventually take arms against the Empress.
 
 ## RY 189: The Integration of Myion
 
+![RY 189](../../../assets/history/unification-period/ry189.png)
+
 The Mercantile Federation of the Daoshin Peninsula was the Empress' next target,
 which would allow her to contest Vahu Ten Thousand Fangs' administration of the
 Bay of Daana'd, then called Xao Tra Bay. The Mercantile Federation had never
@@ -1043,7 +1067,9 @@ the Daoshin Peninsula.
 
 House Manosque was elevated in RY 222.
 
-## RY 231 - 237: The War of Silver Claws
+## RY 230 - 237: The War of Silver Claws
+
+![RY 230](../../../assets/history/unification-period/ry230.png)
 
 The War of the Silver Claws lasted from RY 231 to RY 237, pitting the Empress'
 legions against the forces of Vahu Ten Thousand Claw's peninsular Empire. By the
@@ -1064,6 +1090,10 @@ Wrack, allowing them free access to the western ocean and the opportunities
 therein.
 
 ## RY 244: The Manosque Coup
+
+![RY 244](../../../assets/history/unification-period/ry244.png)
+
+![RY 245](../../../assets/history/unification-period/ry245.png)
 
 In RY 244, the Eye of Autochthon surfaced again, this time under the control of
 Manosque Viridian, the errant son of the matriarch Manosque. It is not known how
@@ -1091,6 +1121,8 @@ Cathak's valor serving under House Manus was recognized by the Empress, who
 marked the young general for greatness.
 
 ## RY 244 - 254: The Final Press
+
+![RY 250](../../../assets/history/unification-period/ry250.png)
 
 With Vahu's Empire of Silver Claws absorbed and Manosque Viridian's foolish
 coup put down, by the end of RY 244 there remained little organized opposition
