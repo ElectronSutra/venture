@@ -33,3 +33,9 @@ Survive the poisoning attempt at the Mnemon compound.
 ### At Last, the Plot
 
 Discover the secret of the Triptych at the Mnemon compound.
+
+## Breather 1: (name yet to be decided)
+
+### Full Speed Ahead!
+
+Defeat the pirates harassing the V'neef Convoy.

@@ -121,3 +121,12 @@ old. Relative of [Bal Dazo](#bal-dazo).
 #### Bal Dazo
 
 Mortal. Archon in service to [Mnemon Korvu](#mnemon-korvu).
+
+### House Tenna
+
+A patrician house from Sdoia Province.
+
+#### Tenna Sweet Crane
+
+Tempest's new second-in-command, assigned to her staff for transporting the
+mysterious cargo from Pangu to Chanos.
