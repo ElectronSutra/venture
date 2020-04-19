@@ -12,6 +12,16 @@ has_children: true
 Medicine is an odd one. It tends not to be super relevant unless someone has
 chosen to specialize in it. Here's how it works.
 
+## Normal Healing Rates
+
+| Health Level   | Bashing Time      | Lethal/Aggravated Time |
+| :------------- | :---------------- | :--------------------- |
+| -0             | One hour          | 1 day                  |
+| -1             | 12 hours          | 2 days                 |
+| -2             | 1 day             | 3 days                 |
+| -4             | 2 days            | 5 days                 |
+| Incapacitation | One or two scenes | Up to a week or so     |
+
 ## Being a Doctor
 
 ### Treating Wounds

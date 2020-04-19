@@ -10,6 +10,8 @@ nav_order: 1
 
 ## By Session
 
+Calendar [here!!](https://drive.google.com/open?id=1_hdIhr-uVExDO8-x3J4DOweoV-kPdW3Kr1EKcvxXDDM).
+
 At the end of every session beginning with our first session of our adult arc,
 you will gain an advancement according to the following table:
 
