@@ -303,7 +303,7 @@ traditions in far corners of the world that would otherwise never see them.
 Famous janissary corps include Medoan heavy cavalry, Tu'uri desert warriors with
 their eerie face paint, Delzahn lancers, Jiaran sword-dancers, Varangian
 engineers, Baihu amphibious assault marines, Zebremani battle alchemists,
-Sindeqi poison-swallowers, fearless leiomano wielders from Utahi, Pneuman
+D'deshi poison-swallowers, fearless leiomano wielders from Utahi, Pneuman
 mandala soldiers, and dozens of other famed peoples with strange -- and
 useful -- local warrior traditions.
 
