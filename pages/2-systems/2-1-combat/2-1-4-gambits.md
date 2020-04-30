@@ -2,7 +2,7 @@
 layout: default
 title: Gambits
 permalink: /systems/combat/gambits/
-parent: Combat
+parent: The Red Art of Violence
 grand_parent: Systems
 nav_order: 4
 ---

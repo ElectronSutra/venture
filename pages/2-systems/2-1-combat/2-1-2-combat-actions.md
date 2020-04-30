@@ -2,7 +2,7 @@
 layout: default
 title: Combat Actions
 permalink: /systems/combat/actions/
-parent: Combat
+parent: The Red Art of Violence
 grand_parent: Systems
 nav_order: 2
 ---

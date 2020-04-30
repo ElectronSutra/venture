@@ -2,7 +2,7 @@
 layout: default
 title: Turn Order and Initiative
 permalink: /systems/combat/turn-order-and-initiative/
-parent: Combat
+parent: The Red Art of Violence
 grand_parent: Systems
 nav_order: 1
 ---

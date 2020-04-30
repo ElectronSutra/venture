@@ -2,7 +2,7 @@
 layout: default
 title: Status
 permalink: /systems/combat/status/
-parent: Combat
+parent: The Red Art of Violence
 grand_parent: Systems
 nav_order: 5
 ---
