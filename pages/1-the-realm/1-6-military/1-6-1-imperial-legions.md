@@ -65,8 +65,8 @@ infantry talon, the scales each make up the rows of the formation.
 
 Within the infantry talons, the scales are numbered 1 to 8, with the 1st scale
 being the most prestigious. In battle, the 8th talon marches at the front of the
-formation, closest to the enemy; the 8th talon is composed of the greenest and
-most disposable, while the 1st talon, at the back, is the most veteran.
+formation, closest to the enemy; the 8th scale is composed of the greenest and
+most disposable, while the 1st scale, at the back, is the most veteran.
 Surviving engagements leads to promotions within the talon.
 
 The commander of a scale is called the _scalelord_, and, like the corporal of a
