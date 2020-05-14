@@ -363,7 +363,7 @@ and confident thanks to their powerful armor. They favor opening with a javelin
 volley, then closing in with their curved falcata swords. However, the Cotanese
 perform best when they are able to establish an ambush. Owing to their native
 mountains, the Cotanese are experts at guerilla warfare and getting the drop on
-their opponents -- tactics that suit House Cathak just fine.
+their opponents -- tactics that suit House Sesus just fine.
 
 A dragon of swordsmen is not uncommon. Among these, the first talon are likely
 to be armored with their native steel; the rest make do with lesser armor. About
