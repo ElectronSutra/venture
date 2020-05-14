@@ -451,8 +451,8 @@ A full legion on paper thus consists of:
 - Almost 2000 servants, about 25 each in each of the 64 talons, plus a couple
   hundred more distributed among the officer's camp and the train.
 
-A full legion then numbers about 8000 regulars, a handful of officers, and
-a couple hundred auxiliaries. This number does not account for the large band
+A full legion then numbers about 6000 soldiers, a handful of officers, and
+a couple thousand servitors. This number does not account for the large band
 of following sutlers, husbands, entertainers, laborers, prostitutes, and others
 that form the civilian camp followers.
 
