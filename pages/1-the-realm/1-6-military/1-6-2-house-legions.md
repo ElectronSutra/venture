@@ -262,32 +262,40 @@ Sesus' legions disreputable, but undeniably effective.
 
 Despite their reputation, Sesus' legions are still effective machines of war.
 Although admitting it pains Cathak and Tepet loyalists, House Sesus' focus on
-victory works for them -- and makes for a tidy profit from their contracts with
-other Houses.
+loyalty and victory have made an effective fighting force.
 
 ### Sesus Legion Culture
 
-House Sesus' legions have a reputation as being undisciplined, rowdy, and
-thuggish. In practical terms, House Sesus takes all comers -- they are happy to
-make use of anyone who allows them. Their legions are thus surprisingly
-cosmopolitan, featuring a diverse array of soldiers from across the Sesus
-holdings and from many different backgrounds. As a result, the Sesus legions
-lack the monofocus of Cathak's glory culture or Tepet's rigid traditions and
-codes.
+The legions say, "House Sesus takes all comers," a phrase which takes on a
+vastly different context. In some cases, especially when spoken by Sesus, it is
+a statement of pride. Unlike House Cathak and House Tepet, House Sesus is happy
+to make use of any person, no matter their background, who wishes to serve in
+their legions. Without the monofocused glory culture of Cathak or the rigid
+codes of Tepet, House Sesus' legions are home to everything from peasants to
+criminals to their own scions. In other cases, it is said dismissively -- how
+can a legion which takes all comers be respectable? And in yet other cases, as a
+rowdy legionary is dragged away from her victim after a brawl, it is said with a
+bit of both -- House Sesus takes all comers: they always put up a fight.
 
-House Sesus offers a simple proposition to its soldiers: win frequently and you
-will be allowed great freedom; lose often and you will be under the whip. The
-legions' leadership is willing to look the other way on plenty of questionable
-behavior -- gambling, blasphemy, brawling -- as long as the legionaries are at
-morning muster and continue to win. However, all these indiscretions are noted,
-and a unit which starts to fail will quickly find the cracking whip of
-discipline stinging their backs until they shape up.
+Like House Sesus itself, the Sesus legions are regarded as thuggish and
+dishonorable, a reputation which is not helped by their cosmopolitan attitude to
+recruitment. House Sesus cultivates a deep, deep loyalty among its legionaries.
+They value loyalty and victory above all else -- in a Sesus legion, it does not
+matter where you came from, only that you win. "Once a legionary, always a
+legionary," the saying goes. House Sesus' legions are famous for their rowdiness
+and terrifying skill in battle; a Sesus legion coming to a city is a terrifying
+occasion, ending either in conquest or drunken revelry. The goal is cultivating
+a sense of unity. The sometimes suicidal bravery of House Sesus' legions is only
+possible because of the deep devotion the soldiers feel to one another.
 
-Despite the officers looking the other way over indiscretions, the legions are
-still military organizations. House Sesus legionaries are as disciplined in
-battle as any other professional military, and Sesus is no slouch when it comes
-to drilling their soldiers. The focus, after all, is on victory -- and
-unprepared soldiers have never won a battle.
+In matters of camp, House Sesus offers a simple proposition: win and you are
+allowed great freedom; lose often and you suffer the consequences. The officers
+and leadership are completely happy to look the other way as their soldiers
+engage in plenty of questionable behavior -- gambling, blasphemy, brawling -- so
+long as the unit continues to win and their loyalty is without question. Firm
+discipline is dealt out to those who fail, or those whose antics put the other
+soldiers at risk. This lax attitude to punishment is also a major contributor to
+the Sesus legions' less-than-stellar reputation.
 
 ### Sesus Legion Traditions
 

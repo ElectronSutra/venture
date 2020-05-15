@@ -101,10 +101,10 @@ trousers, worn over long-sleeved and long-legged undergarments. The basic layers
 provide padding which helps prevent irritation and a unified red color to the
 Realm's forces.
 
-Infantry are usually kitted with a breastplate, thigh-guards, and a helmet. The
-armor is made from laquered leather or, for heavier or wealthier infantry, from
-steel scales. The helmet is adorned with a simple red plume or not adorned at
-all.
+Infantry are usually kitted with a lamellar plate for the chest, a pair of
+thigh-guards, and a helmet. The armor is made from laquered leather or, for
+heavier or wealthier infantry, from steel scales. The helmet is adorned with a
+simple red plume or not adorned at all.
 
 Cavalry wear body armor and have more elaborate helmets. Specialists of the
 Eighth Dragon wear lighter armor and hats instead of helmets.
@@ -118,7 +118,7 @@ volleys while closing on the enemy, and the sword can be used once spear combat
 becomes untenable.
 
 The cavalry of the Seventh Dragon are primarily mounted archers, using their
-high maneuverability and ranged power. The Eighth Dragon are also armed with
+high maneuverability and ranged power. They are also equipped with polearms or
 large swords for melee engagement.
 
 The Eighth Dragon are generally equipped with a crossbow, a sword, and a shield
