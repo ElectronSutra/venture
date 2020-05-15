@@ -3,7 +3,7 @@ layout: default
 title: Immaculacy
 permalink: /the-realm/immaculacy/
 parent: The Realm
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 

@@ -34,7 +34,7 @@ Houses under new names.
 
 * * *
 
-#### Great Houses
+### The Great Houses
 
 - [House Cathak](/venture/the-realm/great-houses/cathak/)
 - [House Cynis](/venture/the-realm/great-houses/cynis)

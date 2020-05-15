@@ -3,7 +3,7 @@ layout: default
 title: Military Organization of the Realm
 permalink: /the-realm/military/
 parent: The Realm
-nav_order: 6
+nav_order: 4
 has_children: true
 ---
 
