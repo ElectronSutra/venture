@@ -24,13 +24,13 @@ attendance.
 
 ### Invitations
 
-> Honored Minister,
->
-> I am organizing a recitation of local poetry on the 7 Descending Fire, and
-> would be honored if you were to attend. My household eagerly awaits your
-> presence.
->
-> -- Mnemon Lily
+    Honored Minister,
+
+    I am organizing a recitation of local poetry on the 7 Descending Fire, and
+    would be honored if you were to attend. My household eagerly awaits your
+    presence.
+
+    -- Mnemon Lily
 
 Decorum dictates that everyone who's anyone in the area gets invited to big
 events. The expectation does not align to reality -- often, "invitations" are
@@ -38,27 +38,27 @@ events. The expectation does not align to reality -- often, "invitations" are
 not every invitation is meant to be honored. Most Dynasts know that the slips of
 paper arriving at their doorstep are not genuine.
 
-> Honored Prince,
->
-> Regrettably, my obligations in the ministry preclude my attendance on the 7th.
-> I am saddened that I am unable to attend. I wish you good fortune in my
-> absence.
->
-> -- Cathak Lo-Gwen
+    Honored Prince,
+
+    Regrettably, my obligations in the ministry preclude my attendance on the
+    7th. I am saddened that I am unable to attend. I wish you good fortune in
+    myabsence.
+
+    -- Cathak Lo-Gwen
 
 Refusing an invitation likewise has decorum. Of course, no Dynast would ever
 refuse to attend an event simply because they _didn't want to_, oh no no. There
 is always a convenient excuse -- a conflicting duty, a matter that needs
 attending to, which prevents attending the event.
 
-> Senator Nellens Stone,
->
-> I deeply regret that it appears my servants were unable to deliver you an
-> invitation to the poetry recitation I had organized yesterday, the 7th
-> Descending Fire. I will diligently ensure that such an error does not happen
-> again.
->
-> -- Mnemon Lily
+    Senator Nellens Stone,
+    
+    I deeply regret that it appears my servants were unable to deliver you an
+    invitation to the poetry recitation I had organized yesterday, the 7th
+    Descending Fire. I will diligently ensure that such an error does not happen
+    again.
+    
+    -- Mnemon Lily
 
 In summary: Everyone is invited -- except when they aren't -- and very few
 accept -- except when they do.
