@@ -208,7 +208,7 @@ is a _kiss_, consisting of the matriarch from one suit and the minister from
 the opposing suit. Kisses are scored by laying the cards over one another in an
 _X_ shape.
 
-Although Kiss is a complicated games with a lot of mental energy, it is still
+Although Kiss is a complicated game with a lot of mental energy, it is still
 popular, especially because of its subtle (or not-so-subtle) undertones of
 impropriety. Kiss is also popular in part due to its role in the novel _Western_
 _Garden_, by Jurul Kao Kal, a Realm classic. In _Western Garden_, a game of Kiss
