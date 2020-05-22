@@ -2,7 +2,7 @@
 layout: default
 title: Your Artifacts
 permalink: /artifacts/
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 

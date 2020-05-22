@@ -2,7 +2,7 @@
 layout: default
 title: Character Creation
 permalink: /character-creation/
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
