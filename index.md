@@ -30,17 +30,6 @@ Welcome home...
 > imperialist authority, and other detestable perspectives, are meant to
 > reflect the Realm's mode of thinking and are not endorsements of imperialism.
 
-> I am neither a historian nor an ethnographer nor a scholar of religion nor any
-> other humanities specialist; I am a privileged American, and as such, 
-> reflect my upbringing. The Realm is heavily inspired by cultures which are not
-> my own. I recognize my responsibility in handling non-American inspirations,
-> and I have done my best to do research and vet my writing in a community
-> which includes non-American contributors and people of color. I certainly
-> cannot claim that my writing is free of otherness or free of bias -- but I
-> _can_ affirm that I am receptive to feedback and doing the best that I can to
-> reflect my sources of inspiration based on research and feedback rather than
-> stereotypes.
-
 ## Resources
 
 - [Lot Casting Atemi](https://www.lotcastingatemi.com/), the character manager;
