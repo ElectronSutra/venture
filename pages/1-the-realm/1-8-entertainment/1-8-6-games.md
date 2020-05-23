@@ -136,9 +136,12 @@ human-sized pieces on a giant board carved into the ground.
 ![One of Lanterns](../../../assets/entertainment/one-of-lanterns.png)
 {:style="width: 50%;height: 50%"}
 
-Card games have always been popular among the Imperial Legions, and come in and
-out of vogue with the Dynasty. Card games offer an appealing balance between
-luck and skill which make them popular for gambling.
+Card games offer an appealing balance between games of pure luck and games of
+skill. Cards have always been popular in the Legions, but were slow to find
+acceptance among the Blessed Isle, especially since they were labor-intensive
+to produce. Within the last 100 years, advances in wood block printing
+technology has allowed for the more widespread production and cutting of cards,
+which has made them much more accessible to all classes.
 
 A Realm deck of card is 50 cards, divided into five suits of 10 cards apiece.
 The suits are Ewers, Jewels, Lanterns, Flowers, and Banners. The ten ranks of
