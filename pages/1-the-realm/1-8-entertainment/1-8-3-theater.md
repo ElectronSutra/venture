@@ -133,8 +133,81 @@ their own expectations and rituals. Although none of these have the same
 prestige or standing as the respectable theaters, they are often beloved by the
 peasantry and an important relic of the local culture.
 
-### Wandering Performers Who Do Fun Things With Gender
+Here are some examples:
 
-### Tragic Actors Who Like To Make People Cry
+### The White Rose Troupes
 
-### Puppets
+An ancient people called the _White Rose_, predating the Shogunate, were once
+granted an exemption by the Shogun: they would travel wherever they like in the
+Isle, not to be impeded by borders, but were forbidden to make a living through
+any profession other than entertainer. Today, the White Rose people can be found
+throughout the Isle, wandering in long, slow circuits between major cities.
+
+The White Rose troupes perform their own variety of theater, loud and racuous,
+with elaborate scenery, colorful costumes, and a huge cast of stock characters.
+In addition to these performances, they also put on juggling acts, tumbling
+acts, and all manner of minstrelry -- but the _theater_ is where the White
+Rose people are most acclaimed.
+
+White Rose theater features over four dozen stock characters who play the major
+roles in their productions, including: Wolf, the stoic hunter, who always has a
+fur pelt; Hawk, the quick-witted thief, who usually learns secrets that put her
+life in danger; Toad, the inept and bumbling servant with a large mustache who
+causes problems through his clumsiness and lack of tact. White Rose children are
+born into hereditary roles in an intricate cycle: the first child of a Hawk and
+a Wolf is always a Toad, and so on. The acting children are trained from the age
+of seven in the theater. Roles are inherited regardless of the sex or desires of
+the child.
+
+White Rose actors are expected not only to play the same characters for their
+entire life, but to embody the traits of those characters even outside their
+performances. Regardless of her sex, a Hawk is always a woman; off stage, she
+wears woman's clothes, speaks women's speak, and lives her life as a woman.
+Likewise, Toad actors are always men, and the mysterious Crystal -- the
+narrator, who on stage is hooded and mysterious -- is agender, neither man _nor_
+woman. Lastly, the leader of a White Rose troupe is always considered a woman
+under Imperial law, and generally lives as such.
+
+The White Rose troupes have an unparalleled freedom of movement, thanks to the
+Treaty which they keep with the Empress, inherited from that ancient Shogunate
+decree. White Rose troupes do not need papers to move around. The troupes are
+widely reviled by city officials, because they bring loud annoyances, excite the
+peasantry to think strange thoughts, and worst of all, occasionally take in
+bandits or other rabble. Although the Treaty nominally defines the White Rose as
+a race, the contemporary troupes are a mishmash of various ethnicities and
+heritages, defined not my blood or ancestry but by their lifestyle.
+
+### Ru Puppet Theater
+
+The Immaculate Order writes and performs many, many different puppet shows as
+part of their worship services, especially for major gods. These shows recreate
+famous legends related to the god worshipped that day on the Calendar, and are
+supervised and produced by monks. The origin of this tradition lies in the
+artistry of the Ru-speaking peoples of the northwestern Isle, who have been
+producing puppet theater for centuries.
+
+Ru puppets are quite large, nearly four or four and a half feet tall; some
+monster puppets are even larger. They are truly beautiful constructions with
+elaborate clothing, wigs made of human hair, and all manner of other detail. The
+Order has adapted many of these puppet-making techniques for use in the western
+half of the Isle.
+
+Puppets are a direct violation of the aniconic prescriptions of the Order, which
+may lead some to wonder why the tradition is so vibrant. The strict involvement
+of the Order ensures that the puppets are not sacreligious, and the puppet-show
+prayers are a luxurious bribe for unruly gods to calm down. Further, the puppet
+shows are simply extremely popular. They are a common sight at festivals and
+many of the Realm's peasants and patricians have fond memories of watching the
+puppet shows as children.
+
+Outside of performance during ritual, the puppet-actors practice their craft by
+staging short comedic or tragic plays. These so-called _vulgar performances_ are
+usually accessible to the locals. The Immaculate Order approves of these
+performances by staging them within the outer ring of a temple, under the
+supervision of monks. This arrangement keeps the puppet-actors at the peak of
+their craft without sacrificing the spiritual wellness of the community.
+
+During performances, the puppet-actors and monks wrap themselves completely from
+head to toe in black cloth, which is accepted as a code for the audience to
+regard them as "invisible." For this reason, some parts of the Isle use
+_puppeteering_ as a euphemism for sneaking around or going unnoticed.
