@@ -72,18 +72,6 @@ for their incorruptible honor and dutiful execution of the law. Imperial
 Magistrates are tasked with rooting out corruption and solving unsolvable crimes
 that the local constabulary have given up on.
 
-## Dominions and Prefectures
-
-The Blessed Isle is divided into hundreds of prefectures, administrative
-territories drawn on the land for collecting tax and enforcing the law. Every
-prefecture is overseen by a _prefect_, appointed by the Deliberative and tasked
-with administering their area and collecting taxes.
-
-Arjuf Dominion, Lord's Crossing Dominion, and Numinous Rolling Wave Dominion are
-three large and important provinces. Since they were kingdoms recognized by the
-Empress before she absorbed them, she titled them _dominions_ instead of
-prefectures. The difference is less than 0.
-
 ## Satrapies
 
 The final element that makes up the Realm are the _satrapies_, subjugated
