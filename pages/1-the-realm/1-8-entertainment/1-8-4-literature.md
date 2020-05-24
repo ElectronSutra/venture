@@ -60,4 +60,23 @@ more.
 
 ## Classical Fiction
 
+The _Great Classics_ are six novels which have been in print more or less
+continuously since the earliest days of the Realm. Some of these novels
+originate from Shogunate authors; others originate from the early centuries of
+the Realm and have simply become established. These six novels were the most
+widespread non-religious non-governmental literature available in the form of
+books and scrolls until the recent printing revolution.
+
+Some of the Great Classics, like the bandit adventures of _Low Tide Moon_ or the
+political situations and grand battles of _The Gate at Peach Mountain Pass_,
+purport to be historical accounts, but are identified by contemporary scholars
+as containing highly fictionalized details. Some others, like the fictitious
+House chronicle _Western Garden_, are understood to be wholly fictional and
+completely divorced from reality. The comedies, like _Favorable Doldrums_, are
+generally more likely to acknowledge their own fiction than the more serious
+Great Classics.
+
 ## Popular Fiction
+
+Popular fiction ranges from gory military fiction to romanticized epics to
+steamy romances bound with blue covers.
