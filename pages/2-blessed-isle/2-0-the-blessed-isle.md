@@ -41,15 +41,13 @@ winters and stormy autumns.
 The Isle has been home to humans for as long as humans have existed; most modern
 scholars agree that humanity originated on the Isle. Although the Wàn are today
 the dominant ethnic group, the Isle is home to dozens of distinct ethnic groups.
-Scholars in the Realm have identified the four Major Peoples -- the Wàn, the
-Arjufi, the Daoshin, and the Nu -- and about fifty-eight Minor Peoples with
-less overall extent.
+Scholars in the Realm have categorized roughly fifty-eight groups.
 
 The people of the Isle are as diverse as its land, but they have been unified
-in the Realm for more than five centuries. Wàn society permeates the whole Isle,
-and though many people still practice their native traditions, the large cities
-are all distinctly Realm, a blend of groups and histories striving together in
-harmonious accord under the wise leadership of the Dragon-Blooded.
+in the Realm for more than five centuries. Realm society permeates the whole
+Isle, and though many people still practice their native traditions, the large
+cities are all distinctly Realm, a blend of groups and histories striving
+together in harmonious accord under the wise leadership of the Dragon-Blooded.
 
 ## That Which Came Before
 
