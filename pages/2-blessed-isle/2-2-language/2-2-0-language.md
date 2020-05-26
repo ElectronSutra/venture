@@ -35,3 +35,16 @@ mostly in deep forests or on the slopes of the mountains. These languages,
 like the clicking tongue of the Dhorashi dark-dwellers, are of interest to
 scholars, but are generally vile and uncouth compared to the respectable High
 Realm.
+
+## Old Realm
+
+Old Realm, the contemporary language of spirits and the original language of the
+world, is the ancestor of all the Isle's languages.
+
+> Old Realm is unrelated to the languages of the Isle. This claim is pure
+> propaganda. The Realm's scholars have made proposals showing this, but they
+> are grasping at straws.
+
+> The languages of the Isle descend from a common ancestor, Proto-Isle. The real
+> divergence period began well before the Shogunate, and has only continued to
+> evolve since then.
