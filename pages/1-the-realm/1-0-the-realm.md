@@ -13,9 +13,6 @@ and glory. Ruled in just configuration by the mighty Dragon-Blooded of its Great
 Houses in fealty to the Empress, no other nation can rival the stability and
 power of the Realm.
 
-The Realm is based primarily on two major powers: the Roman Empire and Imperial
-China.
-
 ## Social Class
 
 The Empress is the supreme authority of the Realm, and mother to all within its
