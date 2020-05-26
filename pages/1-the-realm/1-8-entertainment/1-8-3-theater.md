@@ -69,7 +69,8 @@ the human, but the supernatural as well.
 
 ### Qián Theater
 
-_Qián_ theater descends from the same Shogunate tradition as Wàn theater, but
+_Qián theater_, the theater of the people in Lord's Crossing and the surrounding
+mountainous area, descends from the same Shogunate tradition as Wàn theater, but
 evolved to focus more heavily on the excellent performance of a small canon of
 distinguished plays, rather than the individual actor focus of Wàn theater. A
 well-staged production in the Qián school focuses on bringing to the stage a
