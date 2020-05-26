@@ -79,4 +79,40 @@ Great Classics.
 ## Popular Fiction
 
 Popular fiction ranges from gory military fiction to romanticized epics to
-steamy romances bound with blue covers.
+steamy romances bound with blue covers. In general, the Realm's popular fiction
+can be divided into the categories of _peasant fiction_ and _respectable_
+_fiction_. The difference is obvious: respectable fiction is what the Dynasty
+reads, peasant fiction is what peasants read.
+
+The Dynasty's refined literature comes in many forms like comedies of manners,
+novels of manners, and, of course, romances of manners. Beyond that, the Dynasty
+also widely enjoys the well-written fictionalized accounts of great periods of
+the Shogunate, and the less refined elements of the Dynasty can be found reading
+adventure novels which tell of exotic places they may one day rule. A small
+number of Dynasts have committed themselves to publishing and discussing the
+most worthy works emerging from the satrapies, but such things are trivialities.
+
+_Peasant fiction_, on the other hand, is completely devoid of the refined
+experiences of Dynastic fiction. Galavanting heroes prance about through
+uncomplicated narratives. Tall tales and accounts like the dishonorable nobles
+of _The Tales of Magistrate Shining Eye_ -- based on the real lost egg
+Magistrate Shining Eye in the third to fifth centuries -- give rise to unhealthy
+opinions. And of course, one must not even _consider_ the salacious romances
+which can be found throughout the Isle's major cities. Certainly no Dynast has
+ever read such a steamy and disreputable novel in some sealed chamber somewhere.
+
+## Poetry
+
+The Realm has a rich poetic tradition which permeates the Dynasty. Poetry is one
+of the most noble pursuits an artist can devote herself to, which gives rise to
+an extensive body of poems.
+
+Most poems in the Realm are composed in High Realm, and rely on tricks like tone
+sandhi, homonymy, and similar turns of phrase to convey layered meaning. The
+southern reaches of Arjuf and Radimel's Seat both have rich native traditions of
+poetry in their own languages. Arjufi poetry is flowing and grand, full of
+parallelism and heroism. Radimel's Seat's poetry is often on the verge of
+theater, set to music and recited by elders.
+
+The peasantry do not understand poetry and prefer novels. It is because they are
+unable to appreciate the subtlety of a good poem.
