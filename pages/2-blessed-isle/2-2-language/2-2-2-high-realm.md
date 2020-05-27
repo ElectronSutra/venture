@@ -59,6 +59,24 @@ language of refined and educated society. High Realm is a vocal poem in every
 utterance; the speaker weaves a tapestry with every word she speaks. The other
 languages of the Isle are trivial things compared to it.
 
+## Accents and Local Languages
+
+Although High Realm is the official language of government, it, like any other
+language, still has dialects, accents, and regional variation. You can tell
+where a Dynast comes from by her accent, especially if she's from a place like
+Myion or Arjuf which have extremely distinct sounds. In general, a proper Dynast
+will minimize her known accent traits in court speech; they are somewhat
+pedestrian.
+
+Many Dynasts go their entire lives without having to learn any language other
+than High Realm, but many others speak more peasant tongues for practical
+reasons. Legionnaries, desiring to command their troops directly, often speak
+the language of their legion. Others simply become weary of having to be
+translated; still more are wary of household staff that they cannot understand.
+In general, a Dynast speaking their native language to staff or patricians is
+not vulgar, but speaking a language other than High Realm to another Dynast is
+seen as an insult.
+
 ## Writing High Realm
 
 High Realm is written in a _syllabic_ script, a beautiful calligraphy. Every
@@ -118,5 +136,5 @@ completely aesthetically-consistent High Realm name.
 
 ### Some Example Names
 
-Polin, Qifu, Maoye, Hangbu, Xaming, Kiror, Damaal, Ising, Joya, Zhupeing,
+Polin, Qifu, Maoye, Hangbu, Xamiing, Kiror, Damaal, Ising, Joya, Zhupeing,
 Saolal.
