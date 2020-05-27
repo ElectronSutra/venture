@@ -53,10 +53,19 @@ people -- and by extension, their language -- are viewed as classy and haughty
 by their neighbors. The Northern Wànzi languages _sound_ refined, even when
 spoken by peasants.
 
-## Accent Features of Northern Wànzi
+## Accent Features of Northern Wànzi Languages
 
-Northern Wànzi accents are characterized by their nasalizations, by reducing
-final _-r_ and _-l_ to "w" sounds, and by their very expressive tone patterns.
+If you want your character to have a Northern Wànzi accent, you might mention
+some of the following vocal habits:
+
+- Your final _r_ and _l_ become _w_ sounds; "sao" instead of "sar";
+- You have a nasaly tone, especially by dropping _-ng_; "sõ" instead of "song";
+- You under-pronounce your vowels; "sa" instead of "saa".
+
+Most Houses are full of scions with vaguley Northern Wànzi accents, since the
+Imperial City sits right in the middle of the langauge zone. House Cynis in
+particular often have very exaggerated Norhtern Wànzi accents, because of the
+influence of Baang, the language of Pangu City, on their House.
 
 ## Making A Northern Wànzi Name
 
@@ -92,4 +101,4 @@ syllable if you want.
 
 ### Some Example Names
 
-Zai, Gomen, Kaixe (kye-shay), Woca (woh-tsa), Dyran (duh-raan), Yengku.
+Zai, Gomen, Kaixe (kye-shay), Dyran (duh-raan), Yengku, Miwu.
