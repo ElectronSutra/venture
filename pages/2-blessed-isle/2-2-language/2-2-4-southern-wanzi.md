@@ -126,4 +126,4 @@ Two syllables sounds like a good flow.
 
 ### Some Example Names
 
-Hsi-Mak, Po-Lin, Seu-Teng, Nga-Wo, Shai-P’ek, Tso, Ch’a, Sze-Neu.
+Hsi-Mak, Po-Lin, Seu-Teng, Nga-Wo, Shai-P’ek, Tzuo, Ch’a, Sze-Neu.
