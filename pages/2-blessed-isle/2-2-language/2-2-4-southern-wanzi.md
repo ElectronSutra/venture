@@ -117,6 +117,9 @@ can use the following spellings everywhere:
 This represents the "buzz" that Southern Wànzi speakers often have (the same
 phenomenon as contemporary Mandarin).
 
+If you want a _uV_ pattern, spell it _wV_, like _wa_ instead of _ua_. Likewise
+_ya_ instead of _ia_.
+
 ### The Shape
 
 You can have any consonant at the start of the syllable, and any vowel that you
@@ -126,4 +129,4 @@ Two syllables sounds like a good flow.
 
 ### Some Example Names
 
-Hsi-Mak, Po-Lin, Seu-Teng, Nga-Wo, Shai-P’ek, Tzuo, Ch’a, Sze-Neu.
+Hsi-Mak, Po-Lin, Seu-Teng, Nga-Wo, Shai-P’ek, Tzu, Ch’a-Kwan, Sze-Neu.
