@@ -19,13 +19,12 @@ Public discussion of relationships focuses instead on _marriage_ and sometimes
 on _romance_.
 
 > The Dynasty does not conceive of heterosexuality or homosexuality as exclusive
-> preferences like we do in the modern West. The idea that a person could be
-> strictly attracted to one sex is a strange novelty or foreign habit to them.
-> Most Dynasts carry on affairs with both sexes and do not bat an eye at it.
-> Those who do publicly prefer only a single sex are viewed similarly to those
-> who only take to a single hair color -- an oddity or a quirk. It is expected
-> that a typical Dynast will take an array of lovers from both sexes across the
-> course of their life.
+> preferences. The idea that a person could be strictly attracted to one sex is 
+> a strange novelty or foreign habit to them. Most Dynasts carry on affairs with
+> both sexes and do not bat an eye at it. Those who do publicly prefer only a
+> single sex are viewed similarly to those who only take to a single hair color
+> -- an oddity or a quirk. It is expected that a typical Dynast will take an
+> array of lovers from both sexes across the course of their life.
 
 ## The Three Rooms
 
