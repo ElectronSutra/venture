@@ -30,7 +30,7 @@ Carp                Hellboar*   Peacock
 
 South-West ☴        South ☰     South-East ☱
 Journeys/Secrets     Journeys    Journeys/Endings
-Tortoise             Ox-Dragon*  Qilin*
+Tortoise             Ox-Dragon\*  Qilin*
 -->
 
 # Windrose Arsenal
