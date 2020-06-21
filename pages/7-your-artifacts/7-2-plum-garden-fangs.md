@@ -104,6 +104,33 @@ Onslaught from this attack doesn't reset next round. This effect can stack up
 to (Essence) times. If you fail to attack the same target or you move away, then
 their Onslaught resets as usual.
 
+***
+
+### Weaver in Darkness
+
+> **Cost**: --; **Mins**: Essence 1
+>
+> **Type**: Permanent; **Duration**: Permanent
+>
+> **Keywords**: None
+>
+> **Prerequisites**: None
+
+_Tsichu's nature was to weave safe harbor in its dark tunnels. This same_
+_trait manifests in the blades._
+
+You may manifest silk and thread from the Plum Garden Blades, which counts as
+exceptional equipment for what you choose to use it for. The threads are
+gossamer and glow softly. They persist indefinitely in the dark, but only
+persist for one full day of exposure to sunlight before they disintigrate.
+
+You gain +1 Parry against Disarm attempts as long as you are attuned to the
+Plum Garden Blades.
+
+**RAVENOUS** -- Once per turn, you may reflexively deal (Essence) dice of damage
+to a nearby trivial group, as long as you describe how you tangle, strangle, or
+poison them with the Plum Garden Blades.
+
 ## Essence 2
 
 ### The All-Consuming Maw
