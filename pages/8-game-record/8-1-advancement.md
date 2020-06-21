@@ -24,7 +24,7 @@ you will gain an advancement according to the following table:
 | [x]  | 5       | A           |
 | [x]  | 6       | B and C     |
 | [x]  | 7       | A           |
-| [ ]  | 8       | B           |
+| [x]  | 8       | B           |
 | [ ]  | 9       | A and C     |
 | [ ]  | 10      | B           |
 | [ ]  | 11      | A           |
