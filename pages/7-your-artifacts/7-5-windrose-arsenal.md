@@ -46,7 +46,7 @@ In preparation for her voyage, Karst's husband forged her the Windrose Arsenal.
 He cast blue jade from the stone of their home in Lord's Crossing, that no
 matter where she went she would find her way home. He harvested meteor iron from
 the soaring gorges of the Imperial Mountain, that no matter where she went she
-would never be lost and spirits would bow to her.
+would never be lost.
 
 After several voyages and expeditionary missions on the Isle and abroad, Tepet
 Karst had produced some of the most lovely maps; even today, her work is
@@ -78,219 +78,195 @@ glass, and each one trails a unique color of light. When they strike a target,
 they shatter in a cascade of ice and lightning, a flash of a trigram, and then
 reappear in orbit around you a moment later.
 
+The knives float and twist like compass arms, occasionally orientating toward
+powerful elemental displays matching their direction or other powerful effects.
+
+## Scenery Features
+
+The Windrose Arsenal makes use of a unique mechanic called _scenery Features_. A
+scenery Feature is an element of the scenery or terrain of the scene: a rushing
+river, a surging gas pocket, a blazing bonfire, etc.
+
+A Feature is defined by two traits: _scope_ and _intensity_.
+
+When a character makes an attack which takes advantage of a Feature, their
+target gets a penalty to their Defense based on the intensity of the Feature.
+When a character defends in a way which takes advantage of a Feature, they get
+a bonus to their Defense. Like with Intimacies, an attack or defense which takes
+advantage of multiple Features only gets the _highest_ bonus or penalty.
+
+| Intensity | Defense Penalty | Defense Bonus |
+| --------: | :-------------- | :------------ |
+|     Minor | -1              | +2            |
+|     Major | -2              | +3            |
+|  Defining | -3              | +4            |
+
+### Scope
+
+_Scope_ defines how large the Feature is. Scopes increase as follows:
+
+- Personal,
+- Close,
+- Short,
+- Medium,
+- Long,
+- Absolute.
+
+_Personal_ scope affects only a single person, like a statue or a free-standing
+tree. _Absolute_ scope is defined by where it is _not_ in a scene, for example,
+fighting on rafts atop a rushing river.
+
+### Intensity
+
+Like Intimacies, a Feature has one of three Intensities: minor, major, or
+defining.
+
+A _minor_ Feature is a quirk or nuissance. Thick underbrush and the twilight
+sun shining in an unfavorable direction are examples of minor Features. A minor
+Feature gives +2 Defense when used to defend and -1 Defense when used as an
+attack.
+
+A _major_ Feature is felt presently and immediately over the area it affects. It
+should be easy to use in a description and avoiding it feels like an effort. A
+crumbling cliff face, intense cavern darkness, and a toppled feast in the middle
+of a great hall are examples of major Features. A major Feature gives +3 Defense
+when used to defend and -2 Defense when used to attack.
+
+A _defining_ Feature is omnipresent in its scope and has a pressing impact on
+every action. Two defining Features overlapping feels like a great struggle of
+titans. Examples include a raging forest fire tearing through the scene, a
+hurricane wracking a port, and the ground falling out from under your feet on an
+unstable ledge whenever you move. A defining Feature gives +4 Defense when used
+to defend and -3 Defense when used to attack.
+
 ## Evocations of the Windrose Arsenal
 
 All Artifact Thrown weapons gain the following effect:
 
   This weapon automatically returns to you after use.
 
-While you are attuned to the Windrose Arsenal, you may summon or banish it as
-part of your _draw/ready weapon_ action. You may switch between using the knives
-as a Thrown weapon and a melee weapon on your turn without using the
-_draw/ready weapon_ action.
+While attuned to the Arsenal, you may summon up the knives at the beginning of a
+fight as a draw/ready weapon action, and can banish them at the end of the
+scene. While the knives are banished, the Arsenal is still obviously magical;
+you just have the nice option of not having to carry the knives around.
 
-You can snap the knives to face in their proper directions with just a thought.
-As long as you are attuned, you get the benefits of the _Direction Sense_ Merit.
+When summoned, the knives are oriented to their respective directions. You have
+the _Direction Sense_ merit. The Arsenal counts as exceptional equipment for
+making maps, navigating, or exploring new territory. If such a roll upholds a
+Major or Defining Principle, double 9s.
 
-You awaken [Stability of the Omphalos](/#stability-of-the-omphalos) at no cost
-when you attune to the Windrose Arsenal.
-
-***
+Because you are resonant to jade, you unlock
+[Erudite Cartographer Techniques](#erudite-cartographer-techniques) for free.
 
 ## Essence 1
 
-### Stability of the Omphalos
+### Erudite Cartographer Techniques
 
-> **Cost**: 3m; **Mins**: Essence 1
+> **Cost**: --; **Mins**: Essence 1
 >
-> **Type**: Reflexive; **Duration**: One turn
->
-> **Keywords**: Perilous
->
-> **Prerequisites**: None
-
-_The Center direction is associated with the house of Battles. It is the_
-_foundation of all other directions and represents stability amidst chaos. The_
-_center protects from harm and prevents rapid degradation. The center is the_
-_domain of Pasiap, the Earth Dragon, protector and defender._
-
-The Windrose Arsenal rises up to defend you, a flying barrier of knives that
-turns away any incoming danger. You get light cover until your next turn. The
-cover moves with you as you move.
-
-    Light Cover: +1 Defense from all incoming attacks.
-
-As a result of the stabilizing power of the center, you get heavy cover against
-incoming attacks made by raksha and wyld-touched.
-
-    Heavy Cover: +1 Defense against all incoming attacks.
-
-***
-
-### Levante of a Thousand Blossoms
-
-> **Cost**: 3m; **Mins**: Essence 1
->
-> **Type**: Supplemental (Attack Roll); **Duration**: Instant
->
-> **Keywords**: Dual
->
-> **Prerequisites**: None
-
-_The house of Endings controls the cycle of starting and ceasing. From the_
-_East, we learn the lesson that all things have a beginning and an end--all_
-_things come in cycles. The eastern dagger is named_ ☲ Lí, _trails purple_
-_light, and is associated with the peacock. In the elemental cycle, Lí commands_
-_the element of wood and the domain of Sextes Jylis, the spreader of grass and_
-_lord of healing._
-
-#### Withering
-
-Your next **decisive** attack made with the Arsenal against the same target
-gains "**AIM** -- Also add your Aim bonus dice to your raw damage."
-
-#### Decisive
-
-Gain a reflexive Aim on the next **withering** attack you make against this same
-target with the Windrose Arsenal.
-
-***
-
-### Saffron-Painted Ostro
-
-> **Cost**: 3m; **Mins**: Essence 1
->
-> **Type**: Supplemental (Escape); **Duration**: Instant
+> **Type**: Permanent; **Duration**: Permanent
 >
 > **Keywords**: None
 >
-> **Prerequisites**: None
+> **Prerequisite Charms**: None
 
-_The south is the seat of the house of Journeys, which governs travel and the_
-_freedom that movement provides. Freedom of movement and joyful motion are the_
-_domain of the house of Journeys. The southern dagger is named_ ☰ Qián, _trails_
-_orange light, and is associated with the mighty three-horned ox-dragon. In the_
-_elemental cycle, Qián is the domain of Hesiesh, the Fire Dragon, the lord of_
-_fiery devotion and self-control._
+_The spirit of Tepet Karst is infused into the Arsenal. Simply by wielding it,_
+_you may inherit some of her skill._
 
-Whenever you roll against a difficulty to overcome anything that would deny you
-freedom of movement, check if your (Essence) exceeds the difficulty. If so, or
-if the obstacle is completely mundane (plain rope, silk sheets, etc.), you
-escape automatically. Otherwise, you get (Essence) automatic successes on the
-action.
+You gain the following effects permanently:
 
-If you are opposing another character who restricts your freedom of movement--
-for example, a disengage action or breaking a grapple-- double 9s.
+- You know the exact route, by land or by sea, to return to where you have been;
+- You can immediately understand any map you see, even if it is hidden or has
+  been obscured. A map which is covered reveals as much to you as if it were
+  uncovered, simply by glimpsing a corner. You gain an immediate, reflexive roll
+  against ciphered maps, even if you don't know what you're looking at _is_ a
+  map.
+- You gain a free Lore (Maps and Cartography) specialty. You may apply your
+  Survival specialties as if they were Lore specialties to Introduce Fact or
+  Contest Fact.
 
 ***
 
-### Incense and Silk Sirocco
+### Roving Soul Method
 
-> **Cost**: 3m; **Mins**: Essence 1
+> **Cost**: 2m; **Mins**: Essence 1
 >
-> **Type**: ; **Duration**:
+> **Type**: Simple; **Duration**: Instant
 >
-> **Keywords**: Withering-only
+> **Keywords**: None
 >
-> **Prerequisites**: [Levante of a Thousand Blossoms](#levante-of-a-thousand-blossoms),
-> [Saffron-Painted Ostro](#saffron-painted-ostro)
+> **Prerequisite Charms**: [Erudite Cartographer Techniques](#erudite-cartographer-techniques)
 
-_Flavor text._
+_The Arsenal desires to be put to use: to travel to new places and thrill at_
+_new sights. It empowers you to find the unknown._
 
-Mechanical text.
+Pick one:
+
+- **Directions:** Pick a destination whose name you know but whose location you
+- don't, such as a town or valley. The Arsenal points the way relative to your
+- current location.
+- **Discovery:** The Arsenal points toward _some_ nearby unknown place of
+- significance or power, like a wayward demesne or a set of ruins.
+
+Once per travel, when you activate this Charm, you get a banked point of
+Willpower, which you can use on any Ride, Sail, or Survival roll to move toward
+your goal, or on any Lore roll to introduce fact about it. You can also spend
+the Willpower to help someone else's roll who is doing the journeying for you,
+like assist the captain of a ship.
+
+***
+
+### Tramontane Discovery
+
+> **Cost**: 5m; **Mins**: Essence 1
+>
+> **Type**: Simple; **Duration**: Instant
+>
+> **Keywords**: None
+>
+> **Prerequisite Charms**: [Erudite Cartographer Techniques](#erudite-cartographer-techniques)
+
+_Through the power of the Arsenal, you either create a new feature in a surge_
+_of elemental power, or take advantage of a feature which was always present in_
+_the scene, we players just hadn't noticed it..._
+
+Roll (Intelligence + Lore) with your Maps and Cartography background as an
+_Introduce Scenery_ roll. An _Introduce Scenery_ roll creates or reveals a
+personal, minor Feature within the scene. Each success on your roll gives you
+one point, which you can spend to enhance the Feature:
+
+- **1 point**: Increase the scope of the Feature by one step;
+- **2 points**: Increase the intensity of the Feature by one step.
+
+Unspent points are lost.
+
+If you introduce a Feature which is also an Environmental Hazard, you must pay
+Initiative as if you had used the
+[Create an Environnmental Hazard](/venture/systems/combat/gambits/#create-an-environmental-hazard)
+gambit.
 
 ## Essence 2
 
-### Evocation 5
+### Sirocco Instincts
 
-> **Cost**: --; **Mins**: Essence X
+> **Cost**: --; **Mins**: Essence 2
 >
-> **Type**: ; **Duration**:
+> **Type**: Permanent; **Duration**: Permanent
 >
-> **Keywords**:
+> **Keywords**: None
 >
-> **Prerequisites**:
+> **Prerequisite Charms**: [Tramontane Discovery](#tramontane-discovery)
 
-_Flavor._
+_The Arsenal is ready to act, and hums with anticipation as danger approaches._
+_As you call forth the knives to defend you, they twitch suddenly to point out_
+_the most powerful feature... Ah yes, that will do._
 
-Mechanical text.
+You may activate Tramontane Discovery reflexively as part of your Join Battle
+roll.
 
 ***
 
-### Evocation 6
+### A Secret Evocation
 
-> **Cost**: --; **Mins**: Essence X
->
-> **Type**: ; **Duration**:
->
-> **Keywords**:
->
-> **Prerequisites**:
-
-_Flavor._
-
-Mechanical text.
-
-***
-
-### Evocation 7
-
-> **Cost**: --; **Mins**: Essence X
->
-> **Type**: ; **Duration**:
->
-> **Keywords**:
->
-> **Prerequisites**:
-
-_Flavor._
-
-Mechanical text.
-
-## Essence 3
-
-### Evocation 8
-
-> **Cost**: --; **Mins**: Essence X
->
-> **Type**: ; **Duration**:
->
-> **Keywords**:
->
-> **Prerequisites**:
-
-_Flavor._
-
-Mechanical text.
-
-***
-
-### Evocation 9
-
-> **Cost**: --; **Mins**: Essence X
->
-> **Type**: ; **Duration**:
->
-> **Keywords**:
->
-> **Prerequisites**:
-
-_Flavor._
-
-Mechanical text.
-
-## Essence 4
-
-### Evocation 10
-
-> **Cost**: --; **Mins**: Essence X
->
-> **Type**: ; **Duration**:
->
-> **Keywords**:
->
-> **Prerequisites**:
-
-_Flavor._
-
-Mechanical text.
+_This Evocation will be revealed when you meet the secret trigger to learn it_
+_for free... How mysterious..._
