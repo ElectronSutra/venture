@@ -138,7 +138,10 @@ herself.
 
 #### Sesus Nagezzer
 
-Wood Aspect. Also known as "The Slug."
+Wood Aspect. Also known as "The Slug." A powerful figure in the trade of slaves,
+drugs, and other sensual pleasures; also known to operate a wide-ranging
+network of informants and spies. An information broker. [Sesus Root's](#sesus-root)
+boss.
 
 #### Sesus Root
 
