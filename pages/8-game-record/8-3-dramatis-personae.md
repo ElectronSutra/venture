@@ -12,15 +12,21 @@ nav_order: 3
 
 ### Cynis Jaylah
 
+![Cynis Jayla](../../assets/cynis-jayla-shysterling.png)
+
 Air Aspect. Ice bitch. Daughter of [Cynis Fa-Len](#cynis-fa-len). Betrothed to
 [Tepet Jeongyeon](#tepet-jeongyeon).
 
 ### Ledaal Naiyo
 
+![Ledaal Naiyo](../../assets/ledaal-naiyo-shysterling.png)
+
 Fire Aspect. Monster hunter. Son of [Ledaal Verath](#ledaal-verath), husband of
 [Cathak Argent Fawn](#cathak-argent-fawn)
 
 ### Peleps Tempest
+
+![Peleps Tempest](../../assets/peleps-tempest-shysterling.png)
 
 Water Aspect. Revenant captain; the Phoenix of Whaler's Bay. Sister of
 [Peleps Shore](#peleps-shore), daughter of
