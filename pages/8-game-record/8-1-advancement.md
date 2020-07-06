@@ -33,7 +33,8 @@ you will gain an advancement according to the following table:
 | [ ]  | 14      | B           |
 | [ ]  | 15      | A and C     |
 
-At the end of session 15, you progress from Essence 2 to Essence 3.
+At the end of session 15, you progress from Essence 2 to Essence 3. This will
+take "a while."
 
 ### Advancements
 
@@ -41,8 +42,7 @@ At the end of session 15, you progress from Essence 2 to Essence 3.
 
 - A dot of any skill,
 - A Merit dot,
-- A new specialty,
-- Finalize a working, project, etc.
+- A new specialty.
 
 You may waive advancement A twice in a row to get 1 of anything.
 
