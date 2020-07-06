@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Main Cast
 
-### Cynis Jaylah
+### Cynis Jayla
 
 ![Cynis Jayla](../../assets/cynis-jayla-shysterling.png)
 
@@ -46,7 +46,14 @@ Pavillion in Sdoia Province. Wife of [Ledaal Naiyo](#ledaal-naiyo).
 #### Cynis Fa-Len
 
 Wood Aspect. Matriarch of House Cynis in charge of financial affairs. Mother to
-[Cynis Jaylah](#cynis-jaylah).
+[Cynis Jaylah](#cynis-jayla).
+
+#### Cynis Lo-Sa
+
+Wood Aspect. Representative of Cynis Fa-Len, caravaneer and profiteer; has
+definitely _never_ sold arms to both sides in a conflict. Sister of
+[Cynis Jayla](#cynis-jayla), one of [Cynis Fa-Len's](#cynis-fa-len) Auspicious
+Daughters.
 
 ### House Ledaal
 
@@ -62,6 +69,13 @@ White Mountain Phoenix style. Mother of [Ledaal Naiyo](#ledaal-naiyo).
 Earth Aspect. Blind Magistrate in the service of the Empress. Childhood
 acquaintance of the [main cast](#main-cast) and commanding Magistrate of
 [Bal Dazo](#bal-dazo/).
+
+#### Mnemon Temperance
+
+Water Aspect. The Artist. A minister in Her Radiance's service, in charge of
+coordinating monopolies. In her spare time, a studier of art and art history --
+and uncoverer of the Triptych. Sister of [Mnemon Korvu](#mnemon-korvu) by many
+years.
 
 ### House Nellens
 
@@ -97,7 +111,34 @@ Air Aspect. Assassin, responsible for the murder of Mnemon Temperance. Son of
 Earth Aspect. A former Legionnaire, a current sorcerer, and on the DNFW list.
 Mother to [Ragara Mango](#ragara-mango).
 
+#### Ragara Nova
+
+Wood Aspect. Prefect of Chanos Prefecture, long time rival of
+[Sesus Majali](#sesus-majali). A crazy old man.
+
+#### Ragara Haama
+
+Aspect Unknown. A pale, pretty young man with dark hair and red eyes.
+Unsurprisingly, a blood-witch. Has some kind of connection to [Ragara Nova](#ragara-nova)
+and [Ragara Sayyah](#ragara-sayyah).
+
 ### House Sesus
+
+#### Sesus Sōng
+
+Fire Aspect. A former general of the Sesus Legions, now a permanent resident of
+Chanos. An upright woman who commands respect for her victories. Walks with a
+limp. Mother of [Sesus Root](#sesus-root).
+
+#### Sesus Majali
+
+Fire Aspect. The City Governor of the City of Chanos, a rival to [Ragara Nova](#ragara-nova)
+for control of the city's politics. Red-haired, and extremely confident of
+herself.
+
+#### Sesus Nagezzer
+
+Wood Aspect. Also known as "The Slug."
 
 #### Sesus Root
 
