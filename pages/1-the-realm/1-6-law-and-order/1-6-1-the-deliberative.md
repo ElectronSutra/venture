@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Deliberative
-permalink: /the-realm/law-and-order/the-deliberative/
+permalink: /the-realm/law-and-order/deliberative/
 parent: Law and Order
 grand_parent: The Realm
 nav_order: 1
