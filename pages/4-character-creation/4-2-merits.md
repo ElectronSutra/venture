@@ -124,13 +124,13 @@ use it. Tell us about one group that aligns to it, and one that opposses it.
 > •••••: Your will is law within your region. You are known, admired, respected,
 > and hated by the political elite who deal with you.
 
-### Language [•]
+<!-- ### Language [•]
 
 Each purchase of this Merit grants you: **one** major language or **two**
 minor languages or ciphers. A _major language_ is one of the regional trade
 tongues, or another prestigious and versatile language. A _minor language_ is
 something like Arjufi, a regional language within a larger region. A _cipher_
-is something like Cathak Drum Language or caravaner's signs.
+is something like Cathak Drum Language or caravaner's signs. -->
 
 ### Martial Artist [••••]
 
@@ -155,6 +155,41 @@ what their overall goal is, and how it involves you.
 
 > •••: Your mentor is a true Reniassance woman, a master of many fields. She is
 > universally respected and has chosen you as a special pupil.
+
+### Polyglot [• to •••••]
+
+_This Merit replaces the Languages Merit wholesale._
+
+You have learned many languages, and with them, the societies they represent.
+You fit right in while speaking other tongues, and people are excited to speak
+to you.
+
+> 0: Your only languages are your native language(s).
+
+> •: This dot, and each additional dot of Polyglot, gives you access to new
+> languages. Choose two major cities, significant regions, prefectures, clans,
+> etc.; whever you travel within that zone, you speak the local language
+> conversationally and proficiently. If you encounter a language you are
+> unfamiliar with, but which is related to a language you speak, you get +3
+> bonus dice to learn it.
+
+> ••: Once per story, when you invoke the traits or connotations of an accent
+> or language you speak as part of a stunt, you may upgrade that stunt.
+
+> •••: When you first meet someone with whom you share a minority language, or
+> first encounter someone who is surprised you speak their language, you treat
+> them as if they had a positive minor Tie toward you for the rest of the scene.
+
+> ••••: You are a masterful interpreter, switching easily between languages. You
+> can interpret simultaneously, rather than consecutively. Unlike most
+> interpreters, you are able to retain an impression of what you interpret. Your
+> skill at the act allows you to ignore all penalties from social misalignments
+> between the parties you interpret for. As long as you do not deliberately
+> introduce falsehoods, everyone innately regards you as a trustworthy liaison.
+
+> •••••: As long as you make an effort to engage a community, people are eager
+> to speak with you and bring you into the fold. You have Contacts among any
+> group with which you share a minority language.
 
 ### Retainers [•• or ••••]
 
