@@ -385,10 +385,8 @@ recruiting Magistrates beyond her immediate circle. Shortly after, she began
 organizing her ministries more formally, and set about establishing tax codes,
 local governments, and the major departments that survive to this day --
 including the Treasury. By RY 38, she had built the formal offices that would
-eventually become the Spiral Academy. She established an Empress' Council of
-representatives from throughout her empire to assist her in making economic and
-developmental decisions; this Council would eventually evolve into the bicameral
- Deliberative legislature we know today.
+eventually become the Spiral Academy. She formed a council of her closest
+allies, the Empress' Table, which would eventually evolve into the Deliberative.
 
 From the military perspective, RY 20 to RY 44 were marked by the formalization
 of the Legion structure. In the first two decades, the Empress had allowed her
