@@ -11,19 +11,20 @@ nav_exclude: true
 
 ![Tepet Mon](./../../../assets/house_mons/tepet.png){:style="float: left;margin-right: 7px"}
 
-Before the Realm there was the Shogunate, the divided period of warring
-Dragon-Blooded states, and in the Shogunate there were many competing Shoguns,
-the great leaders of these states. Among them was the Shogun Tepet, the
-warrior-poet heir to a kingdom on the Blessed Isle. He took up arms against the
-Empress and laid siege to her for a year and a day before he conceded; at the
-end of his defeat, he bowed before the Empress and offered her his head if she
-would spare his soldiers. Instead, she married him, and raised a Great House in
-his honor.
+Before the Realm there was the Shogunate, the divided period of warring between
+the Dragon-Blooded states of the Isle. In the Shogunate there were many
+competing daimyo in service to the military authority of the Shogun, and among
+them was the Daimyo Tepet, the Ataman of Pneuma, a powerful warrior-poet ruler
+of a confederacy of northern marcher-states. In the youth of the Realm, he took
+up arms against the Empress and laid siege to her for a year and a day before he
+conceded. He bowed before the Empress to offer his head, if only she would spare
+his soldiers. Instead, she married him, and raised a Great House in his honor.
 
-House Tepet is the oldest Great House, the very first to be elevated. They have
-cultivated their relationship to their ancient traditions. No other House is as
-devoted to their roots. Only Cathak rivals the glory of the Tepet Legions, and
-only Peleps rivals their heroism and romantic reputation.
+House Tepet is the oldest Great House, the very first to be elevated, in honor
+of the Old General. They have spent the centuries cultivating their
+relationship to their ancient traditions and their roots in the Shogunate and
+the north. Only Cathak rivals the glory of Tepet's Legions. Only Peleps rivals
+their heroism and romantic reputation. _None_ rival their discipline and focus.
 
 **WARNING**. In RY 675, House Tepet is devastated in the Battle of Futile Blood
 and reduced to a mockery of itself, struggling to recover from the loss of a
