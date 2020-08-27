@@ -117,7 +117,7 @@ prestige among the primarily land-war mindset of the Shogunate.
 
 Consumate outsiders, the Radimeli declared independence from the Shogunate at
 the end of the Vth century, when the position of Shogun was once again empty and
-the Entrhoned objected to the new Regent appointed in her place. After that,
+the Enthroned objected to the new Regent appointed in her place. After that,
 Radimel supplemented income with oversea shipping services to the various
 allodial-states, and occasional acts of privateering against ships passing
 through their waters without paying.
@@ -888,7 +888,7 @@ force to reclaim the Imperial City. As the tides of the coup turned, the forces
 of the Akiyo-Sakeraha alliance were forced to retreat back up into the
 mountains.
 
-A few years of pursit pushed Akiyo and Sakeraha further and further into the
+A few years of pursuit pushed Akiyo and Sakeraha further and further into the
 mountains, until finally, Tepet's legions had cornered them in Karashelen, the
 seat of House Akiyo. After a siege, Tepet finally claimed the seat of the Shogun
 for himself.
