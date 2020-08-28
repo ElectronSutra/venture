@@ -9,46 +9,46 @@ nav_order: 4
 
 # Gambits
 
-_Gambits_ are a core part of Hissatsu. A _gambit_ is any action which results in
-a major, tangible change to the course of battle. These gambits allow you to do
-things like introduce hazards, disarm opponents, set things on fire, etc.
+**Gambits** are a way to enact permanent change to the battlefield other than
+dealing damage to your opponent. Mechanically, a **gambit** is a special type
+of **decisive** attack, so any magic, effects, or rules that apply to
+**decisive** attacks also apply to gambits.
 
-## Examples of Gambits
+Gambits include things like introducing hazards, disarming opponents, setting
+things on fire, collapsing walls, and so on.
+
+## Examples of **Gambits**
 
 - Topple a pho cart to obstruct your pursuers;
-- Disarm your opponent with your scarf;
-- Throw knives to pin your opponent's clothes to the ground;
-- Collapse the bridge you are fighting on with a Feat of Strength;
+- Disarm your opponent;
+- Throw knives to pin your opponent's clothes and hold him in place;
+- Collapse a bridge you are fighting on;
 - Throw a bomb from your belt;
-- Rip open the behemoth's glowing weak spot to allow an attack;
-- Unfurl the ship's sails right into your opponent's face, blinding him and
-  leaving him dazed;
-- Smash a jar of oil and set it ablaze with an anima trick;
-- Wrap your opponent with magical prayer strips;
-- Disable your target's left arm with pinpoint qi strikes;
-- Grab your opponent with your bare hands and wrestle him to the ground;
-- Distract your opponent, opening an opportunity for your ally;
-- Unhorse your opponent, sending him crashing to the ground;
+- Rip open the giant's glowing weakpoint for massive damage;
+- Unfurl the ship's sails into the opponent's face to blind him;
+- Smash a jar of oil and set it ablaze;
+- Wrap your opponent in magical prayer strips;
+- Disable your opponent's left arm with a series of snake-hand strikes;
+- Grab your opponent and wrestle him to the ground;
+- Distract your opponent to open an opportunity for your ally;
+- Unhorse your opponent and send him crashing to the ground;
 - etc.
 
-## Establishing a Gambit
+## Establishing a **Gambit**
 
-Describe what you would like to accomplish. If it meets one of the existing
-gambits documented below, use that; otherwise, I will come up with a difficulty
-and effect for you. You can always choose to take another action if you don't
-like the cost.
+Describe what you would like to accomplish.
 
-Some gambits succeed automatically, especially if there is no opposition --
-toppling a pho cart just happens. Most gambits require a roll. If it directly
-opposes a foe -- like disarming them -- then you make an opposed roll against
-the target. Otherwise, make a roll against the described difficulty.
+If it has no opposition -- for example, toppling a cart -- then it is
+automatically established. If it is opposed by something, you will _roll to_
+_establish_ the **gambit**.
 
-Whether you suceed or not, you spend (gambit rank) Initiative to establish the
-gambit. Reduce this cost by 1 if you fail.
+If you successfully establish your **gambit**, spend (gambit rank)i. If you
+failed to establish it, pay 1i less.
 
-## Predefined Gambits
+## Common **Gambits**
 
-These gambits are common enough that they are defined in advance.
+These **gambits** are common enough that they are conveniently defined in
+advance.
 
 ### Create an Environmental Hazard
 
@@ -85,21 +85,6 @@ success you did gain, minimum 1.
 You knock your opponent's weapon out of their hands. They must spend a
 draw/ready weapon action to get it back.
 
-### Assemble Cover
-
-> **Rank**: 2i, 4i, or 6i
-
-You grab various bits of the environment or use your power to raise up walls
-and barricades. Every 2i you spend gives you one additional step of cover; so
-2i gives you light cover, 4i gives you heavy cover, and 6i gives you full cover.
-If you already have cover, reinforcing it only costs the difference -- light
-cover to full cover costs 4i.
-
-You immediately take cover behind what you have assembled.
-
-You may also _Destroy Cover_. The cost is the same, but instead of building it,
-you tear it down.
-
 ### Disable
 
 > **Rank**: 5i
@@ -126,17 +111,20 @@ A character may only benefit from one distract gambit at a time.
 
 > **Rank**: 2i - 10i
 
-You stretch yourself thin, cutting through your opponent's defenses.
+You cut through your opponent's defenses.
 
-The defender loses half of the rank, rounded down. They can't do anything to
-stop the damage if you succeed at the gambit. This damage ignores their Soak and
-leeches from them straight away.
+The difficulty to establish this gambit is your opponent's Defense. If you
+succeed, they lose half of the cost of this **gambit** in Initiative, rounded
+down.
+
+This gambit exists to allow you to spend your own resources to ignore the
+target's Soak, potentially opening them to an ally's attack.
 
 ### Knock Prone
 
 > **Rank**: 1i
 
-You knock your target prone.
+Knock your target prone.
 
 ### Unhorse
 

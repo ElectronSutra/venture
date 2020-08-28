@@ -20,7 +20,7 @@ You have base Hardness 0 against all **decisive** attacks. Magic cannot increase
 this unless it explicitly says so.
 
 You cannot use Charms with the
-[_Perilous keyword_](/venture/systems/charms/keywords#perilous).
+[Perilous](/venture/systems/charms/keywords#perilous) keyword.
 
 At the end of your turn, you gain 1 _Crash Recovery_ token. You gain 1
 additional token if you did not attack. If you have 3 or more tokens at the
@@ -48,16 +48,13 @@ You then lose the Shifted status.
 
 ## Clashed
 
-If you attack another character on the same tick that they attacky you, you
-become Clashed.
+If you attack another character on the same tick that they attacky you, you both
+become Clashed. You lose 3i when you become Clashed.
 
 While Clashed, you do not roll against your target's Defense, but instead you
 make an opposed roll against your target's attack. The winner is whoever rolls
 higher, or if you tie, the player character. For effects that reference Defense,
 your Defense is the result of your roll.
-
-Getting hit by an attack while you are Clashed inflicts 3 automatic points of
-Initiative damage.
 
 After the attack is resolved, you lose the Clashed status.
 

@@ -13,115 +13,122 @@ On your turn, you get 1 _combat action_ and 1 _reflexive move_, which you may
 perform in either order.
 
 After you take your combat action, you may choose to _flurry_ and take a second
-combat action.
+combat action for a penalty.
 
 ## Reflexive Move
 
-If you are **not obstructed by enemies, binds, or obstacles**, you may move one
-range band toward any enemy or landmark or away from any enemy or landmark.
+If you are not obstructed by enemies or obstacles, you may move one range band
+toward any enemy or landmark, or one range band away from any enemy or landmark,
+once per turn as a reflexive move.
 
-Moving within your range band costs nothing and can be done freely as part of
-stunts and descriptions.
+Moving _within_ your current range band costs nothing and can be done freely as
+part of a stunt, description, or afterthought.
 
 ## List of Combat Actions
 
-As long as you **do not attack**, you gain 5 Initiative at the end of your turn.
+You may do any of the following as a combat action.
 
 ### Attack
 
-> **Attack Action.** Do not gain 5 Initaitive at the end of your turn.
-
-You may make a [**withering** or **decisive** attack](/venture/systems/combat/attacks)
-against any enemy within range.
+You may make a [**withering** or **decisive**](/venture/systems/combat/attacks)
+attack against any enemy within range.
 
 ### Gambit
 
-> **Attack Action.** Do not gain 5 Initiative at the end of your turn.
-
-You may make a [gambit](/venture/systems/combat/gambits) to alter the
-battlefield or gain an advantage.
+You may attempt a [gambit](/venture/systems/combat/gambits) to alter the
+battlefield. A gambit counts as a **decisive** attack for all limitations and
+interactions.
 
 ### Rush
 
 You barrel toward your target to follow them as they move.
 
 Roll ([Dexterity or Strength] + Athletics) in an opposed roll against the
-target. If you win, then whenever your target moves, you reflexively move one
-range band with them, maintaining distance between the two of you. If your
-opponent moves in a way you can't -- for example, flying vertically upwards if
-you cannot fly -- then they get away.
+target. If you win, then whenever the target moves, you reflexively move one
+range band with them, holding distance between the two of you. If your opponent
+moves in a way you can't -- for example, flying vertically if you can't fly --
+then they get away and the effect ends.
 
-At the start of your next turn, if your target **did not provoke your move**,
-then you can make a free reflexive move; you can still spend your normal
-reflexive move on top of this.
+AT the start of your next turn, if you Rushed but didn't get a free move from
+it, you can take an additional reflexive move.
 
 ### Disengage
 
-You move yourself out of the way of foes, ensuring that you are
-**not obstructed by enemies**.
+You clear a path to move away from enemies.
 
-Roll ([Dexterity or Strength] + [Dodge or Athletics]) in an opposed roll against
-every enemy you are engaged with. If you beat everyone, then you instantly move
-to short range. Whenever they try to close on you, you may move one range band
-away.
+Roll ([Dexterity or Strength] + Athletics) in an opposed roll against every
+enemy you are currently engaged with. If you beat everyone, then you instantly
+withdraw to short range. Whenever they try to close on you, you may move one
+range band away.
 
-At the start of your next turn, if your target **did not provoke your move**,
-then you can make a free reflexive move; you can still spend your normal
-reflexive move on top of this.
+If you are not engaged with any enemies, you may specify a target, roll an
+opposed roll against them, and if you win, you keep your current distance.
+
+At the start of your next turn, if you Disengaged but didn't get a free move
+from it, you can take an additional reflexive move.
 
 ### Aim
 
-> **Flurry Restriction.** This action cannot be flurried with any other action.
+> **Flurry Restriction**. This action cannot be flurried with any other action.
+> **Movement Restriction**. You may not use your reflexive move this turn after
+> you take the Aim action. You must use it before, if you want to use it.
 
-You lock on to a target.
+Declare a target. Gain 3i. If you attack the target on your next turn, you get
++3 dice to hit.
 
-If you are at medium range or greater from your target, _aim_ allows you to
-attack them.
-
-If you are able to attack your target when you _aim_, gain +3 dice on your next
-attack against your target.
-
-If you move or take an action other than aiming, your aim is lost.
+An Aim action is required in order to make an attack from Medium range or
+further. In this case, the Aim action simply allows you to make the attack; it
+does not give you bonus dice to hit. In order to get the bonus dice, you must
+Aim _twice_. You still get the 3i, though.
 
 ### Defend Other
 
-Choose a target who is close to you. They become your _ward_. Whenever anyone
-would attack your ward, they have to get through you first.
+Choose a target within close range. They become your _ward_. Whenever anyone
+would attack your ward, they must get through you first.
 
-You may apply your Parry in place of the target's Defense. If the opponent
-overcomes your Parry, they attack you instead. If the opponent has enough
-successes to overcome your Parry _and_ your ward's Defense, they may choose to
-attack your ward instead.
+You may use your Parry to defend your ward whenever they are the target of an
+attack. If the opponent overcomes your Parry, then you take the attack instead
+of your ward. If the opponent is able to overcome both your Parry _and_ your
+ward's Defense, then they may choose to attack your ward.
 
 ### Draw/Ready Weapon
 
-You draw or ready a weapon to use in the fight.
+You draw or ready a weapon to use in the fight. Use this action to change
+weapons.
 
-You never need to draw or ready your **natural weapons**: fists, knees, etc.
+Your natural weapons are always ready and switching to them does not require you
+to take this action.
 
 ### Full Defense
 
-> **Flurry Restriction.** This action can only be flurried with a
-> [Social Influence](#social-influence) action.
+> **Flurry Restriction**. This action cannot be flurried except with a
+> [social influence](#social-influence) action.
+> **Movement Restriction**. You may not use your reflexive move this turn after
+> you take the Full Defense action. You must use it before, if you want to use
+> it.
 
-You gain +2 Defense until your next turn.
+You spend gain +2 Defense until your next turn.
+
+### Activate a Simple Charm
+
+> **Flurry Restriction**. This action cannot be flurried with any other action.
+
+You may activate a Simple-type Charm.
 
 ### Social Influence
 
-Your speak up or speak out. You may use any
-[social influence](/venture/systems/social-influence/) action on your turn.
+You may use any [social influence](#social-influence) action on your turn.
 
 ### Miscellaneous Action
 
-Anything else is a Miscellaneous Action. You take -1 Defense, because you are
-distracted with the other thing you are doing.
+Anything that does not fall into the above is a miscellaneous action. After you
+take a miscellaneous action, you get -1 Defense until your next turn.
 
 ## Flurries
 
-After you take your combat action, you may choose to _flurry_. A flurry costs
-3 Initiative per action, for a base total of 6 Initiative -- this can be
-mitigated to 1 Initiative if neither action is an attack, or increased to 11 if
-you Crash yourself.
+After you take your combat action, you may choose to take a second action. This
+is called a _flurry_. The second action takes a -3 penalty. The first action you
+take next turn takes a -3 penalty as well.
 
-You may not flurry two of the same action. Some actions are noted as having a
-**flurry restriction**, which applies some additional restriction.
+You may not flurry two of the same action. Some actions have a **flurry**
+**restriction**, which applies additional restrictions.

@@ -9,99 +9,125 @@ nav_order: 3
 
 # Attacks
 
-Whenever you attack, make a choice:
+When you attack, choose:
 
-- **Withering**: I am targeting my opponent's narrative control to change the
-  flow of the fight.
+- **withering**: I am targeting my opponent's narrative control to change the
+  flow of this fight; or,
 - **Decisive**: I am spending my narrative control to permanently harm my
-  target.
+  opponent.
 
-From the perspective of your character, this distinction does not exist -- it is
-a purely mechanical distinction. During the fight, you are storyboarding the
-battle, so the **withering**/**decisive** distinction lets you choose which kind
-of panel you are adding to the storyboard.
+## Diegesis
 
-## Withering Attack
+Diegetically, there is no distinction between **withering** and **decisive**
+attacks. For your character, every attack is an attack is an attack -- they are
+all intended to harm.
+
+The **withering**/**decisive** distinction is purely narrative. Imagine that the
+fight is a storyboard; the distinction asks you to choose, are you adding a
+normal fight panel, or one with a climactic blow?
+
+## **Withering** Attack
 
 A **withering** attack is a projection of killing intent. Controlling space with
-footwork, feinting to get in a strike, or forcing the enemy onto the defensive
-are all **withering** attacks.
+footwork, feinting to get a strike, or forcing the opponent onto the defensive
+are all **withering** attacks. Most cinematic fights are composed mostly of
+**withering** attacks.
 
-### Resolving a Withering Attack
+### Resolving a **Withering** Attack
 
-Roll (Dexterity + [attack skill] + Accuracy) against the target's Defense. If
-you are using a heavy weapon, you may use Strength instead of Dexterity. If you
-meet or exceed your target's Defense, you hit them.
+1. Roll (Dexterity + [combat Ability] + Accuracy) against the target's Defense.
+   The target then gains 1 Onslaught. If you succeed, proceed to step 2; if you
+   fail, end.
+2. You gain 1i for making a successful **withering** attack. Proceed to step 3.
+3. Apply your effective damage to the target's Initiative pool. Proceed to step
+   4.
+4. You gain the Initiative your target lost. If you reduced them to 0 or less,
+   you gain an additional +5 Initiative "Crash bonus." End.
 
-### Withering Damage
+### **Withering** Damage
 
-Your raw damage is (Strength + weapon damage), unless your weapon has a tag that
-uses another calculation.
+**Withering** attacks deal damage to the victim's Initiative.
 
-Subtract your target's Soak to determine your _effective damage_. Damage cannot
-be reduced below your weapon's **Overwhelming** value.
+Your _raw damage_ is (Strength + weapon damage). Then, subtract your target's
+Soak to get your _effective damage_. Your _effective damage_ cannot be
+reduced to less than your attack's Overwhelming (OVW) value.
 
-Your target loses 1 Initiative for every point of effective damage they take.
+The target loses 1i for each point of effective damage they take. You gain 1i
+for every 1i they lose, plus 1i for making a successful attack.
 
-### Withering Attack Cleanup
+### **withering** Attack Example
 
-Your target gets 1 point of Onslaught, whether you hit them or not.
+Red Crane attacks Handsome Li. Handsome Li's Defense is 4, and Red Crane rolls
+6 successes. She hits.
 
-If your attack reduces your target to 0 Initiative or less, you have
-[_Crashed_](/venture/systems/combat/status#crash) them. You gain +5 Initiative
-for seizing control of the fight.
+Her raw damage is 7 (OVW 1). Handsome Li's Soak is 2, so she deals 5 effective
+damage to him. Handsome Li loses 5i and Red Crane gains 6i.
 
-## Decisive Attack
+## **Decisive** Attack
 
-A **decisive** attack is a terrific killing blow with deadly consequences. It
-might be stabbing someone through the gut, a desperate all-or-nothing attack to
-ram your spear through his neck, or any other such attack.
+A **decisive** attack is a terrific finishing blow with deadly consequences. It
+might be stabbing someone through the gut, a desperate all-or-nothing rain of
+blows, or any other such attack that inflicts permanent harm on your target.
 
-A **decisive** attack cashes in your narrative power to deal damage. As a
-result, making a **decisive** attack leaves you temporarily vulnerable -- you
-have put yourself in danger in order to get what you want.
+In a movie, the **decisive** attacks are the ones that hit with major impact,
+the kind of blows where the camera slows down or the screen goes all wonky.
 
-### Resolving a Decisive Attack
+A **decisive** attack cashes in your narrative control (Initiative) to inflict
+permanent harm. Having done so, the flow now shifts to your opponent to respond
+-- if they survived.
 
-Declare your _commitment_. This is how much Initiative you are willing to spend
-for damage. Your commitment can range from 1 to 20. You **may** spend more
-Initiative than you have; this will Crash you, but allow you to do significantly
-more damage.
+### Resolving a **Decisive** Attack
 
-Roll (Dexterity + [attack skill] + Accuracy) against the target's Defense. If
-you are using a heavy weapon, you may use Strength instead of Dexterity. If you
-meet or exceed your target's Defense, you hit them.
+1. Roll (Dexterity + [combat Ability]) against the target's Defense. Note that
+   unlike a **withering** attack, you don't apply your Accuracy here. The target
+   gains 1 Onslaught. If you fail, proceed to step 2; if you succeed, proceed to
+   step 3.
+2. If you fail to hit your target, you lose Initiative based on how much you
+   currently have. If you have 11+ Initiative, you lose 3i for failing a
+   **decisive** attack. Otherwise, you lose 2i. End.
+3. Your raw damage is equal to your current Initiative. If your raw damage is
+   greater than your target's Hardness, proceed to step 4. If your raw damage
+   is equal to or less than your target's Hardness, proceed directly to step 5.
+4. Roll your base damage and do NOT double 10s. Every success inflicts one level
+   of damage on the opponent's health track. Proceed to step 5.
+5. You reset to [base Initiative](/venture/systems/combat/turn-order-and-initiative#base-initiative).
+   End.
 
-You immediately lose the Initiative you have committed. If this puts you at 0 or
-less, you are Crashed.
+### **Decisive** Damage
 
-### Decisive Damage
+**Decisive** attacks deal damage to the target's health track.
 
-Your base damage is equal to your commitment. Commiting 10 Initiative makes a
-base of 10 damage.
+Your attack deals _bashing_ or _lethal_ damage depending on whether the weapon
+has the Bashing or Lethal tag. Bashing damage heals quicker and, if you knock
+out an opponent with bashing damage, they are unconscious. Lethal damage heals
+more slowly and, if you knock out an opponent with lethal damage, you may choose
+to either force them into unconsciousness or put them into a dying state.
 
-Reduce this damage by your target's Initiative. This means that your attack is
-based on the relative power between you and your opponent. If they are Crashed,
-their Initiative _adds_ to your damage.
+**Hardness** is an armor trait which protects against damage. You must exceed
+a target's Hardness in order to deal damage to them. If your raw damage on a
+**decisive** attack is equal to or less than the target's Hardness, they just
+absorb your attack.
 
-If the effective damage is equal to or greater than the target's Hardness, roll
-your damage as a dice pool; **this is the only roll in _Exalted_ which does**\
-**not double 10s**. Each success inflicts 1 point of damage on your target's
-health track.
+## Defense
 
-### Lethality
+Your **Defense** is the number you use to defend against incoming attacks. Your
+Defense is the _higher_ of your Evasion and your Parry.
 
-Every fight has a _lethality_, which determines how much damage you can do in
-a single **decisive** blow. Your effective **decisive** damage cannot exceed
-the fight's lethality.
+If an attack is **unblockable**, your Defense is your Evasion, since you cannot
+parry.
 
-_The default lethality is 15_. Lethality 5 and 8 may occur in fights with a
-higher desired exchange of blows, such as a boxing match. Lethality
-_**Hisatsu**_ means no cap -- one-hit deathblows are enabled. Be careful.
+If an attack is **undodgeable**, your Defense is your Parry, since you cannot
+evade.
 
-### Decisive Attack Cleanup
+### Onslaught
 
-Your target gains 1 point of Onslaught, whether you hit them or not.
+**Onslaught** is a penalty from being attacked. Every attack you take, whether
+you are hit or it misses, increases your Onslaught by 1. This represents how
+you gradually stagger and open up by taking attacks or defending against them
+-- think about it as the equivalent of enemies staggering a little bit when you
+hit them in a video game.
 
-If the target is at 3 or less Initiative after the attack, he resets to 3
-Initiative immediately.
+Each point of Onslaught applies a -1 Defense penalty. Onslaught is also a
+resource that can be used by some Charms to pull of big finishers.
+
+Onslaught persists until the start of your next turn. Then, it goes back to 0.
