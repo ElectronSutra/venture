@@ -70,16 +70,20 @@ from it, you can take an additional reflexive move.
 ### Aim
 
 > **Flurry Restriction**. This action cannot be flurried with any other action.
-> **Movement Restriction**. You may not use your reflexive move this turn after
-> you take the Aim action. You must use it before, if you want to use it.
 
-Declare a target. Gain 3i. If you attack the target on your next turn, you get
-+3 dice to hit.
+Declare a target. You gain 3i and an _aim token_ with your target's name on it.
 
-An Aim action is required in order to make an attack from Medium range or
-further. In this case, the Aim action simply allows you to make the attack; it
-does not give you bonus dice to hit. In order to get the bonus dice, you must
-Aim _twice_. You still get the 3i, though.
+You may spend an aim token to:
+
+- Get +3 dice on an attack against the named character; or,
+- Allow yourself to make an attack on the named character from Medium range or
+  further.
+
+When you attack someone, you automatically lose all aim tokens that don't have
+his name on it. When you move, you lose all aim tokens.
+
+If you want to _both_ make an attack on the named target from Medium range or
+further _and_ get the +3 dice bonus, you will need 2 aim tokens.
 
 ### Defend Other
 

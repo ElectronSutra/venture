@@ -26,7 +26,7 @@ The **withering**/**decisive** distinction is purely narrative. Imagine that the
 fight is a storyboard; the distinction asks you to choose, are you adding a
 normal fight panel, or one with a climactic blow?
 
-## **Withering** Attack
+## **Withering** Attacks
 
 A **withering** attack is a projection of killing intent. Controlling space with
 footwork, feinting to get a strike, or forcing the opponent onto the defensive
@@ -35,35 +35,33 @@ are all **withering** attacks. Most cinematic fights are composed mostly of
 
 ### Resolving a **Withering** Attack
 
-1. Roll (Dexterity + [combat Ability] + Accuracy) against the target's Defense.
-   The target then gains 1 Onslaught. If you succeed, proceed to step 2; if you
-   fail, end.
-2. You gain 1i for making a successful **withering** attack. Proceed to step 3.
-3. Apply your effective damage to the target's Initiative pool. Proceed to step
-   4.
-4. You gain the Initiative your target lost. If you reduced them to 0 or less,
-   you gain an additional +5 Initiative "Crash bonus." End.
+1. Roll ([Strength or Dexterity] + [combat Ability] + Accuracy) against the
+   target's Defense. Your target gains 1 Onslaught. If you succeeded, proceed
+   to step 2. If you failed, end.
+2. The attack's _raw damage_ is equal to (Strength + weapon Damage). Proceed to
+   step 3.
+3. Subtract the target's Soak from the raw damage to get the _effective damage_.
+   An attack's effective damage cannot be reduced to less than the weapon's
+   Overwhelming. Roll the _effective damage_ as a pool and proceed to step 4.
+4. Gain 1i for landing a successful attack. Then, for each success you rolled on
+   the effective damage roll, your opponent loses 1i and you gain 1i. End.
 
-### **Withering** Damage
+### Crash
 
-**Withering** attacks deal damage to the victim's Initiative.
+If your attack reduces a target to 0 or less Initiative, you have "Crashed"
+them. Your target gains the [Crashed](/systems/combat/status#crashed) status.
 
-Your _raw damage_ is (Strength + weapon damage). Then, subtract your target's
-Soak to get your _effective damage_. Your _effective damage_ cannot be
-reduced to less than your attack's Overwhelming (OVW) value.
+If you force an opponent into Crash, you gain a _Break bonus_ of +5i, on top of
+the regular Initiative you gain.
 
-The target loses 1i for each point of effective damage they take. You gain 1i
-for every 1i they lose, plus 1i for making a successful attack.
+### Shift
 
-### **withering** Attack Example
+If you can Crash the person who forced you into Crash, you not only gain the
+regular Break bonus for forcing someone into Crash. You become
+[Shifted](/systems/combat/status#shifted), which lets you roll Join Battle again
+to gain _even more_ Initiative. A powerful bonus!
 
-Red Crane attacks Handsome Li. Handsome Li's Defense is 4, and Red Crane rolls
-6 successes. She hits.
-
-Her raw damage is 7 (OVW 1). Handsome Li's Soak is 2, so she deals 5 effective
-damage to him. Handsome Li loses 5i and Red Crane gains 6i.
-
-## **Decisive** Attack
+## **Decisive** Attacks
 
 A **decisive** attack is a terrific finishing blow with deadly consequences. It
 might be stabbing someone through the gut, a desperate all-or-nothing rain of
@@ -78,56 +76,48 @@ permanent harm. Having done so, the flow now shifts to your opponent to respond
 
 ### Resolving a **Decisive** Attack
 
-1. Roll (Dexterity + [combat Ability]) against the target's Defense. Note that
-   unlike a **withering** attack, you don't apply your Accuracy here. The target
-   gains 1 Onslaught. If you fail, proceed to step 2; if you succeed, proceed to
-   step 3.
-2. If you fail to hit your target, you lose Initiative based on how much you
-   currently have. If you have 11+ Initiative, you lose 3i for failing a
-   **decisive** attack. Otherwise, you lose 2i. End.
-3. Your raw damage is equal to your current Initiative. If your raw damage is
-   greater than your target's Hardness, proceed to step 4. If your raw damage
-   is equal to or less than your target's Hardness, proceed directly to step 5.
-4. Roll your base damage and do NOT double 10s. Every success inflicts one level
-   of damage on the opponent's health track. Proceed to step 5.
-5. You reset to [base Initiative](/venture/systems/combat/turn-order-and-initiative#base-initiative).
+1. Roll (Dexterity + [combat Ability]) against the target's Defense -- note that
+   you are _not_ adding Accuracy (but don't worry, Lot-Casting Atemi does this
+   for you automatically). Your target gains 1 Onslaught. If you failed, proceed
+   to step 2. If you succeeded, proceed to step 3.
+2. If you fail your attack roll, you lose a bit of Initiative. If you have 11+
+   Initiative, you lose 3. Otherwise, you lose 2. End.
+3. If you succeed on your attack roll, your _raw damage_ is a pool of dice equal
+   to your current Initiative. Check your target's Hardness. If your raw damage
+   is greater than your target's Harndess, proceed to step 4. If your raw damage
+   is equal to or less than your target's Hardness, proceed immediately to step
+   5.
+4. Roll your raw damage as a dice pool. DO NOT DOUBLE 10s -- this is the only
+   roll in _Exalted_ that, by default, does not double 10s. Each success you
+   roll inflicts 1 level of damage to the opponent's health track.
+5. Reset to [base Initiative](/systems/combat/turn-order-and-initiative#base-initiative).
    End.
-
-### **Decisive** Damage
-
-**Decisive** attacks deal damage to the target's health track.
-
-Your attack deals _bashing_ or _lethal_ damage depending on whether the weapon
-has the Bashing or Lethal tag. Bashing damage heals quicker and, if you knock
-out an opponent with bashing damage, they are unconscious. Lethal damage heals
-more slowly and, if you knock out an opponent with lethal damage, you may choose
-to either force them into unconsciousness or put them into a dying state.
-
-**Hardness** is an armor trait which protects against damage. You must exceed
-a target's Hardness in order to deal damage to them. If your raw damage on a
-**decisive** attack is equal to or less than the target's Hardness, they just
-absorb your attack.
 
 ## Defense
 
-Your **Defense** is the number you use to defend against incoming attacks. Your
-Defense is the _higher_ of your Evasion and your Parry.
+Every character has two methods to avoid harm: she can get out of the way, or
+she can try to block the attack.
 
-If an attack is **unblockable**, your Defense is your Evasion, since you cannot
-parry.
+Your **Evasion** represents your ability to get out of the way.
 
-If an attack is **undodgeable**, your Defense is your Parry, since you cannot
-evade.
+Your **Parry** depends on your current weapon, and represents your ability to
+block an incoming attack.
+
+Your **Defense** is the higher of your Evasion and your Parry. This is the
+difficulty to hit you. You are always assumed to use your _best_ available
+defense against all incoming attacks.
 
 ### Onslaught
 
-**Onslaught** is a penalty from being attacked. Every attack you take, whether
-you are hit or it misses, increases your Onslaught by 1. This represents how
-you gradually stagger and open up by taking attacks or defending against them
--- think about it as the equivalent of enemies staggering a little bit when you
-hit them in a video game.
+**Onslaught** is a penalty you get from being attacked, regardless of whether
+the attack hits or misses. In the narrative, this is meant to represent
+"stagger" or "beatdown" -- it is supposed to represent the fatigue of defending
+against several incoming attacks without being able to catch your breath.
 
-Each point of Onslaught applies a -1 Defense penalty. Onslaught is also a
-resource that can be used by some Charms to pull of big finishers.
+Each point of Onslaught reduces your Defense by 1. Onslaught is also used as a
+resource for some Charms and techniques.
 
-Onslaught persists until the start of your next turn. Then, it goes back to 0.
+Your Onslaught resets at _the start of your turn_. Note that this means that if
+your opponent is able to act _after_ you one round and _before_ you the next,
+they can capitalize on your Onslaught before it has a chance to reset -- a
+mean trick.

@@ -25,7 +25,3 @@ _viewing_, which is the important part. Similarly, in _Exalted_, the focus is
 not on realism -- the focus is on _theater_. IF you can think of cool
 flourishes, crazy flips, ridiculous boasts... All of those things belong on the
 battlefield.
-
-This system, called _Hissatsu_ ("certain kill"), is a homebrew alternative to
-the core _Exalted 3rd Edition_ combat engine, borrowing many good ideas and
-adding some of its own. _Hissatsu_ was designed and tested by Lumi.
