@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Linguistics Charms
-permalink: /systems/abilities/linguistics/
+permalink: /charms/abilities/linguistics/
 parent: Ability Charms
 grand_parent: Charms
 nav_order: 11
