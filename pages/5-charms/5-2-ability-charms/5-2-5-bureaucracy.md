@@ -206,10 +206,10 @@ _of dead boats. Only diving down can reveal which._
 
 Choose one:
 
-- POVERTY: Others perceive you as completely destitute, as if you had Resources
-  0. If you have obvious objects of finery, they perceive you as if you had
-  Resources-1.
-- WEALTHY: Others perceive you as if you had Resources+1. If your Resources is
+- POVERTY: Others perceive you as completely destitute, as if you had
+  Resources 0. If you have obvious objects of finery, they perceive you as if
+  you had Resources-1.
+- WEALTHY: Others perceive you as if you had Resources 5. If your Resources is
   already 5, you are perceived to unimaginably wealthy.
 
 You may leverage this imaginary status as thought it were a Minor Intimacy.
