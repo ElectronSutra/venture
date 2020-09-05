@@ -112,18 +112,19 @@ your best interests.
 
 > **Cost**: 2m, 1wp; **Mins**: Bureaucracy 4, Essence 2
 >
-> **Type**: Supplemental (Project roll); **Duration**: One task
+> **Type**: Simple; **Duration**: Instant
 >
-> **Keywords**: Water
+> **Keywords**: Restriction (1/project), Water
 >
 > **Prerequisite Charms**: [Benevolent Master's Blessing](#benevolent-masters-blessing)
 
 _The power of your leadership is a tsunami wave that clears obstacles to_
 _progress._
 
-Multiply the speed of the project by (highest of Charisma, Manipulation, or
-Intelligence). This cannot speed a task that would normally take longer than
-(Essence) years.
+Mark a milestone on a project you are orchestrating. Immediately gain (highest
+of Charisma, Manipulation, or Intelligence) Progress (instead of the base 5
+progress you get for marking a Milestone). This cannot be used to speed a
+project that would normally take more than (Essence) years to complete.
 
 ***
 
