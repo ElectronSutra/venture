@@ -2,7 +2,7 @@
   "name": "venture",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "NODE_ENV=production eleventy --pathprefix 'venture'"
   },
   "repository": {
     "type": "git",
@@ -10,7 +10,6 @@
   },
   "homepage": "https://electronsutra.github.io/venture/",
   "description": "Homebrew, content, and more for Exalted 3e",
-  "type": "module",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
   }
