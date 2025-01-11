@@ -6,14 +6,18 @@
                 <li>
                     <a href="/">Home</a>
                 </li>
+
                 <li>
                     <p _="install menuToggle" class="prevent-selection">
                         <b>The Realm</b>
                         <span class=""></span>
                     </p>
                     <ul class="margin"
-                        {% if active == 'The Realm' %}style=""{% else %}style="display: none;"{% endif %}
-                        role="list">
+                        role="list"
+                        {% if active == 'The Realm' %}style=""{% else %}style="display: none;"{% endif %}>
+                        <li>
+                            <a href="/the-realm/">Overview</a>
+                        </li>
                         <li>
                             <a href="/the-realm/great-houses/">The Great Houses</a>
                         </li>

@@ -1,5 +1,6 @@
 ---
 title: The Realm
+category: The Realm
 permalink: /the-realm/
 ---
 
