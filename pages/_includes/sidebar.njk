@@ -1,0 +1,46 @@
+{% macro sidebar(active) %}
+    <header>
+        <h1>Venture</h1>
+        <nav>
+            <ul role="list">
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <p _="install menuToggle" class="prevent-selection">
+                        <b>The Realm</b>
+                        <span class=""></span>
+                    </p>
+                    <ul class="margin"
+                        {% if active == 'The Realm' %}style=""{% else %}style="display: none;"{% endif %}
+                        role="list">
+                        <li>
+                            <a href="/the-realm/great-houses/">The Great Houses</a>
+                        </li>
+                        <li>
+                            <a href="#">Dynastic Society</a>
+                        </li>
+                        <li>
+                            <a href="#">Immaculacy</a>
+                        </li>
+                        <li>
+                            <a href="#">Military Organization of the Realm</a>
+                        </li>
+                        <li>
+                            <a href="#">History</a>
+                        </li>
+                        <li>
+                            <a href="#">Law and Order</a>
+                        </li>
+                        <li>
+                            <a href="#">Sex, Gender, Love, and Family</a>
+                        </li>
+                        <li>
+                            <a href="#">Entertainment</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+{% endmacro %}
