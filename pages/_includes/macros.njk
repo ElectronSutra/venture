@@ -48,3 +48,17 @@
         </nav>
     </header>
 {% endmacro %}
+
+{% macro h1(title) %}
+    <h1 id="{{ title|slugify }}">
+        <a href="#{{ title|slugify }}" class="permalink-anchor float:right">§</a>
+        {{ title }}
+    </h1>
+{% endmacro %}
+
+{% macro h2(title) %}
+    <h2 id={{ title|slugify }}>
+        <a href="#{{ title|slugify }}" class="permalink-anchor float:right">§</a>
+        {{ title }}
+    </h2>
+{% endmacro %}

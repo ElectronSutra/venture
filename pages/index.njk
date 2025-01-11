@@ -1,0 +1,57 @@
+---
+title: Home
+---
+
+{% extends "template.njk" %}
+{% import "macros.njk" as macros %}
+
+{% block content %}
+    {{ macros.h1("Homebrew and Setting Content for Exalted 3rd Edition") }}
+
+    <p>
+        Welcome to Venture, a website I created and maintain for sharing my <i>Exalted</i> third edition content.
+    </p>
+
+    <p>
+        This website started life as a campaign website for a specific Dragon-Blooded game I was running for some of my
+        friends. That game is long since concluded; we called it "Venture" for lack of a better name. Now, this site is
+        a repository of the many words I have written in relation to Creation, the Dragon-Blooded, and my other work
+        for Exalted content.
+    </p>
+
+    <div class="box">
+        <strong class="block titlebar">Sutra says...</strong>
+        <p>
+            A little box like this is an indication that I, Sutra, the author of the material, am speaking directly to
+            you, the Reader.
+        </p>
+    </div>
+
+    {{ macros.h2("Resources") }}
+
+    <ul>
+        <li>
+            <a href="https://discord.gg/YfA5apWk2Z">The Exalted Fan Discord;</a>
+        </li>
+        <li>
+            <a href="https://www.lotcastingatemi.com/">Lot Casting Atemi</a>, a character management tool;
+        </li>
+        <li>
+            Technical resources for this website: <a href="https://www.11ty.dev/">11ty</a>,
+            <a href="https://hyperscript.org/">hyperscript</a>, and <a href="https://missing.style/">missing.css</a>
+        </li>
+    </ul>
+
+    {{ macros.h2("About me") }}
+
+    <p>
+        My general internet name is Sutra. I started playing Exalted when I was 13 years old and have been in love
+        with the franchise ever since. I am very active on the Exalted Discord where you can ping me as
+        <code>@ElectronSutra</code> if you have any questions or comments. I do not use other social media, so Discord
+        is really the best way to reach me.
+    </p>
+
+    <p>
+        If you notice a typo or other easy fix, please consider submitting a PR at the site's <a href="https://github.com/ElectronSutra/venture">repo on GitHub.</a>
+    </p>
+{% endblock content %}
