@@ -1,0 +1,69 @@
+---
+title: Great Houses
+category: The Realm
+permalink: /the-realm/great-houses/
+---
+
+{% extends "template.njk" %}
+{% import "macros.njk" as macros %}
+
+{% block content %}
+    <nav class="breadcrumbs" aria-label="Breadcrumbs">
+        <ol>
+            <li>
+                <a href="/the-realm/">The Realm</a>
+            </li>
+            <li>
+                <b>The Great Houses</b>
+            </li>
+        </ol>
+    </nav>
+
+    {{ macros.h1("Great Houses") }}
+
+    <p>
+        The Realm is ruled by the ten Great Houses, appointed by the mandate of the
+        Empress herself. The Great Houses are much more than just families &mdash;
+        each one is a collection of dozens of families and bloodlines united into
+        a massive political entity. Even the smallest Great House, V'neef, numbers
+        hundreds of Dragon-Blooded in its roster.
+    </p>
+
+    {{ macros.h2("The Houses") }}
+
+    <div class="grid">
+         <a data-cols="1" data-cols@s="1" href=""><img src="../../assets/house_mons/cathak.png" alt="House Cathak"></a>
+         <a data-cols="2" data-cols@s="2" href=""><img src="../../assets/house_mons/cynis.png" alt="House Cynis"></a>
+         <a data-cols="3" data-cols@s="3" href=""><img src="../../assets/house_mons/ledaal.png" alt="House Ledaal"></a>
+         <a data-cols="4" data-cols@s="4" href=""><img src="../../assets/house_mons/mnemon.png" alt="House Mnemon"></a>
+         <a data-cols="5" data-cols@s="5" href=""><img src="../../assets/house_mons/nellens.png" alt="House Nellens"></a>
+         <a data-cols="6" data-cols@s="1" href=""><img src="../../assets/house_mons/peleps.png" alt="House Peleps"></a>
+         <a data-cols="7" data-cols@s="2" href=""><img src="../../assets/house_mons/ragara.png" alt="House Ragara"></a>
+         <a data-cols="8" data-cols@s="3" href=""><img src="../../assets/house_mons/sesus.png" alt="House Sesus"></a>
+         <a data-cols="9" data-cols@s="4" href=""><img src="../../assets/house_mons/tepet.png" alt="House Tepet"></a>
+        <a data-cols="10" data-cols@s="5" href=""><img src="../../assets/house_mons/vneef.png" alt="House V'neef"></a>
+    </div>
+
+    {{ macros.h2("History") }}
+
+    <p>
+        The Empress established the first Great Houses in RY 103. Of the initial
+        Houses, only Tepet and Peleps remain; the others have long since been disbanded
+        after ignominious failures or open rebellion.
+    </p>
+    <p>
+        House Jerah was disbanded for violating precepts against disturbing the Realm
+        Before; House Manosque was disbanded after a failed assassination against the
+        Empress; Houses Burano and Ophris were exiled to the satrapy of Prasad after
+        public failures. Other failed Houses dot the history of the Realm like stains
+        on a serpent's scales.
+    </p>
+    <p>
+        The most recent House to be destroyed was House Iselsi, torn up and broken
+        about a century ago. After a failed attempt to invade the Scavenger Lands,
+        House Iselsi attempted to gather support for an assassination. The Empress
+        destroyed them when she found out, executing most or forcing them to marry into
+        other Houses under new names.
+    </p>
+
+{% endblock content %}
